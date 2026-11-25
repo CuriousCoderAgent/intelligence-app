@@ -1,0 +1,18 @@
+[
+  {
+    "id": "tech-magnetic-stripe-card",
+    "title": "A swipe card stores data in a strip of magnetic tape",
+    "body": "In the early 1960s IBM engineer Forrest Parry developed a way to attach magnetic tape to a plastic card. Tiny magnetic particles in the strip can hold a pattern that a reader picks up as the card moves past it.",
+    "takeaway": "A pocket-sized card can carry data without a battery or moving parts of its own.",
+    "source": "IBM, The Magnetic Stripe",
+    "visual": "a plain plastic card with a dark magnetic strip passing through a reader slot"
+  },
+  {
+    "id": "tech-jacquard-loom-cards",
+    "title": "Punched paper cards once controlled woven patterns",
+    "body": "A Jacquard loom uses a chain of punched cards to control which threads rise for each pass across the loom. A hole or solid spot changes which threads the mechanism lifts.",
+    "takeaway": "Changing the set of cards lets the same machine weave a different pattern.",
+    "source": "Computer History Museum, Jacquard Loom and Punched Cards",
+    "visual": "a chain of punched loom cards curling above taut threads"
+  }
+]

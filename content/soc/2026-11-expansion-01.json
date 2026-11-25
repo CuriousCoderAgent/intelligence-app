@@ -1,0 +1,26 @@
+[
+  {
+    "id": "soc-friendship-paradox",
+    "title": "Popular friends appear in more people's circles",
+    "body": "In 1991 sociologist Scott Feld described a quirk of friendship networks. A person with 40 friends appears in 40 other people's circles, while someone with one friend appears in only one. That tilts the average friend count upwards when you sample friends.",
+    "takeaway": "Friends can give you a skewed picture of how connected the typical person is.",
+    "source": "Scott Feld, American Journal of Sociology (1991)",
+    "visual": "a network of dots with many threads meeting at a single bright node"
+  },
+  {
+    "id": "soc-criminal-record-audit",
+    "title": "A record halved callbacks in one Milwaukee hiring test",
+    "body": "In Devah Pager's 2003 field study, matched testers applied for entry-level jobs in Milwaukee. Among white testers, 34% of applications without a criminal record got a callback, compared with 17% of those assigned a record.",
+    "takeaway": "Sending matched applicants helps isolate a hiring barrier that employment totals alone cannot show.",
+    "source": "Devah Pager, American Journal of Sociology (2003)",
+    "visual": "a pair of plain application folders on a hiring desk"
+  },
+  {
+    "id": "soc-exposure-and-friendship",
+    "title": "Sharing a school does not guarantee cross-income friendships",
+    "body": "In 2022 researchers studied 21 billion Facebook friendship links in the United States. For people with lower incomes, the gap in friendships across income groups reflected both whom they encountered and whom they befriended among those they met.",
+    "takeaway": "Mixing students in the same building and giving them chances to interact are different tasks.",
+    "source": "Chetty et al., Social Capital II, Nature (2022)",
+    "visual": "a school courtyard with small groups sitting separately on long benches"
+  }
+]
