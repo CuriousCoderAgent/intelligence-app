@@ -1,0 +1,82 @@
+[
+  {
+    "id": "soc-contact-hypothesis",
+    "title": "Meeting people from another group usually reduces prejudice",
+    "body": "A review pooled 515 studies involving over 250,000 people in 38 countries. In 94% of the samples, more contact between groups went with less prejudice. The effect was strongest when the groups met as equals and worked towards a shared goal.",
+    "takeaway": "Hostility between groups feeds on distance. Mixed schools, teams and neighbourhoods do measurable good.",
+    "source": "Pettigrew & Tropp, Journal of Personality and Social Psychology (2006)",
+    "visual": "two groups of people in differently coloured clothes building a wooden bridge together from opposite banks of a stream"
+  },
+  {
+    "id": "soc-half-world-23-languages",
+    "title": "Half of humanity speaks just 23 languages",
+    "body": "There are more than 7,000 living languages. Only 23 of them are the mother tongues of over half the world's people. At the other end, thousands of languages have fewer than 1,000 speakers each.",
+    "takeaway": "Several of the 23 are Indian, among them Hindi, Bengali, Marathi, Telugu and Tamil.",
+    "source": "Ethnologue: Languages of the World (2024)",
+    "visual": "a huge crowd seen from above in which a few broad bands of colour dominate and many tiny patches of other colours dot the edges"
+  },
+  {
+    "id": "soc-literacy-rise",
+    "title": "In 1820 one person in eight could read. Now seven in eight can.",
+    "body": "About 12% of the world's people were literate in 1820. Today about 87% of adults are. In India the rate rose from 18% at the 1951 census to about 77% by 2018. Most of the people who cannot read today are older adults and women in the poorest regions.",
+    "takeaway": "Mass schooling is one of the fastest social changes in history, and it is barely two centuries old.",
+    "source": "Our World in Data; UNESCO Institute for Statistics",
+    "visual": "an elderly woman and a small girl sitting together on a doorstep, both reading from the same open book"
+  },
+  {
+    "id": "soc-friendship-paradox",
+    "title": "Your friends probably have more friends than you do",
+    "body": "A sociologist proved in 1991 that this is true for most people in any social network. Popular people appear in many friend lists, so they are over-counted when you look at your own. A 2011 study of Facebook found the average user had 190 friends, while their friends averaged 635.",
+    "takeaway": "The people you compare yourself with are not a fair sample. Feeling less popular than your friends is built into the maths.",
+    "source": "Scott Feld, American Journal of Sociology (1991); Ugander et al. (2011)",
+    "visual": "a person looking at a web of connected figures in which a few brightly lit figures have far more links than all the rest"
+  },
+  {
+    "id": "soc-tipping-point-25-percent",
+    "title": "A committed quarter of a group can overturn its norms",
+    "body": "In online experiments, groups settled on a shared convention. Researchers then planted a minority who pushed a new one. When the minority was below 25% of the group it failed. At about 25% and above, the whole group switched within a short time.",
+    "takeaway": "A norm can look fixed until just before it changes. A persistent minority need not be large.",
+    "source": "Centola, Becker, Brackbill & Baronchelli, Science (2018)",
+    "visual": "a large flock of birds flying one way with a smaller tight group turning, and the rest beginning to follow"
+  },
+  {
+    "id": "soc-kitty-genovese",
+    "title": "The murder story behind the bystander effect was exaggerated",
+    "body": "In 1964 a New York newspaper reported that 38 people watched Kitty Genovese being killed and did nothing. Later research found that few witnesses saw the attack clearly, at least one called the police, and a neighbour held her as she died.",
+    "takeaway": "The newspaper acknowledged the flaws in 2016. The experiments the story inspired still hold up; the story itself does not.",
+    "source": "Manning, Levine & Collins, American Psychologist (2007)",
+    "visual": "a 1960s apartment block at night with a few lit windows, an old newspaper lying on the wet pavement below"
+  },
+  {
+    "id": "soc-india-median-age",
+    "title": "Half of India is under 29",
+    "body": "India became the world's most populous country in 2023, and its median age is about 28. China's is about 40 and Japan's about 49. Around two thirds of Indians are under 35.",
+    "takeaway": "A young population can power decades of growth, but only if there are enough schools, skills and jobs for it.",
+    "source": "UN World Population Prospects (2024)",
+    "visual": "a crowded Indian college courtyard full of students with backpacks and bicycles in morning light"
+  },
+  {
+    "id": "soc-wisdom-of-crowds",
+    "title": "A crowd guessed the weight of an ox almost exactly",
+    "body": "At an English country fair in 1906, 787 people paid to guess the weight of an ox once slaughtered and dressed. The statistician Francis Galton collected the tickets. The middle guess was 1,207 pounds. The true weight was 1,198.",
+    "takeaway": "Many independent guesses can cancel each other's errors. It fails when people copy one another.",
+    "source": "Francis Galton, Nature (1907)",
+    "visual": "an Edwardian country fair with a crowd gathered around a large ox in a pen, people writing on slips of paper"
+  },
+  {
+    "id": "soc-social-loafing",
+    "title": "People pull less hard when others pull with them",
+    "body": "A French engineer, Max Ringelmann, measured how hard men pulled on a rope. Alone, each pulled at full strength. In a team of eight, each pulled at about half of it. Later experiments with clapping and shouting found the same drop, and named it social loafing.",
+    "takeaway": "Effort falls when individual contributions cannot be seen. Make each person's part visible.",
+    "source": "Max Ringelmann (1913); Latané, Williams & Harkins, Journal of Personality and Social Psychology (1979)",
+    "visual": "a team of men hauling on a long thick rope, those at the front straining hard and those at the back barely gripping it"
+  },
+  {
+    "id": "soc-minimal-groups",
+    "title": "People favour their own group even when the group means nothing",
+    "body": "In 1971 schoolboys in Bristol were told they had been sorted by which of two painters they preferred. In fact the split was random. Asked to share out money, they gave more to their own group, and often chose to widen the gap over getting more in total.",
+    "takeaway": "It takes almost nothing to create us and them. Be wary of how easily a label becomes a loyalty.",
+    "source": "Tajfel, Billig, Bundy & Flament, European Journal of Social Psychology (1971)",
+    "visual": "two groups of schoolboys wearing badges of two different colours eyeing each other across a classroom"
+  }
+]

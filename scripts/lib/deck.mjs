@@ -35,6 +35,7 @@ const normalise = (text) => text.toLowerCase().replace(/[^a-z0-9]+/g, ' ').trim(
  *   topics: {id: string, name: string, ground: string, accent: string, palette: string, motif: string}[],
  *   packs: {topic: string, file: string, ids: string[]}[],
  *   facts: {id: string, category: string, pack: string, title: string, body: string, takeaway: string, source: string, visual: string}[],
+ *   retired: {id: string, reason: string, replacedBy?: string}[],
  *   problems: string[],
  * }}
  */
@@ -64,6 +65,17 @@ export function loadDeck() {
     }
     if (topic.motif && !MOTIFS.includes(topic.motif)) problems.push(`${label}: motif "${topic.motif}" is not one of ${MOTIFS.join(', ')}`)
   }
+
+  // ---- Retired cards ----
+  // Cards are never deleted, because ids are permanent. A card that should no
+  // longer be shown (a duplicate, or a fact that turned out to be wrong and
+  // cannot be fixed) is listed in content/retired.json instead. It stays in its
+  // pack, its id stays reserved, and the app simply stops dealing it.
+  const retiredFile = join(CONTENT_DIR, 'retired.json')
+  const rawRetired = existsSync(retiredFile) ? readJson(retiredFile, problems, 'retired.json') : []
+  const retired = Array.isArray(rawRetired) ? rawRetired : []
+  if (rawRetired !== undefined && !Array.isArray(rawRetired)) problems.push('retired.json: must be an array')
+  const retiredIds = new Set(retired.map((entry) => entry?.id))
 
   // ---- Packs ----
   const packs = []
@@ -129,12 +141,12 @@ export function loadDeck() {
           if (seenIds.has(card.id)) fail(`duplicate id, already used in ${seenIds.get(card.id)}`)
           else seenIds.set(card.id, where)
         }
-        if (typeof card.title === 'string') {
+        if (typeof card.title === 'string' && !retiredIds.has(card.id)) {
           const key = normalise(card.title)
           if (seenTitles.has(key)) fail(`duplicate title, same as ${seenTitles.get(key)}`)
           else seenTitles.set(key, `${card.id} in ${where}`)
         }
-        if (!ok) continue
+        if (!ok || retiredIds.has(card.id)) continue
         ids.push(card.id)
         facts.push({ ...card, category: dir, pack: file })
       }
@@ -142,13 +154,27 @@ export function loadDeck() {
     }
   }
 
+  for (const [i, entry] of retired.entries()) {
+    const label = `retired.json[${i}]${entry?.id ? ` (${entry.id})` : ''}`
+    if (typeof entry?.id !== 'string' || !seenIds.has(entry.id)) problems.push(`${label}: "id" must be the id of an existing card`)
+    if (typeof entry?.reason !== 'string' || entry.reason.trim().length < 10) problems.push(`${label}: "reason" must say why the card was retired`)
+    if (entry?.replacedBy !== undefined) {
+      if (!seenIds.has(entry.replacedBy)) problems.push(`${label}: "replacedBy" must be the id of an existing card`)
+      else if (retiredIds.has(entry.replacedBy)) problems.push(`${label}: "replacedBy" points at a card that is itself retired`)
+    }
+    for (const key of Object.keys(entry ?? {})) {
+      if (!['id', 'reason', 'replacedBy'].includes(key)) problems.push(`${label}: unknown field "${key}"`)
+    }
+  }
+  if (new Set(retired.map((entry) => entry?.id)).size !== retired.length) problems.push('retired.json: the same id is listed twice')
+
   for (const topic of topics) {
     if (topic?.id && !packs.some((pack) => pack.topic === topic.id && pack.ids.length)) {
       problems.push(`topics.json (${topic.id}): topic has no cards. Add content/${topic.id}/<pack>.json`)
     }
   }
 
-  return { topics, packs, facts, problems }
+  return { topics, packs, facts, retired, problems }
 }
 
 /** Loads the deck, or prints every problem and exits. For scripts. */

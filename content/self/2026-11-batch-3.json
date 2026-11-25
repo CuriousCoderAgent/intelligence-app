@@ -1,0 +1,82 @@
+[
+  {
+    "id": "self-gratitude-lists",
+    "title": "Writing down what you are grateful for changed how people felt",
+    "body": "For ten weeks, one group of students listed five things each week that they were grateful for, and another listed five hassles. The gratitude group ended up more optimistic, reported fewer physical complaints, and exercised about an hour and a half more per week.",
+    "takeaway": "Once a week was enough in this study. The habit works by changing what you notice.",
+    "source": "Emmons & McCullough, Journal of Personality and Social Psychology (2003)",
+    "visual": "an open notebook with a short handwritten list on a windowsill at sunrise, a cup of tea steaming beside it"
+  },
+  {
+    "id": "self-sunk-cost-theatre",
+    "title": "People use something more when they paid more for it",
+    "body": "A university theatre sold season tickets at random at full price or at a discount. Everyone got the same seats to the same plays. Those who had paid full price came to more of the early performances than those who had paid less.",
+    "takeaway": "Money already spent cannot be recovered. Decide by what the next hour or rupee will bring, not by what is gone.",
+    "source": "Arkes & Blumer, Organizational Behavior and Human Decision Processes (1985)",
+    "visual": "a half-empty theatre at night with one figure sitting stiffly in the stalls, clutching a ticket"
+  },
+  {
+    "id": "self-jam-choice-overload",
+    "title": "The famous finding that too much choice paralyses us is shaky",
+    "body": "In a 2000 experiment, shoppers offered 24 jams to taste bought far less often than shoppers offered 6: 3% against 30%. But a 2010 review of 50 similar experiments found that, on average, the number of options made almost no difference.",
+    "takeaway": "More choice sometimes overwhelms and sometimes helps. One striking study does not settle a question.",
+    "source": "Iyengar & Lepper (2000); Scheibehenne, Greifeneder & Todd, Journal of Consumer Research (2010)",
+    "visual": "a long market table crowded with dozens of jars of jam in rich colours, a single shopper standing undecided before it"
+  },
+  {
+    "id": "self-exercise-hippocampus",
+    "title": "A year of brisk walking made a memory centre of the brain grow",
+    "body": "In a trial of 120 older adults, half walked for 40 minutes three times a week and half did stretching. After a year the walkers' hippocampus, a region vital for memory, was about 2% larger. In the stretching group it had shrunk by about 1.4%.",
+    "takeaway": "The gain was roughly equal to reversing one to two years of age-related loss.",
+    "source": "Erickson et al., Proceedings of the National Academy of Sciences (2011)",
+    "visual": "an older couple walking briskly on a park path at dawn, with a faint glowing seahorse-shaped form above them"
+  },
+  {
+    "id": "self-nasa-nap",
+    "title": "A 26-minute nap made pilots a third sharper",
+    "body": "NASA let long-haul pilots take a planned rest of 40 minutes in the cockpit while a colleague flew. They slept for 26 minutes on average. Compared with pilots who had no rest, their performance was 34% better and their alertness 54% higher.",
+    "takeaway": "A short nap can restore attention. Keeping it under half an hour avoids waking up groggy from deep sleep.",
+    "source": "Rosekind et al., NASA Technical Memorandum 108839 (1994)",
+    "visual": "a pilot resting with eyes closed in a dim cockpit above the clouds while a co-pilot watches the instruments"
+  },
+  {
+    "id": "self-growth-mindset-study",
+    "title": "A one-hour lesson raised struggling students' grades, slightly",
+    "body": "More than 12,000 American ninth-graders took a short online course teaching that ability grows with effort and good strategies. Among lower-achieving students, grades rose by about a tenth of a grade point. It worked best in schools where trying hard was the norm.",
+    "takeaway": "Believing you can improve helps a little, and only where the surroundings support the effort. It is no magic switch.",
+    "source": "Yeager et al., Nature (2019)",
+    "visual": "a student at a desk looking at a small seedling growing out of an open textbook, classroom light behind"
+  },
+  {
+    "id": "self-media-multitasking",
+    "title": "Heavy multitaskers are worse at multitasking",
+    "body": "Stanford researchers compared students who habitually used several media at once with students who rarely did. The heavy multitaskers were worse at ignoring irrelevant information and, surprisingly, slower at switching between tasks.",
+    "takeaway": "Juggling streams of information does not train focus. It may train distraction.",
+    "source": "Ophir, Nass & Wagner, Proceedings of the National Academy of Sciences (2009)",
+    "visual": "a person surrounded by many floating glowing screens, their attention visibly splitting into thin threads toward each one"
+  },
+  {
+    "id": "self-highlighting",
+    "title": "Highlighting is one of the least effective ways to study",
+    "body": "A 2013 review rated ten popular study techniques against decades of evidence. Highlighting, rereading and summarising were rated low. Only two were rated high: testing yourself, and spreading study sessions out over time.",
+    "takeaway": "The methods that feel smooth are often the weakest. Pick the ones that make you retrieve the material.",
+    "source": "Dunlosky et al., Psychological Science in the Public Interest (2013)",
+    "visual": "a textbook page almost entirely covered in bright highlighter strokes, a neglected stack of blank flashcards beside it"
+  },
+  {
+    "id": "self-commitment-contract",
+    "title": "Smokers who bet their own money on quitting quit more often",
+    "body": "In the Philippines, smokers were offered a bank account to deposit money into for six months. If a urine test then showed they had quit, they got it back. If not, it went to charity. Those offered the account were 3 percentage points more likely to pass, a gain of over 30%.",
+    "takeaway": "A commitment device makes the future cost of giving up arrive today.",
+    "source": "Giné, Karlan & Zinman, American Economic Journal: Applied Economics (2010)",
+    "visual": "a glass savings jar of coins with a padlock on its lid on a kitchen table, an unlit cigarette lying next to it"
+  },
+  {
+    "id": "self-nature-walk-attention",
+    "title": "A walk among trees restored attention. A walk in town did not.",
+    "body": "Volunteers took a demanding memory test, then walked for about 50 minutes either through a tree-filled park or along busy city streets. On retesting, the park walkers improved by about 20%. The city walkers did not improve.",
+    "takeaway": "Natural scenes hold your attention gently and let directed focus recover. Streets keep demanding it.",
+    "source": "Berman, Jonides & Kaplan, Psychological Science (2008)",
+    "visual": "a footpath splitting in two, one branch into a quiet sunlit woodland and the other into a noisy traffic-filled street"
+  }
+]
