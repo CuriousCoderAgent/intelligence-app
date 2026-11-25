@@ -10,6 +10,7 @@
     "check": "node scripts/check-data.mjs",
     "list": "node scripts/list-cards.mjs",
     "qc": "node scripts/qc.mjs",
+    "test:server": "npm --prefix server test",
     "prompts": "node scripts/export-image-prompts.mjs",
     "sync": "node scripts/check-data.mjs && node scripts/export-card-index.mjs && node scripts/export-image-prompts.mjs",
     "images": "node scripts/optimize-images.mjs"

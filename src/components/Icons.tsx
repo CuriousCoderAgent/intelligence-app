@@ -55,3 +55,28 @@ export const ChevronUpIcon = () => (
     <path d="m6 14 6-6 6 6" />
   </Icon>
 )
+
+export const HeartIcon = ({ filled }: { filled?: boolean }) => (
+  <Icon fill={filled ? 'currentColor' : 'none'}>
+    <path d="M12 20.3s-7.5-4.6-7.5-10.1A4.2 4.2 0 0 1 12 7.6a4.2 4.2 0 0 1 7.5 2.6c0 5.5-7.5 10.1-7.5 10.1Z" />
+  </Icon>
+)
+
+export const UserIcon = () => (
+  <Icon>
+    <circle cx="12" cy="8.5" r="3.6" />
+    <path d="M5 20c.6-3.6 3.4-5.6 7-5.6s6.400 2 7 5.600" />
+  </Icon>
+)
+
+export const BackIcon = () => (
+  <Icon>
+    <path d="m14.500 6-6 6 6 6" />
+  </Icon>
+)
+
+export const ChevronRightIcon = () => (
+  <Icon width="18" height="18">
+    <path d="m9.500 6 6 6-6 6" />
+  </Icon>
+)
