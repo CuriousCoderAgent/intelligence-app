@@ -1,0 +1,26 @@
+[
+  {
+    "id": "sci-wombat-cube-intestine",
+    "title": "Wombats shape their cube-like droppings inside the intestine",
+    "body": "In 2021 investigators reported that stiff and soft sections of the bare-nosed wombat's intestine contract differently. Their study found that this variation helps mould the flat faces and corners before the droppings leave the body.",
+    "takeaway": "Repeated pressure from a soft tube can form corners without a square opening.",
+    "source": "Yang et al., Soft Matter (2021)",
+    "visual": "a bare-nosed wombat beside a small cube-shaped dropping in a patch of grass"
+  },
+  {
+    "id": "sci-platypus-uv-fur",
+    "title": "Platypus fur can fluoresce blue-green under ultraviolet light",
+    "body": "In a 2021 study, researchers shone ultraviolet light on three preserved platypus specimens. The otherwise brown fur emitted visible blue-green light. The researchers did not establish whether the effect has a role in the wild.",
+    "takeaway": "Fluorescence needs an outside source of light, unlike the glow an animal makes by a chemical reaction.",
+    "source": "Anich et al., Mammalia (2021)",
+    "visual": "a preserved platypus specimen glowing faint blue-green in a dark museum lab"
+  },
+  {
+    "id": "sci-parrotfish-reef-sand",
+    "title": "Some reef sand has passed through a parrotfish",
+    "body": "Parrotfish scrape algae from rock and dead coral. When their guts grind the calcium carbonate they swallow with it, the material passes out as fine grains that can contribute to nearby sand.",
+    "takeaway": "The sand near a reef can come from an animal feeding, as well as from rock worn by waves.",
+    "source": "NOAA Ocean Service, How Does Sand Form?",
+    "visual": "a parrotfish scraping a reef above a patch of pale sand"
+  }
+]

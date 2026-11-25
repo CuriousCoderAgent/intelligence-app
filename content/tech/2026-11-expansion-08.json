@@ -1,0 +1,18 @@
+[
+  {
+    "id": "tech-hopper-a-zero",
+    "title": "Grace Hopper's A-0 helped replace numeric instructions with words",
+    "body": "In 1952 Grace Hopper completed A-0, a system that could assemble previously prepared routines into a program. It let the operator specify routines using a more human-readable notation than the computer's raw instructions.",
+    "takeaway": "Reusing prepared pieces of code means each new program need not start from the machine's smallest operations.",
+    "source": "Computer History Museum, Timeline of Computer History (1952)",
+    "visual": "a programmer's hand beside an early mainframe tape drive"
+  },
+  {
+    "id": "tech-engelbart-remote-collaboration",
+    "title": "A 1968 computer demo showed collaborators working at a distance",
+    "body": "In December 1968 Douglas Engelbart and his team demonstrated their interactive system to a San Francisco audience. The presentation showed people in different locations using the computer together over a live link.",
+    "takeaway": "Shared work on a screen was an idea researchers could demonstrate decades before home internet became common.",
+    "source": "Computer History Museum, The Mother of All Demos (1968)",
+    "visual": "two early computer workstations connected for a live demonstration"
+  }
+]

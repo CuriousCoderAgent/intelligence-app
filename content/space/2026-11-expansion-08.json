@@ -1,0 +1,26 @@
+[
+  {
+    "id": "space-voyager-four-planets",
+    "title": "Voyager 2 visited all four giant planets on one mission",
+    "body": "Voyager 2 flew past Jupiter in 1979, Saturn in 1981, Uranus in 1986 and Neptune in 1989. A rare alignment let NASA use each planet's gravity to help steer the spacecraft towards the next.",
+    "takeaway": "A route through space can use gravity to change direction and speed without making every change with fuel.",
+    "source": "NASA Science, Voyager 2 and Planetary Voyage",
+    "visual": "a small spacecraft passing the edge of a giant planet with other planets faint in the distance"
+  },
+  {
+    "id": "space-chandrayaan-lunar-water-signature",
+    "title": "Chandrayaan-1 helped find signs of water on the Moon",
+    "body": "India launched Chandrayaan-1 in 2008 carrying NASA's Moon Mineralogy Mapper. The instrument measured reflected light, revealing patterns linked to water and hydroxyl on the lunar surface.",
+    "takeaway": "A sensor in orbit can detect chemical signatures in sunlight without collecting a physical sample.",
+    "source": "NASA Science, Chandrayaan-1 and Moon Impact Probe",
+    "visual": "a small orbiter passing over a rough strip of the Moon's surface"
+  },
+  {
+    "id": "space-pluto-nitrogen-ice",
+    "title": "Part of Pluto's bright heart is a plain of nitrogen ice",
+    "body": "New Horizons imaged Pluto's heart-shaped region in 2015. Its western lobe, known as Sputnik Planitia, is a broad basin largely covered in frozen nitrogen.",
+    "takeaway": "The substance that makes up most of Earth's air can form a landscape on a far colder world.",
+    "source": "NASA Science, Frozen: Ice on Earth and Well Beyond",
+    "visual": "a broad pale ice plain with polygonal patches surrounded by dark hills on Pluto"
+  }
+]
