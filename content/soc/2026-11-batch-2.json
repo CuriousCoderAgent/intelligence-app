@@ -1,0 +1,82 @@
+[
+  {
+    "id": "soc-organ-donor-default",
+    "title": "A tick box decides whether 12% or 99% of people donate organs",
+    "body": "Germany asks people to opt in to organ donation and about 12% have agreed. Neighbouring Austria presumes consent unless you opt out, and about 99% remain donors. A 2003 study found the same split across eleven European countries.",
+    "takeaway": "Most people stick with whatever is preselected. Whoever designs the form is making part of the decision.",
+    "source": "Johnson & Goldstein, Science (2003)",
+    "visual": "two identical paper forms side by side on a desk, one with an empty checkbox and one already ticked, a pen between them"
+  },
+  {
+    "id": "soc-explanatory-depth",
+    "title": "You understand a zip less well than you think",
+    "body": "Researchers asked people to rate how well they understood everyday things such as zips, flush toilets and helicopters. Then they asked for a step-by-step explanation. Ratings dropped sharply afterwards. They called it the illusion of explanatory depth.",
+    "takeaway": "Familiarity feels like understanding. Before arguing a strong position, try explaining exactly how the thing works.",
+    "source": "Rozenblit & Keil, Cognitive Science (2002)",
+    "visual": "a giant zip half open, revealing behind its teeth a bewildering maze of tiny gears and levers"
+  },
+  {
+    "id": "soc-pluralistic-ignorance",
+    "title": "A whole group can follow a norm that most of them dislike",
+    "body": "Princeton students in the early 1990s were privately uneasy about heavy drinking on campus but believed that most others were comfortable with it. Because nobody voiced the doubt, each assumed they were alone. Psychologists call this pluralistic ignorance.",
+    "takeaway": "If a custom seems wrong to you, others may feel the same and be waiting for someone to say so.",
+    "source": "Prentice & Miller, Journal of Personality and Social Psychology (1993)",
+    "visual": "a crowd of people all wearing the same smiling mask, each privately holding a small worried face behind it"
+  },
+  {
+    "id": "soc-stanford-prison",
+    "title": "The Stanford prison experiment was not what it seemed",
+    "body": "The 1971 study is famous for showing that ordinary students given the role of guards turned cruel by themselves. Recordings examined later show that the researchers coached the guards to be tough, and one prisoner has said his breakdown was put on.",
+    "takeaway": "The most dramatic studies are the ones to double-check. This was never a controlled experiment.",
+    "source": "Thibault Le Texier, American Psychologist (2019)",
+    "visual": "a mock prison corridor in a university basement, a director's chair and clipboard visible in the shadows behind the guards"
+  },
+  {
+    "id": "soc-milgram-obedience",
+    "title": "Two thirds of people obeyed orders to give a severe shock",
+    "body": "In Stanley Milgram's 1961 experiment, volunteers were told to shock a stranger for each wrong answer. The shocks were fake but they did not know it. In the main version 26 of 40 went to the maximum 450 volts. When two fellow participants refused, only 4 of 40 did.",
+    "takeaway": "Obedience was strong, but seeing others refuse was enough to free most people to refuse too.",
+    "source": "Stanley Milgram, Obedience to Authority (1974)",
+    "visual": "a 1960s laboratory desk with a large panel of switches, a hesitant hand hovering over it and a man in a grey coat standing behind"
+  },
+  {
+    "id": "soc-fertility-decline",
+    "title": "The world's birth rate has more than halved since 1950",
+    "body": "In 1950 the average woman had about 5 children. Today the figure is about 2.3, and a level of 2.1 keeps a population stable. India's rate has fallen to about 2.0. Two thirds of people now live in countries below that replacement level.",
+    "takeaway": "The fall followed girls' schooling, access to contraception and fewer children dying, almost everywhere it happened.",
+    "source": "UN World Population Prospects (2024); India National Family Health Survey 5",
+    "visual": "a family portrait in three generations, the oldest with many children around them and the youngest couple with two"
+  },
+  {
+    "id": "soc-eight-billion",
+    "title": "The first billion people took all of history. The latest took 12 years.",
+    "body": "The human population reached 1 billion around 1804. It passed 8 billion on 15 November 2022, about 12 years after reaching 7 billion. Growth is slowing: the United Nations expects a peak of about 10.3 billion in the 2080s, followed by a gradual decline.",
+    "takeaway": "Children born today are likely to see the end of population growth, a turning point without precedent.",
+    "source": "UN World Population Prospects (2024)",
+    "visual": "the Earth at night seen from space with city lights spreading across the continents like growing constellations"
+  },
+  {
+    "id": "soc-towel-social-proof",
+    "title": "Telling hotel guests what other guests do changes what they do",
+    "body": "A hotel tested cards asking guests to reuse towels. One appealed to the environment. Another said that most guests reuse their towels, and it raised reuse from 35% to 44%. Saying that most guests in this very room had done so raised it to 49%.",
+    "takeaway": "People follow those they see as most like themselves. What similar people do often persuades more than reasons.",
+    "source": "Goldstein, Cialdini & Griskevicius, Journal of Consumer Research (2008)",
+    "visual": "a neatly folded white towel hanging on a hotel bathroom rail beside a small printed card, soft warm light"
+  },
+  {
+    "id": "soc-dunning-kruger",
+    "title": "The least skilled overestimate themselves the most",
+    "body": "In 1999 students took tests of logic, grammar and humour and then guessed how they had done. Those in the bottom quarter scored around the 12th percentile but estimated that they were at the 62nd. Top scorers slightly underestimated themselves.",
+    "takeaway": "Judging your own skill takes the same knowledge as having it. Seek outside feedback most where you are newest.",
+    "source": "Kruger & Dunning, Journal of Personality and Social Psychology (1999)",
+    "visual": "a small figure standing proudly on a low hill, seeing in a mirror a reflection of themselves on a towering mountain peak"
+  },
+  {
+    "id": "soc-life-expectancy",
+    "title": "Global life expectancy has more than doubled since 1900",
+    "body": "A baby born in 1900 could expect to live about 32 years on average worldwide. Today the figure is about 73. Much of the gain came from fewer children dying: in 1900 roughly a third died before their fifth birthday, and now about 4% do.",
+    "takeaway": "Clean water, vaccines, antibiotics and better nutrition did most of the work.",
+    "source": "Our World in Data; UN World Population Prospects (2024)",
+    "visual": "a grandmother, mother and child walking hand in hand along a rising path toward a bright horizon"
+  }
+]

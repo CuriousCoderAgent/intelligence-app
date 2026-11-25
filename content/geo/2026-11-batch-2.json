@@ -1,0 +1,82 @@
+[
+  {
+    "id": "geo-lake-baikal",
+    "title": "One lake holds a fifth of the world's unfrozen fresh water",
+    "body": "Lake Baikal in Siberia is the deepest lake on Earth, reaching 1,642 metres. It holds about 23,600 cubic kilometres of water, roughly 20% of all the unfrozen fresh water on the planet's surface.",
+    "takeaway": "It is also the oldest lake, about 25 million years old, which is why most of its species live nowhere else.",
+    "source": "UNESCO World Heritage Centre; US Geological Survey",
+    "visual": "a vast frozen lake with clear turquoise ice cracked into geometric plates, dark forested mountains on the far shore"
+  },
+  {
+    "id": "geo-diomede-islands",
+    "title": "Two islands 4 km apart are almost a day apart",
+    "body": "Big Diomede belongs to Russia and Little Diomede to the United States. They sit about 3.8 km apart in the Bering Strait, with the International Date Line between them, so their clocks differ by up to 21 hours.",
+    "takeaway": "From Little Diomede you can look across the water and see tomorrow.",
+    "source": "US National Oceanic and Atmospheric Administration",
+    "visual": "two small rocky islands facing each other across a narrow icy strait, one in daylight and one under a night sky"
+  },
+  {
+    "id": "geo-australia-wider-than-moon",
+    "title": "Australia is wider than the Moon",
+    "body": "Australia measures about 4,000 km from east to west. The Moon's diameter is 3,474 km. The Moon has far more surface, because it is a sphere, but if you could set it down on Australia it would not reach both coasts.",
+    "takeaway": "The Moon is smaller than it looks in photographs. Its entire surface is a little less than the area of Asia.",
+    "source": "Geoscience Australia; NASA",
+    "visual": "the full Moon resting gently on a red desert continent seen from high above, the coastline visible on both sides of it"
+  },
+  {
+    "id": "geo-amazon-no-bridges",
+    "title": "No bridge crosses the Amazon River",
+    "body": "The Amazon runs about 6,400 km through Peru, Colombia and Brazil, and not one bridge spans its main channel. Much of it flows through thinly populated forest, its banks are soft, and in the wet season the river can widen by many kilometres.",
+    "takeaway": "Where there are few roads there is little reason to build a bridge. People cross by ferry and boat.",
+    "source": "Encyclopaedia Britannica; ETH Zurich Institute of Structural Engineering",
+    "visual": "an immense brown river winding through unbroken rainforest to the horizon, a single small ferry crossing it"
+  },
+  {
+    "id": "geo-lesotho-altitude",
+    "title": "One country lies entirely above 1,400 metres",
+    "body": "Lesotho, a kingdom completely surrounded by South Africa, has the highest lowest point of any country: 1,400 metres above sea level. More than 80% of its land is higher than 1,800 metres.",
+    "takeaway": "Its mountains catch so much rain and snow that Lesotho sells water to South Africa.",
+    "source": "CIA World Factbook; Lesotho Highlands Development Authority",
+    "visual": "a horseman in a woven blanket riding along a high green ridge above the clouds, stone huts on the slope below"
+  },
+  {
+    "id": "geo-iceland-rift",
+    "title": "Iceland is being pulled apart by about 2 cm a year",
+    "body": "Iceland sits on the Mid-Atlantic Ridge, where the North American and Eurasian plates are moving away from each other. At Thingvellir you can walk through the rift valley between them. Lava from the island's volcanoes fills the gap with new rock.",
+    "takeaway": "It is one of the few places where a mid-ocean ridge rises above the sea and can be explored on foot.",
+    "source": "Icelandic Meteorological Office; US Geological Survey",
+    "visual": "a deep rocky fissure splitting a mossy lava plain in two, a tiny hiker standing at its edge under a wide northern sky"
+  },
+  {
+    "id": "geo-green-sahara",
+    "title": "The Sahara was green 8,000 years ago",
+    "body": "Between about 11,000 and 5,000 years ago a slow wobble in Earth's orbit strengthened the African monsoon. The Sahara had lakes, grassland, hippos and crocodiles, and people who painted swimmers on rocks that now stand in open desert.",
+    "takeaway": "Climate can transform a region within a few centuries. This cycle returns roughly every 21,000 years.",
+    "source": "deMenocal et al., Quaternary Science Reviews (2000)",
+    "visual": "a desert rock face with ancient paintings of swimmers and giraffes, and behind it a faint mirage of lakes and grassland"
+  },
+  {
+    "id": "geo-caspian-sea",
+    "title": "The world's largest lake is called a sea",
+    "body": "The Caspian Sea covers about 371,000 square km, larger than Germany, and has no outlet to the ocean. Whether it is legally a lake or a sea mattered for decades, because the answer decides how five countries share the oil and gas beneath it.",
+    "takeaway": "In 2018 the five countries agreed to give it a special legal status that is neither.",
+    "source": "Convention on the Legal Status of the Caspian Sea (2018)",
+    "visual": "a vast inland sea seen from orbit ringed by desert and mountains, with tiny oil platforms dotted near one shore"
+  },
+  {
+    "id": "geo-indonesia-islands",
+    "title": "Indonesia has more than 17,000 islands",
+    "body": "The country stretches about 5,100 km from west to east, wider than the continental United States. Only around 6,000 of its islands are inhabited, and more than half of its 280 million people live on just one of them, Java.",
+    "takeaway": "Java is about the size of England and is home to more people than Russia.",
+    "source": "Statistics Indonesia (BPS)",
+    "visual": "a chain of green volcanic islands curving across a turquoise sea into the distance, one of them densely lit with city lights"
+  },
+  {
+    "id": "geo-atacama-desert",
+    "title": "The driest desert outside the poles lies beside an ocean",
+    "body": "Chile's Atacama Desert averages about 15 mm of rain a year, and the city of Arica less than 1 mm. A cold ocean current and the Andes block moist air from both sides. Some of its soil is so lifeless that NASA tests Mars instruments there.",
+    "takeaway": "Its dry, clear air also makes it home to many of the world's largest telescopes.",
+    "source": "NASA; European Southern Observatory",
+    "visual": "a cracked rust-coloured desert valley under an intensely starry sky, with white telescope domes on a distant ridge"
+  }
+]

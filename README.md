@@ -29,15 +29,14 @@ Once it is online, open the URL on your phone and choose **Add to Home Screen** 
 
 ## Add content
 
-Cards are JSON files under `content/`, one folder per topic, and adding cards needs no code changes. **[AGENTS.md](AGENTS.md) is the full guide**: the card format, the quality bar, and how to add topics and pictures. It is written so that an AI assistant given this repository can add cards on its own.
+Cards are JSON files under `content/`, one folder per topic, and adding cards needs no code changes. **[AGENTS.md](AGENTS.md) is the full guide**: the card format, the quality bar, and how to add topics and pictures. It is written so that an AI assistant given this repository can add cards on its own. [docs/CHATGPT_BRIEF.md](docs/CHATGPT_BRIEF.md) is a longer, self-contained brief to hand to an assistant, and [docs/CARD_INDEX.md](docs/CARD_INDEX.md) lists every card in the deck.
 
 The short version:
 
 ```bash
 npm run list -- sci     # see what the science topic already has
 # add a new file: content/sci/<pack-name>.json
-npm run check           # validate; also runs before every build
-npm run prompts         # refresh docs/IMAGE_PROMPTS.md
+npm run sync            # validate, refresh docs/CARD_INDEX.md and docs/IMAGE_PROMPTS.md
 ```
 
 Every card has line art generated from its topic, so the app looks finished without any images. A card switches to a real picture as soon as `src/assets/cards/<card id>.webp` exists. `docs/IMAGE_PROMPTS.md` has a ready-to-paste prompt for each card that still needs one, and `npm run images` compresses what you save into `image-inbox/`.

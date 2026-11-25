@@ -1,0 +1,82 @@
+[
+  {
+    "id": "eng-jantar-mantar-sundial",
+    "title": "A stone sundial in Jaipur tells the time to within two seconds",
+    "body": "The Samrat Yantra at the Jantar Mantar observatory, finished in 1734 for Maharaja Sawai Jai Singh II, is the world's largest stone sundial, 27 metres high. Its shadow moves about 1 mm every second along a finely marked marble scale.",
+    "takeaway": "Making the instrument enormous was the way to make it precise, long before precision machining existed.",
+    "source": "UNESCO World Heritage Centre",
+    "visual": "a giant triangular stone ramp casting a sharp shadow onto a curved marble arc in a sunlit Indian courtyard"
+  },
+  {
+    "id": "eng-channel-tunnel-meeting",
+    "title": "Two tunnels dug from opposite shores met 36 cm apart",
+    "body": "British and French crews bored towards each other under the English Channel for three years, guided by lasers and gyroscopes. When the service tunnels met in December 1990, about 40 metres below the seabed, they were off by 358 mm sideways and 58 mm in height.",
+    "takeaway": "The 50 km tunnel has 38 km under the sea, still the longest undersea stretch of any tunnel.",
+    "source": "Institution of Civil Engineers; Getlink",
+    "visual": "two tunnel boring crews in hard hats shaking hands through a freshly broken opening in a chalk tunnel wall"
+  },
+  {
+    "id": "eng-lhc-colder-than-space",
+    "title": "The Large Hadron Collider is colder than outer space",
+    "body": "The 27 km ring near Geneva steers protons with more than 1,200 superconducting magnets. They only work when chilled by liquid helium to 1.9 degrees above absolute zero. Deep space is 2.7 degrees above it.",
+    "takeaway": "Inside the same machine, collisions briefly create temperatures over 100,000 times hotter than the Sun's core.",
+    "source": "CERN",
+    "visual": "a long curving underground tunnel lined with a blue cylindrical machine receding into the distance, frost on its pipes"
+  },
+  {
+    "id": "eng-hoover-dam-cooling",
+    "title": "Hoover Dam would still be cooling if poured in one piece",
+    "body": "Concrete heats up as it sets. Engineers calculated that a single pour of the dam's 2.5 million cubic metres would take 125 years to cool and would crack as it shrank. So they cast it as interlocking blocks threaded with pipes carrying chilled river water.",
+    "takeaway": "On very large projects, managing heat can be a harder problem than managing weight.",
+    "source": "US Bureau of Reclamation",
+    "visual": "a colossal curved concrete dam under construction in a desert canyon, built from stepped rectangular blocks"
+  },
+  {
+    "id": "eng-otis-safety-brake",
+    "title": "Skyscrapers exist because of a brake",
+    "body": "Lifts existed before the 1850s but nobody trusted them: if the rope snapped, the cabin fell. In 1854 Elisha Otis stood on a platform high above a New York crowd and had the rope cut. His spring-loaded brake gripped the guide rails and the platform held.",
+    "takeaway": "Before safe lifts, the top floors were the cheapest. Afterwards they became the most valuable.",
+    "source": "Otis Elevator Company; Smithsonian Institution",
+    "visual": "a man in a top hat standing calmly on an open hoist platform high inside an exhibition hall, a cut rope dangling above him"
+  },
+  {
+    "id": "eng-space-station",
+    "title": "The most expensive thing ever built orbits overhead",
+    "body": "The International Space Station is as long as a football pitch and has a mass of about 420 tonnes. It was assembled in orbit from 1998 over more than 40 flights by 15 countries, at a cost of over 100 billion dollars. People have lived on it without a break since November 2000.",
+    "takeaway": "You can see it with the naked eye: a bright, steady light crossing the sky in a few minutes.",
+    "source": "NASA; European Space Agency",
+    "visual": "a sprawling space station with long golden solar panels crossing above the blue curve of the Earth at sunrise"
+  },
+  {
+    "id": "eng-rani-ki-vav",
+    "title": "A stepwell in Gujarat is built like a temple turned upside down",
+    "body": "Rani ki Vav at Patan was built in the 11th century in memory of a king. Seven levels of stairs descend 27 metres towards the water, past more than 500 major sculptures. It lay buried in river silt for centuries, which preserved the carving.",
+    "takeaway": "Stepwells stored monsoon water for the dry months and gave people a cool place to gather. This one is on the 100 rupee note.",
+    "source": "UNESCO World Heritage Centre; Archaeological Survey of India",
+    "visual": "a deep stone stepwell with tiers of richly carved pillars and stairs descending into shade, sunlight falling from above"
+  },
+  {
+    "id": "eng-falkirk-wheel",
+    "title": "A boat lift in Scotland turns on the power of eight kettles",
+    "body": "The Falkirk Wheel lifts boats 24 metres between two canals. Its two tanks together carry about 500 tonnes of water and boats. Because a floating boat pushes out its own weight of water, the two sides always balance, so a half turn needs only 1.5 kilowatt-hours.",
+    "takeaway": "It replaced a staircase of 11 locks that took most of a day to climb.",
+    "source": "Scottish Canals",
+    "visual": "a huge rotating steel wheel with two curved arms carrying canal boats in water-filled tubs between an upper and lower canal"
+  },
+  {
+    "id": "eng-taipei-101-damper",
+    "title": "A 660-tonne steel ball keeps a skyscraper steady",
+    "body": "Near the top of the 508-metre Taipei 101 hangs a golden sphere made of stacked steel plates, held by thick cables. When wind or an earthquake pushes the tower one way, the ball lags behind and pulls it back. In a 2015 typhoon it swung a full metre.",
+    "takeaway": "Most tall towers hide their dampers. This one is on public view and has its own cartoon mascot.",
+    "source": "Taipei 101; Thornton Tomasetti",
+    "visual": "an enormous golden steel sphere hanging from cables inside the upper floors of a skyscraper, tiny visitors on a walkway beside it"
+  },
+  {
+    "id": "eng-kailasa-temple",
+    "title": "A temple at Ellora was carved downward from a single rock",
+    "body": "The Kailasa temple in Maharashtra was not built up from blocks. In the 8th century workers cut into a basalt hillside from the top and removed the rock around and inside the temple, by one estimate 200,000 tonnes of it. A mistake could not be patched.",
+    "takeaway": "It is among the largest structures in the world carved from one piece of stone.",
+    "source": "UNESCO World Heritage Centre; Archaeological Survey of India",
+    "visual": "a monumental rock-cut temple with carved towers and elephants standing in a pit hewn out of a dark basalt cliff"
+  }
+]

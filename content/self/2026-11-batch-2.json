@@ -1,0 +1,82 @@
+[
+  {
+    "id": "self-spaced-deadlines",
+    "title": "Deadlines you set yourself help, but evenly spaced ones help more",
+    "body": "MIT students had to hand in three papers. Those given evenly spaced deadlines scored best. Those allowed to choose their own did better than those with a single final deadline, but most spaced them too late to get the full benefit.",
+    "takeaway": "Break big work into dated chunks, and ask someone else to hold you to the dates.",
+    "source": "Ariely & Wertenbroch, Psychological Science (2002)",
+    "visual": "a long road at dusk with three evenly spaced glowing milestones leading toward a distant finish gate"
+  },
+  {
+    "id": "self-walking-creativity",
+    "title": "Walking raises creative output by about 60%",
+    "body": "In Stanford experiments, people thought of more original uses for everyday objects while walking than while sitting, about 60% more on average. It worked on a treadmill facing a blank wall too, and the boost lingered for a while after they sat down.",
+    "takeaway": "Take a problem that needs ideas for a walk. For problems with one right answer, sitting was just as good.",
+    "source": "Oppezzo & Schwartz, Journal of Experimental Psychology: LMC (2014)",
+    "visual": "a person walking along a tree-lined path with a trail of small glowing shapes rising from their footsteps"
+  },
+  {
+    "id": "self-ten-thousand-hours",
+    "title": "The 10,000-hour rule is not a rule",
+    "body": "The figure comes from a 1993 study of violinists, where 10,000 hours was an average and not a threshold. A 2014 review of 88 studies found that deliberate practice explained about 26% of skill differences in games, 21% in music and 18% in sports.",
+    "takeaway": "Practice matters a great deal, but no fixed number of hours guarantees mastery.",
+    "source": "Macnamara, Hambrick & Oswald, Psychological Science (2014)",
+    "visual": "a violinist practising alone in a dim room with a large hourglass beside them, its sand only partly run through"
+  },
+  {
+    "id": "self-interleaved-practice",
+    "title": "Mixing up practice feels worse and works better",
+    "body": "Students learned to calculate the volumes of four shapes. One group practised one shape at a time. The other had the problems shuffled. On a test a week later the shuffled group scored 63% and the one-at-a-time group scored 20%.",
+    "takeaway": "Shuffle problem types when you practise. Choosing the right method is part of the skill.",
+    "source": "Rohrer & Taylor, Instructional Science (2007)",
+    "visual": "four different geometric solids tumbling together in mid-air above a desk, lit from one side"
+  },
+  {
+    "id": "self-ego-depletion",
+    "title": "The idea that willpower drains like a battery did not hold up",
+    "body": "A famous 1998 experiment suggested that resisting temptation uses up a limited store of willpower. In 2016, 23 laboratories repeated a standard version of the test with more than 2,000 people and found an effect close to zero.",
+    "takeaway": "Be wary of tidy stories about willpower as a fuel tank. Removing temptation from your surroundings is a safer bet.",
+    "source": "Hagger et al., Perspectives on Psychological Science (2016)",
+    "visual": "a glowing battery-shaped lantern on a table that turns out to be an ordinary glass jar with a candle inside"
+  },
+  {
+    "id": "self-marshmallow-test",
+    "title": "The marshmallow test predicts less than you were told",
+    "body": "In the original studies, children who waited for a second marshmallow did better as teenagers. A 2018 repeat with over 900 children from more varied homes found the link was about half as strong, and most of it vanished once family background was taken into account.",
+    "takeaway": "A child's patience reflects their circumstances as much as their character. Be slow to read destiny into one test.",
+    "source": "Watts, Duncan & Quan, Psychological Science (2018)",
+    "visual": "a single marshmallow on a plate in front of a small child's folded hands at a plain table, warm light from a window"
+  },
+  {
+    "id": "self-fresh-start-effect",
+    "title": "New weeks, months and birthdays make people start things",
+    "body": "Researchers tracked gym visits, internet searches for the word diet and pledges on a goal-setting website. All of them jumped at the start of a week, a month, a year or a term, and just after birthdays. They named it the fresh start effect.",
+    "takeaway": "Use the next landmark date to begin, and build the habit before the clean-slate feeling fades.",
+    "source": "Dai, Milkman & Riis, Management Science (2014)",
+    "visual": "a blank page of a diary lit by sunrise through a window, a pair of running shoes waiting on the floor beside it"
+  },
+  {
+    "id": "self-peak-end-rule",
+    "title": "You remember an experience by its peak and its end",
+    "body": "Patients having a colonoscopy rated their pain every minute. Their later memory of it tracked the worst moment and the final minutes, not the total. A longer procedure that ended gently was remembered as less unpleasant than a shorter one that ended badly.",
+    "takeaway": "End things well: a meeting, a workout, a holiday. The ending shapes the memory, and the memory decides if you return.",
+    "source": "Redelmeier & Kahneman, Pain (1996)",
+    "visual": "a mountain trail seen from the side with one high sharp peak and a gentle golden slope down to a calm lake at the end"
+  },
+  {
+    "id": "self-curse-of-knowledge",
+    "title": "Once you know something, you cannot imagine not knowing it",
+    "body": "In a 1990 experiment, people tapped out well-known songs on a table while listeners tried to name them. The tappers predicted that listeners would get half right. Listeners named 3 songs out of 120. The tappers could hear the tune in their heads.",
+    "takeaway": "When you explain something, assume your listener hears only the tapping. Give the context you think is obvious.",
+    "source": "Elizabeth Newton, Stanford University doctoral dissertation (1990)",
+    "visual": "a hand tapping a rhythm on a wooden table, music visibly swirling in the tapper's head while the listener opposite sees only ripples"
+  },
+  {
+    "id": "self-spotlight-effect",
+    "title": "People notice you far less than you think",
+    "body": "Students were asked to walk into a room of classmates wearing an embarrassing T-shirt. They guessed that about half the room had noticed it. In fact about a quarter had. Psychologists call the gap the spotlight effect.",
+    "takeaway": "Most people are busy thinking about themselves. Your mistakes are less visible than they feel.",
+    "source": "Gilovich, Medvec & Savitsky, Journal of Personality and Social Psychology (2000)",
+    "visual": "a figure standing under an imagined spotlight in a busy room where everyone else is absorbed in their own small pools of light"
+  }
+]
