@@ -1,0 +1,26 @@
+[
+  {
+    "id": "space-ingenuity-mars-flights",
+    "title": "A helicopter made 72 flights on Mars",
+    "body": "On 19 April 2021, NASA's Ingenuity became the first aircraft to make a powered, controlled flight on another world. It went on to fly 72 times before its mission ended.",
+    "takeaway": "An aerial scout can examine terrain beyond the view from a rover's cameras close to the ground.",
+    "source": "NASA Science, Ingenuity Mars Helicopter",
+    "visual": "a small helicopter airborne above a rocky Martian plain"
+  },
+  {
+    "id": "space-hubble-correcting-optics",
+    "title": "Astronauts corrected Hubble's vision without replacing its mirror",
+    "body": "After Hubble's 1990 launch, NASA found a flaw in the primary mirror that blurred images. In December 1993, astronauts installed instruments with optics that compensated for how the mirror bent the light.",
+    "takeaway": "A known error in one part can sometimes be counteracted elsewhere in the optical path.",
+    "source": "NASA Science, Hubble Servicing Mission 1",
+    "visual": "an astronaut working beside the open instrument bay of a space telescope"
+  },
+  {
+    "id": "space-webb-segments-fold",
+    "title": "Webb's primary mirror was folded for launch",
+    "body": "Webb's mirror was too wide to fit inside its rocket as a single piece. Three mirror segments on each side were mounted on a folding wing. Both wings opened after launch.",
+    "takeaway": "The deployed mirror had to line up its separate pieces so they could bring light to the same focus.",
+    "source": "NASA Science, Webb's Mirrors and FAQs",
+    "visual": "gold mirror segments opening on the wing of a space telescope"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "id": "space-new-horizons-pluto-distance",
+    "title": "New Horizons passed about 12,500 km above Pluto",
+    "body": "On 14 July 2015, NASA's New Horizons spacecraft flew within about 12,500 km of Pluto. It gathered close-up observations during a flyby and continued beyond the dwarf planet into the Kuiper Belt.",
+    "takeaway": "A brief close pass can collect observations without needing the fuel required to stop and enter orbit.",
+    "source": "NASA Science, New Horizons",
+    "visual": "a small spacecraft passing above the bright heart-shaped region of Pluto"
+  },
+  {
+    "id": "space-kepler-starlight-dips",
+    "title": "Kepler searched for planets by watching stars grow briefly dimmer",
+    "body": "Launched in 2009, NASA's Kepler telescope watched a patch of sky to catch repeated dips in a star's light. A planet passing in front of its star blocks a little of that light for a short time.",
+    "takeaway": "This method can find a planet even when the telescope never sees light from the planet itself.",
+    "source": "NASA Science, How We Find and Characterize Exoplanets",
+    "visual": "a tiny dark planet silhouetted against the disc of a bright star"
+  }
+]

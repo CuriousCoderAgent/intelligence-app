@@ -1,0 +1,26 @@
+[
+  {
+    "id": "eng-persian-qanat-gravity",
+    "title": "Persian qanats move groundwater through sloping tunnels",
+    "body": "Qanats tap groundwater and carry it underground along a tunnel with a slight slope. In 2016 UNESCO listed 11 Iranian qanats, which use gravity to bring water out where the tunnel meets lower ground.",
+    "takeaway": "Keeping most of the route underground limits water lost to evaporation in a dry climate.",
+    "source": "UNESCO World Heritage Centre, The Persian Qanat (2016)",
+    "visual": "a cutaway of a desert slope with vertical shafts leading to a gently sloping water tunnel"
+  },
+  {
+    "id": "eng-thames-rotating-gates",
+    "title": "London's flood gates rise from the riverbed",
+    "body": "Since 1982, the Thames Barrier has protected London from high tides and storm surges. The 520-metre structure uses 10 movable gates that can be raised to block water coming up the river from the North Sea.",
+    "takeaway": "Leaving the gates down between closures lets boats pass and the tide follow its usual course.",
+    "source": "Institution of Engineering and Technology, Flood Defence",
+    "visual": "a curved steel gate rising between the piers of the Thames Barrier"
+  },
+  {
+    "id": "eng-forth-cantilever-span",
+    "title": "The Forth Bridge crosses two gaps of about 521 metres",
+    "body": "Scotland's Forth Bridge opened in 1890. In its cantilever design, large steel arms project from the supports and hold shorter spans between them. Each of the two main spans is about 521 metres long.",
+    "takeaway": "Extending the structure from supports avoids putting a pier in the middle of each long crossing.",
+    "source": "American Society of Civil Engineers, Firth of Forth Railway Bridge",
+    "visual": "red steel cantilever arms stretching out above dark water"
+  }
+]

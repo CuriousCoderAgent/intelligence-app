@@ -1,0 +1,18 @@
+[
+  {
+    "id": "sci-antarctic-icefish-blood",
+    "title": "Antarctic icefish have no red blood cells",
+    "body": "Adult Antarctic icefish lack haemoglobin, the protein that carries most oxygen in the blood of other vertebrates. In the blackfin icefish, oxygen dissolved directly in the blood amounts to less than a tenth of what an equal volume of a related red-blooded fish's blood can carry.",
+    "takeaway": "These fish show how a familiar job, moving oxygen around the body, can be done without its usual carrier.",
+    "source": "Kim et al., Nature Ecology & Evolution (2019)",
+    "visual": "an Antarctic blackfin icefish hovering just above the dark seabed"
+  },
+  {
+    "id": "sci-kilogram-redefinition",
+    "title": "The kilogram stopped depending on one piece of metal",
+    "body": "Until 2019, the kilogram was defined by the mass of a single platinum-iridium cylinder. The definition now fixes the value of Planck's constant, a number that links the energy and frequency of light.",
+    "takeaway": "Labs can realise the same unit independently, even if a particular reference weight changes mass.",
+    "source": "US National Institute of Standards and Technology, Defining the International System of Units",
+    "visual": "a single polished cylinder resting inside a glass bell jar on a laboratory bench"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "soc-close-friend-contact",
+    "title": "Frequent contact with friends often happens without a visit",
+    "body": "In a Pew survey published in 2025, 74% of US adults with close friends said they connected with one at least a few times a week by phone, message, social media or in person. Only 29% saw a close friend that often.",
+    "takeaway": "Asking only about visits would miss a substantial part of how people keep in touch.",
+    "source": "Pew Research Center, Where Men and Women Turn for Emotional Support (2025)",
+    "visual": "a person at a kitchen table speaking into a phone at dusk"
+  },
+  {
+    "id": "soc-criminal-record-audit",
+    "title": "A record halved callbacks in one Milwaukee hiring test",
+    "body": "In Devah Pager's 2003 field study, matched testers applied for entry-level jobs in Milwaukee. Among white testers, 34% of applications without a criminal record got a callback, compared with 17% of those assigned a record.",
+    "takeaway": "Sending matched applicants helps isolate a hiring barrier that employment totals alone cannot show.",
+    "source": "Devah Pager, American Journal of Sociology (2003)",
+    "visual": "a pair of plain application folders on a hiring desk"
+  },
+  {
+    "id": "soc-exposure-and-friendship",
+    "title": "Sharing a school does not guarantee cross-income friendships",
+    "body": "In 2022 researchers studied 21 billion Facebook friendship links in the United States. For people with lower incomes, the gap in friendships across income groups reflected both whom they encountered and whom they befriended among those they met.",
+    "takeaway": "Mixing students in the same building and giving them chances to interact are different tasks.",
+    "source": "Chetty et al., Social Capital II, Nature (2022)",
+    "visual": "a school courtyard with small groups sitting separately on long benches"
+  }
+]

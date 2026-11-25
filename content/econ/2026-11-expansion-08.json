@@ -1,0 +1,18 @@
+[
+  {
+    "id": "econ-owners-equivalent-rent",
+    "title": "US inflation statistics estimate the rent of owner-occupied homes",
+    "body": "The US Bureau of Labor Statistics includes owners' equivalent rent in its Consumer Price Index. It estimates changes in the rental value of the shelter a homeowner uses, even when no rent is paid.",
+    "takeaway": "The price of using a house and the price of buying that asset can move differently.",
+    "source": "US Bureau of Labor Statistics, Rent and Rental Equivalence in the CPI",
+    "visual": "the lit windows of two similar houses on a quiet street"
+  },
+  {
+    "id": "econ-botswana-diamond-equity",
+    "title": "Botswana's government owns half of the diamond miner Debswana",
+    "body": "Debswana operates as an equal partnership between Botswana's government and the De Beers group. Each holds half of the company, which mines diamonds in Botswana.",
+    "takeaway": "A government can share in mining profits through ownership as well as collecting taxes on the activity.",
+    "source": "World Bank, Botswana Mining Investment and Governance Review (2017)",
+    "visual": "an uncut diamond resting on dark ore under a small examination lamp"
+  }
+]

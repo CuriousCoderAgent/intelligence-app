@@ -1,0 +1,18 @@
+[
+  {
+    "id": "econ-imf-reserve-basket",
+    "title": "An IMF reserve asset is valued against five currencies",
+    "body": "The International Monetary Fund created Special Drawing Rights in 1969 to supplement countries' reserves. The IMF's basket includes the US dollar, euro, Chinese renminbi, Japanese yen and British pound.",
+    "takeaway": "Countries can exchange these reserve assets for usable currency even though people cannot spend them in shops.",
+    "source": "International Monetary Fund, Special Drawing Rights Factsheet (2023)",
+    "visual": "a balance holding a small stack of plain coins beside an open ledger"
+  },
+  {
+    "id": "econ-new-jersey-fast-food-wage",
+    "title": "A 1992 wage rise did not cut jobs in one fast-food study",
+    "body": "In April 1992 New Jersey raised its minimum wage from 4.25 to 5.05 US dollars an hour. David Card and Alan Krueger surveyed 410 fast-food restaurants in New Jersey and Pennsylvania and found no relative fall in New Jersey employment.",
+    "takeaway": "A neighbouring region with an unchanged wage can help reveal what might have happened without the rise.",
+    "source": "Card and Krueger, American Economic Review (1994)",
+    "visual": "the counter of a modest early nineties fast-food restaurant"
+  }
+]

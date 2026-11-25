@@ -1,0 +1,26 @@
+[
+  {
+    "id": "econ-kenya-textbook-trial",
+    "title": "A Kenyan textbook trial found gains concentrated at the top",
+    "body": "A randomised trial in rural Kenya found no rise in average test scores after schools received extra textbooks. The pupils who started out with higher scores improved, while many weaker pupils struggled to read the books.",
+    "takeaway": "Providing more of a resource can leave a gap if some pupils cannot yet use it.",
+    "source": "Glewwe, Kremer and Moulin, American Economic Journal: Applied Economics (2009)",
+    "visual": "an open textbook on a simple wooden school desk in western Kenya"
+  },
+  {
+    "id": "econ-pratham-remedial-learning",
+    "title": "Basic lessons raised scores in two Indian school trials",
+    "body": "In Mumbai and Vadodara, Pratham hired local young women to teach basic reading and arithmetic to children who were behind. A 2007 study of the programme found gains, especially among pupils whose scores had begun lowest.",
+    "takeaway": "The material a pupil needs today may be different from what their grade's syllabus assumes.",
+    "source": "Banerjee et al., Quarterly Journal of Economics (2007)",
+    "visual": "a tutor helping children arrange counting stones on a classroom mat"
+  },
+  {
+    "id": "econ-mexico-progresa-conditions",
+    "title": "Mexico linked household cash transfers to school attendance",
+    "body": "In 1997 Mexico began Progresa, a programme that transferred money to low-income families. One condition on the payments was regular school attendance for children in the household.",
+    "takeaway": "The design addresses both the cost of staying in school and the income a family might give up to keep a child there.",
+    "source": "World Bank, World Development Report 2004",
+    "visual": "a school bag and a pair of small shoes by the door of a home in rural Mexico"
+  }
+]

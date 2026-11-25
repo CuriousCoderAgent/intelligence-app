@@ -1,0 +1,26 @@
+[
+  {
+    "id": "econ-potosi-water-powered-silver",
+    "title": "Potosi's silver industry depended on artificial lakes",
+    "body": "In the 16th century, Potosi in what is now Bolivia was a major industrial centre. Aqueducts carried water from artificial lakes to hydraulic mills that processed silver ore from Cerro Rico.",
+    "takeaway": "A valuable deposit is only one part of a mining economy. Processing it requires its own supply of power.",
+    "source": "UNESCO World Heritage Centre, City of Potosi (1987)",
+    "visual": "an old stone mill and aqueduct below the slopes of Cerro Rico"
+  },
+  {
+    "id": "econ-bhutan-ldc-graduation",
+    "title": "Bhutan left the UN's least developed category in 2023",
+    "body": "The UN created its least developed country category in 1971 to identify economies needing special support. Bhutan was among the original members and formally graduated on 13 December 2023.",
+    "takeaway": "Graduation is a change in eligibility for certain international measures as well as a development milestone.",
+    "source": "United Nations LDC Portal, Bhutan Graduation Status (2023)",
+    "visual": "a small Bhutanese town spread along a Himalayan river valley"
+  },
+  {
+    "id": "econ-gini-endpoints",
+    "title": "The Gini index measures distribution rather than total income",
+    "body": "On the World Bank's scale, a Gini index of zero means everyone has the same income or consumption. At 100, one person has it all. Real estimates lie between those endpoints.",
+    "takeaway": "Two economies can have the same average income and very different Gini values.",
+    "source": "World Bank, World Development Indicators, Gini Index",
+    "visual": "unequal stacks of plain coins on a dark table"
+  }
+]

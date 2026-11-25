@@ -1,0 +1,26 @@
+[
+  {
+    "id": "econ-kenya-mpesa-poverty",
+    "title": "A study linked mobile money to lower poverty in Kenya",
+    "body": "In 2016 economists Tavneet Suri and William Jack estimated that access to Kenya's M-PESA mobile money service lifted about 194,000 households out of poverty. That was roughly 2% of Kenyan households.",
+    "takeaway": "A phone can make it easier to receive help from relatives when a local setback cuts income.",
+    "source": "Suri and Jack, Science (2016)",
+    "visual": "a hand holding a basic mobile phone with a blank screen at a small Kenyan shop counter"
+  },
+  {
+    "id": "econ-bangladesh-garment-training",
+    "title": "A Korean factory trained 130 workers for a Bangladeshi exporter",
+    "body": "In 1979, 130 employees from Bangladesh's Desh Garments went to South Korea to train with Daewoo. Desh began production in 1980 and exported 43,000 shirts that year.",
+    "takeaway": "A factory needs know-how about making and selling its products as well as machines to make them.",
+    "source": "World Bank, Tales from the Development Frontier (2013)",
+    "visual": "rows of sewing machines in an early Bangladeshi garment workshop with a shirt under the nearest needle"
+  },
+  {
+    "id": "econ-indonesia-school-building",
+    "title": "Indonesia built more than 61,000 primary schools in six years",
+    "body": "Between 1973 and 1978 Indonesia built over 61,000 primary schools. Economist Esther Duflo compared children born in areas that received different numbers of schools and found that those young enough to benefit stayed in education longer.",
+    "takeaway": "Children already past school age gave the researcher a way to check whether changes were specific to those who could enrol.",
+    "source": "Esther Duflo, American Economic Review (2001)",
+    "visual": "a modest primary school beside a dirt road in a rural Indonesian village"
+  }
+]

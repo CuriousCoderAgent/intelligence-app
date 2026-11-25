@@ -1,0 +1,26 @@
+[
+  {
+    "id": "math-billiard-corner-bounces",
+    "title": "A rectangle's side lengths can predict a billiard ball's bounces",
+    "body": "On a 3 by 5 table with ideal elastic cushions, shoot from a corner at 45 degrees. The ball hits six walls before reaching another corner. For whole-number sides with no common factor, the count is their sum minus two.",
+    "takeaway": "Reflecting the table after each bounce turns the zigzag into a straight line across copies of the rectangle.",
+    "source": "Wolfram MathWorld, Billiards",
+    "visual": "a billiard ball on a simple rectangular table with faint reflected tables around it"
+  },
+  {
+    "id": "math-wilson-prime-factorial",
+    "title": "Multiplying smaller numbers gives a test for primality",
+    "body": "To test an integer above one with Wilson's theorem, multiply all the positive integers smaller than it, then add one. The result is divisible by the original integer exactly when that integer is prime. For five, the result is 25.",
+    "takeaway": "A test can be exact in theory yet impractical when its intermediate numbers grow very quickly.",
+    "source": "Wolfram MathWorld, Wilson's Theorem",
+    "visual": "a set of small counters arranged in a square with one separate bead"
+  },
+  {
+    "id": "math-perfect-number-divisors",
+    "title": "Twenty-eight equals the sum of all its smaller divisors",
+    "body": "The positive whole numbers smaller than 28 that divide it evenly are 1, 2, 4, 7 and 14. They add to 28, making it a perfect number. The smallest example is 6.",
+    "takeaway": "Whether a number is perfect depends on how its factors add up, not on how large it is.",
+    "source": "Wolfram MathWorld, Perfect Number",
+    "visual": "five small groups of identical pebbles arranged around a larger pile"
+  }
+]

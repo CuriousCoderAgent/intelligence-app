@@ -1,0 +1,18 @@
+[
+  {
+    "id": "self-background-speech-order",
+    "title": "Background speech can disrupt recall of a sequence",
+    "body": "In a 2023 paper, researchers asked children and adults to remember visually presented items in order. Overheard sequences of syllables hurt recall of the verbal items, but the study found no such effect for spatial positions.",
+    "takeaway": "If you need to keep a sequence of words straight, a conversation nearby may matter more than it seems.",
+    "source": "Leist et al., Memory & Cognition (2023)",
+    "visual": "a person trying to recall a sequence while two figures speak in the distance"
+  },
+  {
+    "id": "self-mednick-nap-texture",
+    "title": "A nap helped people improve at a visual task in one study",
+    "body": "In a 2003 experiment, people practised distinguishing visual textures. Participants whose 60 to 90 minute naps included both deep and rapid eye movement sleep showed improved performance after the nap.",
+    "takeaway": "Some changes from practice occur after a session ends, including during daytime sleep.",
+    "source": "Mednick, Nakayama and Stickgold, Nature Neuroscience (2003)",
+    "visual": "a shaded window beside a resting chair in a sleep laboratory"
+  }
+]

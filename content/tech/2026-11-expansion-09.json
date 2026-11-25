@@ -1,0 +1,18 @@
+[
+  {
+    "id": "tech-dartmouth-basic-sharing",
+    "title": "BASIC let beginners share a computer through terminals",
+    "body": "John Kemeny and Thomas Kurtz launched Dartmouth's time-sharing system in 1964. Students could type and run programs in BASIC at terminals, with the same central computer giving different users turns.",
+    "takeaway": "Quick feedback makes it easier to try an idea than submitting a batch job and waiting for the result.",
+    "source": "Computer History Museum, Dartmouth Professors Launch Timesharing System (1964)",
+    "visual": "several early typing terminals along one classroom wall"
+  },
+  {
+    "id": "tech-apple-one-single-board",
+    "title": "The original Apple computer was sold as a board",
+    "body": "The Apple-1 debuted in 1976. For 666.66 US dollars, buyers received a populated circuit board with 4 KB of working memory. They supplied parts such as the keyboard and display themselves.",
+    "takeaway": "A working computer and a complete appliance were still different products for many early buyers.",
+    "source": "Computer History Museum, Apple-1 Exhibits",
+    "visual": "an exposed vintage computer board on a hobbyist's workbench"
+  }
+]

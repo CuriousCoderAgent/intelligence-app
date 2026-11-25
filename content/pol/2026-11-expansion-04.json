@@ -1,0 +1,26 @@
+[
+  {
+    "id": "pol-commons-speaker-secret-ballot",
+    "title": "British MPs use a secret ballot in a contested Speaker election",
+    "body": "The Commons can confirm a former Speaker seeking to return by agreeing a motion. When no former Speaker seeks re-election or that motion fails, MPs choose a Speaker by secret ballot.",
+    "takeaway": "Choosing who will chair a chamber can follow a different voting procedure from deciding its legislation.",
+    "source": "UK Parliament, MPs' Guide to Procedure, Election of the Speaker",
+    "visual": "folded blank ballots resting near an ornate empty chair"
+  },
+  {
+    "id": "pol-singapore-nominated-mps",
+    "title": "Singapore's Parliament includes appointed members",
+    "body": "A parliamentary committee in Singapore can nominate up to nine people for appointment by the president as Nominated Members of Parliament. Their term is two and a half years.",
+    "takeaway": "Appointment adds a route into the chamber distinct from winning an electoral district.",
+    "source": "Parliament of Singapore, Special Select Committee and Educational Resources",
+    "visual": "a semicircle of empty chairs in a modern parliamentary chamber"
+  },
+  {
+    "id": "pol-un-council-abstention",
+    "title": "A permanent UN member can abstain without using its veto",
+    "body": "On a substantive UN Security Council vote, an abstention by a permanent member is not treated as a veto. A resolution can still pass if at least nine members vote in favour and no permanent member votes against.",
+    "takeaway": "The published voting record can show that a country let a measure pass without supporting it.",
+    "source": "United Nations Security Council, Voting System",
+    "visual": "empty chairs at a curved council table with one microphone unlit"
+  }
+]

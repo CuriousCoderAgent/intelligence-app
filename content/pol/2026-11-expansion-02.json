@@ -1,0 +1,26 @@
+[
+  {
+    "id": "pol-canada-boundary-commissions",
+    "title": "Canada gives federal map drawing to independent commissions",
+    "body": "After each 10-year census, independent electoral boundaries commissions in Canada's provinces redraw their federal electoral districts. The process takes account of changes in population and in the distribution of seats.",
+    "takeaway": "An election law can assign drawing the boundaries to people who are independent of those contesting the seats.",
+    "source": "Elections Canada, Political Financing Handbook (2024)",
+    "visual": "a plain map with fine district lines on a commission meeting table"
+  },
+  {
+    "id": "pol-swiss-double-majority",
+    "title": "Swiss constitutional changes need two majorities",
+    "body": "A Swiss constitutional amendment needs a majority of the national popular vote and a majority in the tally of cantonal votes. A canton is a member state of the Swiss federation, and some count as half a vote.",
+    "takeaway": "A proposal can win more votes nationwide and still fail the regional test.",
+    "source": "SWI swissinfo.ch, How Swiss Direct Democracy Works",
+    "visual": "a ballot box before a relief map of Switzerland with regional boundaries"
+  },
+  {
+    "id": "pol-general-assembly-one-vote",
+    "title": "In the UN General Assembly, every country gets one vote",
+    "body": "Article 18 of the UN Charter gives each member state one vote in the General Assembly, irrespective of population. The charter sets a two-thirds majority of members present and voting for important questions, including votes on the budget.",
+    "takeaway": "Counting states equally answers a different question from counting each of their residents equally.",
+    "source": "United Nations Charter, Article 18 (1945)",
+    "visual": "an arc of equally spaced empty desks in a large assembly hall"
+  }
+]

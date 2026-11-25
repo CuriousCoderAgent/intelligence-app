@@ -1,0 +1,34 @@
+[
+  {
+    "id": "self-drawing-word-recall",
+    "title": "Drawing a word helped people remember it in a lab",
+    "body": "In experiments published in 2016, Jeffrey Wammes and colleagues asked people to draw or write words such as apple, then recall them. Participants tended to remember more of the words they had drawn.",
+    "takeaway": "A quick sketch can give a word another cue to bring it back to mind.",
+    "source": "Wammes et al., Quarterly Journal of Experimental Psychology (2016)",
+    "visual": "an unfinished pencil sketch of an apple beside a blunt pencil"
+  },
+  {
+    "id": "self-sleep-restriction-blind-spot",
+    "title": "In a sleep study, alertness fell faster than people noticed",
+    "body": "In a 2003 lab study, adults assigned 4 or 6 hours in bed per night for 14 nights made progressively more lapses on attention tests. Their reported sleepiness rose much less after the first few days.",
+    "takeaway": "Feeling used to a schedule can tell you less about your performance than an objective check does.",
+    "source": "Van Dongen et al., Sleep (2003)",
+    "visual": "a person at a quiet desk beside a shaded lamp before dawn"
+  },
+  {
+    "id": "self-worked-algebra-examples",
+    "title": "Studying solved examples helped beginners learn algebra",
+    "body": "In 1985 John Sweller and Graham Cooper compared studying worked algebra examples with solving more practice problems. In their experiments, students who studied solutions learnt faster and performed better on similar problems.",
+    "takeaway": "When a procedure is new, study how a complete solution fits together before attempting a problem alone.",
+    "source": "Sweller and Cooper, Cognition and Instruction (1985)",
+    "visual": "a tutor's hand arranging wooden algebra tiles on a plain desk"
+  },
+  {
+    "id": "self-generate-word-memory",
+    "title": "Finishing a word yourself can make it easier to recall",
+    "body": "In 1978 Norman Slamecka and Peter Graf compared reading words with producing the same words from clues. Across five experiments, people generally remembered more of the words they had generated themselves.",
+    "takeaway": "When making flashcards, leave the answer out of sight and make yourself complete the clue before turning it over.",
+    "source": "Slamecka and Graf, Journal of Experimental Psychology (1978)",
+    "visual": "a hand poised to turn over a small blank flashcard"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "id": "econ-cambodia-garment-monitoring",
+    "title": "A trade deal tied garment export quotas to working conditions",
+    "body": "Cambodia and the US signed a textile and apparel agreement in 1999. It offered higher US import quotas for improvements in working conditions. The ILO began a factory monitoring programme in Cambodia in 2001.",
+    "takeaway": "A trade quota can be used to set incentives beyond the amount a country may export.",
+    "source": "World Bank, Better Human Resource Policies in Apparel and Cambodia Trade Agreement",
+    "visual": "fabric rolls beside an inspection table in a Cambodian garment factory"
+  },
+  {
+    "id": "econ-kenya-grid-connection-demand",
+    "title": "Power lines nearby did not guarantee connections in a Kenyan trial",
+    "body": "In 2016 researchers reported on a field experiment that varied the cost of connecting rural Kenyan households to the electricity grid. Demand dropped sharply as the price of connecting rose.",
+    "takeaway": "Building a network and making the last connection affordable are separate problems.",
+    "source": "Lee, Miguel and Wolfram, NBER Working Paper 22292 (2016)",
+    "visual": "a utility pole near a rural Kenyan home at dusk"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "sci-obsidian-rapid-cooling",
+    "title": "Obsidian is glass made by a volcano",
+    "body": "Obsidian forms when lava cools before crystals can grow. The resulting rock is usually dark and has a glassy texture, even though it formed as part of a lava flow.",
+    "takeaway": "How fast rock cools can change its texture even when its chemistry stays the same.",
+    "source": "US Geological Survey, Volcano Hazards Program Glossary, Obsidian",
+    "visual": "a shiny black piece of obsidian with a curved fracture surface"
+  },
+  {
+    "id": "sci-horseshoe-crab-arachnid-relative",
+    "title": "Horseshoe crabs are closer kin to spiders than to crabs",
+    "body": "The horseshoe crab has a broad shell and lives near the coast, but it belongs to the lineage that includes spiders and scorpions. Crabs are crustaceans, part of a different branch of the arthropods.",
+    "takeaway": "A name can describe an animal's appearance without identifying its closest living relatives.",
+    "source": "Smithsonian National Zoo, Horseshoe Crab",
+    "visual": "a horseshoe crab moving along a rippled seabed"
+  },
+  {
+    "id": "sci-ocean-acidity-log-scale",
+    "title": "A tiny change in ocean pH can represent a much larger shift",
+    "body": "NOAA reports that average surface ocean pH has fallen by about 0.1 since industrialisation. Because pH is logarithmic, this corresponds to roughly a 30% increase in hydrogen ion concentration.",
+    "takeaway": "On a logarithmic scale, a small movement on the dial can hide a large proportional change.",
+    "source": "NOAA Pacific Marine Environmental Laboratory, A Primer on pH",
+    "visual": "a shallow seawater sample in a dark glass vessel under a laboratory lamp"
+  }
+]

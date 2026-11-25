@@ -1,0 +1,18 @@
+[
+  {
+    "id": "tech-xerox-alto-full-page-display",
+    "title": "The Xerox Alto put a page-shaped display on a desk",
+    "body": "Introduced as a research computer in 1973, the Alto used a portrait graphics display of 606 by 808 pixels. A mouse and keyboard let its user work with information shown on the screen.",
+    "takeaway": "A tall display suited documents that people already thought of as pages.",
+    "source": "Computer History Museum, Xerox Alto Source Code",
+    "visual": "an early desktop computer with a tall blank monochrome display and a wired mouse"
+  },
+  {
+    "id": "tech-encyclopedia-cd-rom",
+    "title": "An early CD-ROM product was an encyclopedia",
+    "body": "Philips and Sony announced the CD-ROM format in 1984. A disc could hold about 550 megabytes of prerecorded data, and in 1985 Grolier released an electronic encyclopedia on the format.",
+    "takeaway": "A format designed around reading a disc with a laser could distribute reference material as well as music.",
+    "source": "Computer History Museum, Timeline of Computer History, Memory and Storage",
+    "visual": "a reflective compact disc beside a closed reference book with a blank spine"
+  }
+]

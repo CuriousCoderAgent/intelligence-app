@@ -1,0 +1,42 @@
+[
+  {
+    "id": "space-jupiter-gossamer-rings",
+    "title": "Jupiter has faint outer rings made of dust",
+    "body": "NASA's Galileo spacecraft imaged Jupiter's faint outer gossamer rings. The material is so diffuse that the rings are much harder to see than Saturn's bright ring system.",
+    "takeaway": "Even a planet that looks ringless in a typical photograph may have a system of orbiting particles.",
+    "source": "NASA Science, NASA's Webb Telescope Will Study Jupiter and Its Rings",
+    "visual": "the dark edge of Jupiter with faint bands of dust catching light"
+  },
+  {
+    "id": "space-dart-orbit-change",
+    "title": "A spacecraft cut 33 minutes off an asteroid's orbit time",
+    "body": "In September 2022 NASA's DART spacecraft hit Dimorphos, a small asteroid orbiting the larger Didymos. Observations after impact showed that Dimorphos took about 33 minutes less to complete each orbit.",
+    "takeaway": "A small change made far in advance can shift where an asteroid will be when it crosses Earth's path.",
+    "source": "NASA Science, Didymos and Dimorphos",
+    "visual": "a small rocky moonlet beside a larger asteroid with a faint plume lifting off its surface"
+  },
+  {
+    "id": "space-mars-blue-sunset",
+    "title": "On Mars, the sky near the setting Sun can turn blue",
+    "body": "NASA's Curiosity rover photographed a blue sunset at Gale Crater on 15 April 2015. When blue light scatters off fine Martian dust, it stays closer to the direction of the Sun than light of other colours does.",
+    "takeaway": "The colour of another world's sky can reveal how the particles in its air interact with sunlight.",
+    "source": "NASA Jet Propulsion Laboratory, Curiosity Rover Views Serene Sundown on Mars (2015)",
+    "visual": "a pale blue glow around the setting Sun above the dark rocky rim of a Martian crater"
+  },
+  {
+    "id": "space-uranus-sideways-seasons",
+    "title": "Uranus spins tipped almost onto its side",
+    "body": "Uranus's spin axis is tilted about 98 degrees from the upright direction of its orbit. During the planet's 84-year trip around the Sun, each pole in turn points nearly towards the Sun and then nearly away from it.",
+    "takeaway": "Earth's seasons come from the same kind of tilt. Uranus takes that familiar effect to an extreme.",
+    "source": "NASA Science, Uranus Facts",
+    "visual": "the pale disc of Uranus encircled by a steeply tipped ring system in deep space"
+  },
+  {
+    "id": "space-magellan-venus-radar",
+    "title": "Magellan mapped most of Venus without using visible light",
+    "body": "From 1990 to 1994, NASA's Magellan mission used radar to image more than 98% of Venus's surface. Radar pulses passed through the clouds and reflected from the terrain below.",
+    "takeaway": "When clouds hide a planet in visible light, choosing a different wavelength can make its geography accessible.",
+    "source": "NASA Science, Magellan and Hemispheric View of Venus",
+    "visual": "a radar spacecraft above cloud-covered Venus with a strip of rugged terrain revealed below"
+  }
+]

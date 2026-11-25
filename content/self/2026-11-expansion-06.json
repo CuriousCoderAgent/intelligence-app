@@ -1,0 +1,26 @@
+[
+  {
+    "id": "self-recalling-related-items",
+    "title": "Practising one memory can make a related one harder to recall",
+    "body": "In a 1994 study, people learnt words in groups such as fruit. When they practised recalling only some of a group's words, unpractised words from that group were harder to recall later with the category as a clue.",
+    "takeaway": "When reviewing related terms, rotate which ones you practise so a few familiar answers do not dominate.",
+    "source": "Anderson, Bjork and Bjork, Journal of Experimental Psychology (1994)",
+    "visual": "a bowl of fruit with a single orange set apart on a desk"
+  },
+  {
+    "id": "self-mental-rotation-angle",
+    "title": "A larger turn took longer to picture in a mental rotation test",
+    "body": "In a 1971 experiment, people judged whether drawings showed the same three-dimensional shape from different angles. Responses typically took longer as the angle between the two views increased.",
+    "takeaway": "How long a task takes can reveal something about the mental work a person is doing unseen.",
+    "source": "Shepard and Metzler, Science (1971)",
+    "visual": "two matching angular block shapes shown at different orientations"
+  },
+  {
+    "id": "self-rewards-quality-quantity",
+    "title": "Motivation and incentives predict different parts of performance",
+    "body": "In a 2014 review of studies spanning four decades, intrinsic motivation was a stronger predictor of work quality, while incentives were a better predictor of quantity.",
+    "takeaway": "If you reward the amount produced, check whether the work's quality moves in the same direction.",
+    "source": "Cerasoli, Nicklin and Ford, Psychological Bulletin (2014)",
+    "visual": "a stack of finished clay bowls beside one carefully shaped bowl on a potter's wheel"
+  }
+]

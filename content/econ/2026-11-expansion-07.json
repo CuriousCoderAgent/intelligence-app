@@ -1,0 +1,18 @@
+[
+  {
+    "id": "econ-vietnam-trade-formal-jobs",
+    "title": "Lower US tariffs shifted Vietnamese workers towards formal factories",
+    "body": "The US-Vietnam trade agreement cut US tariffs on Vietnamese goods. Brian McCaig and Nina Pavcnik found that Vietnamese industries facing larger tariff cuts had larger shifts from informal to formal manufacturing work.",
+    "takeaway": "A trade agreement can change what kind of firms hire workers within an exporting country.",
+    "source": "McCaig and Pavcnik, American Economic Review (2018)",
+    "visual": "workers entering a factory building beside a row of parked bicycles in Vietnam"
+  },
+  {
+    "id": "econ-gdp-value-added",
+    "title": "Value added keeps the same flour from being counted twice",
+    "body": "Suppose a bakery buys flour for 60 rupees and sells bread for 100. The bakery adds 40 rupees before other inputs. Counting the value added at each stage prevents the flour's full price from being counted again in the bread.",
+    "takeaway": "GDP can count production across a chain without treating every intermediate sale as a new finished product.",
+    "source": "World Bank Data Help Desk, Total Value Added and Gross Domestic Product",
+    "visual": "a loaf of bread beside a sack of flour on a bakery worktop"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "id": "self-shopping-phone-break",
+    "title": "A phone break was less restorative in one lab experiment",
+    "body": "In a 2019 study, people paused an anagram task to select items for a shopping list. Those who did the break task on a phone took longer and solved fewer anagrams afterwards than people who used paper or a larger screen.",
+    "takeaway": "The activity during a break can matter even if the time away from work is the same.",
+    "source": "Kang and Kurtzberg, Journal of Behavioral Addictions (2019)",
+    "visual": "a mobile phone with its screen turned down beside loose puzzle pieces"
+  },
+  {
+    "id": "self-short-breaks-vigilance-evidence",
+    "title": "Brief attention breaks helped in one test but not another",
+    "body": "A 2011 experiment found that rarely switching away from a long visual task helped people maintain performance. A 2012 study failed to find the same benefit in a different vigilance task.",
+    "takeaway": "Judge a break by whether it helps you return to the work, since the effect can depend on the task.",
+    "source": "Ariga and Lleras, Cognition (2011); Helton and Russell, Experimental Brain Research (2012)",
+    "visual": "a shaded desk with a paused task and an empty chair"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "id": "math-cassini-fibonacci-identity",
+    "title": "A Fibonacci middle square differs from the outer product by one",
+    "body": "Take 5, 8 and 13 from the Fibonacci sequence. The outer product is 65 and the middle square is 64. For any three consecutive terms, those two results differ by one, with the sign alternating.",
+    "takeaway": "The same addition rule that grows the sequence also keeps its neighbouring products strikingly close.",
+    "source": "Wolfram MathWorld, Cassini's Identity",
+    "visual": "three piles of counters of increasing size beside a square array"
+  },
+  {
+    "id": "math-banach-tarski-ideal-ball",
+    "title": "An ideal ball can be rearranged into two of the same size",
+    "body": "The Banach-Tarski theorem splits a mathematical ball into finitely many sets and moves them to make two balls of the original size. The sets are scattered collections of points to which ordinary volume cannot be assigned.",
+    "takeaway": "The argument reveals a limit to treating every possible set of points as having a volume.",
+    "source": "Wolfram MathWorld, Banach-Tarski Paradox",
+    "visual": "an abstract sphere made of scattered points beside two equal point-filled spheres"
+  }
+]

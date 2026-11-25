@@ -1,0 +1,18 @@
+[
+  {
+    "id": "soc-global-household-by-person",
+    "title": "The size of the home you experience is weighted by its residents",
+    "body": "Pew's 2019 study of living arrangements reported household size from a person's perspective. A six-person home counts for six people in that average, while a person living alone counts once.",
+    "takeaway": "The typical person can live in a larger home than a count of typical households would suggest.",
+    "source": "Pew Research Center, Religion and Living Arrangements Around the World (2019)",
+    "visual": "a cross-section of two homes, one with a family dining together and one with a lone resident"
+  },
+  {
+    "id": "soc-pew-india-same-religion-spouses",
+    "title": "Most married Indians in one survey shared a spouse's religion",
+    "body": "In a 2021 Pew report based on interviews in India, 99% of married respondents said their spouse shared their religion. The figure came from people's own accounts of their marriage.",
+    "takeaway": "A country can be religiously diverse at the national scale while most households are formed within a faith group.",
+    "source": "Pew Research Center, Religion in India: Tolerance and Segregation (2021)",
+    "visual": "two adults sitting across from one another on a shaded veranda"
+  }
+]

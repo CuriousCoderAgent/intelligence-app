@@ -1,0 +1,18 @@
+[
+  {
+    "id": "self-chess-memory-meaning",
+    "title": "Chess experts remember game positions better than scrambled ones",
+    "body": "In experiments, strong chess players recall more of a briefly shown position than weaker players. Their advantage is greater for positions from games than for randomly placed pieces, where familiar relationships are less common.",
+    "takeaway": "To remember a complex scene, learn the patterns that connect its parts.",
+    "source": "Gobet and Simon, Memory & Cognition (1996)",
+    "visual": "a chessboard with pieces placed in a recognisable midgame formation"
+  },
+  {
+    "id": "self-candle-box-fixedness",
+    "title": "An object's usual job can hide another use for it",
+    "body": "In Karl Duncker's candle problem, a small box could be pinned to a wall as a shelf. Solvers had more difficulty seeing that use when the box was presented full of tacks rather than empty.",
+    "takeaway": "If you are stuck, describe the object's shape or material before naming what it is usually for.",
+    "source": "German and Defeyter, Psychonomic Bulletin & Review (2000)",
+    "visual": "a small box used as a candle shelf on a plain wall"
+  }
+]

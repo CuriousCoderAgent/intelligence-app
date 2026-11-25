@@ -1,0 +1,34 @@
+[
+  {
+    "id": "sci-socotra-endemic-reptiles",
+    "title": "About 90% of Socotra's reptiles occur nowhere else",
+    "body": "The Socotra Archipelago lies off the Horn of Africa in the northwestern Indian Ocean. UNESCO reports that about 90% of its reptile species and 37% of its plant species are found nowhere else.",
+    "takeaway": "Protecting an isolated set of islands can preserve lineages with no second home elsewhere on Earth.",
+    "source": "UNESCO World Heritage Centre, Socotra Archipelago (2008)",
+    "visual": "a small reptile on a rock under a dragon blood tree on Socotra"
+  },
+  {
+    "id": "sci-purnululu-dark-bands",
+    "title": "Microbes make dark stripes on Australia's sandstone towers",
+    "body": "The Bungle Bungle Range in Western Australia has beehive-shaped sandstone towers. Some of their distinctive dark bands are a crust of cyanobacteria, microbes that get energy from light.",
+    "takeaway": "From a distance, living cells can mark a rocky landscape as clearly as minerals do.",
+    "source": "UNESCO World Heritage Centre, Purnululu National Park (2003)",
+    "visual": "banded beehive-shaped sandstone towers at Purnululu"
+  },
+  {
+    "id": "sci-coral-bleaching-partners",
+    "title": "A bleached coral has lost much of its living colour source",
+    "body": "Many reef-building corals house tiny algae in their tissues. When heat or other stresses disrupt that partnership, corals can expel the algae, revealing the pale skeleton beneath.",
+    "takeaway": "A coral can still be alive when it turns white, though losing its partners makes survival harder.",
+    "source": "NOAA Ocean Service, Are Corals Animals or Plants?",
+    "visual": "a pale patch on a branching coral beside still-coloured branches"
+  },
+  {
+    "id": "sci-old-faithful-timing",
+    "title": "Old Faithful's timing depends on its previous eruption",
+    "body": "Yellowstone's Old Faithful can go about 40 to 100 minutes between eruptions. Shorter eruptions are generally followed by shorter waits, while longer eruptions tend to precede longer ones.",
+    "takeaway": "The next forecast is based on what the geyser just did, rather than a fixed timetable.",
+    "source": "US Geological Survey, Old Faithful Geyser",
+    "visual": "a plume of steam and water above Old Faithful's low rocky mound"
+  }
+]

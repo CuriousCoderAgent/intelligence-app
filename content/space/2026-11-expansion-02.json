@@ -1,0 +1,34 @@
+[
+  {
+    "id": "space-saturn-hexagonal-jet",
+    "title": "Saturn has a six-sided jet stream",
+    "body": "A jet stream wraps around Saturn's north pole in a roughly hexagonal shape about 30,000 km across. Voyager images showed it in the early 1980s, and Cassini photographed it again decades later.",
+    "takeaway": "A pattern can be stable even while the gas making it moves at hundreds of kilometres an hour.",
+    "source": "NASA Science, Saturn's Hexagon in Motion",
+    "visual": "the north pole of Saturn with a six-sided band of clouds"
+  },
+  {
+    "id": "space-ganymede-magnetic-field",
+    "title": "Jupiter's moon Ganymede has its own magnetic field",
+    "body": "In 1996 NASA's Galileo spacecraft measured a magnetic field around Ganymede. Unlike a field imposed entirely by Jupiter, the moon's own field creates a small region of magnetic influence around it.",
+    "takeaway": "A spacecraft can learn about a moon's hidden interior by measuring the space around it.",
+    "source": "NASA Science, Ganymede Facts",
+    "visual": "Jupiter's moon Ganymede against a dark backdrop, with faint auroral light near a pole"
+  },
+  {
+    "id": "space-triton-retrograde",
+    "title": "Neptune's largest moon goes around it backwards",
+    "body": "Triton circles Neptune in the opposite direction to the planet's spin. It is the only large moon in the Solar System with this kind of orbit, which suggests Neptune captured it rather than forming it in place.",
+    "takeaway": "A moon's direction of travel can preserve a clue to where it came from.",
+    "source": "NASA Science, Triton",
+    "visual": "a small frosted moon beside the blue curve of Neptune"
+  },
+  {
+    "id": "space-ceres-bright-salts",
+    "title": "Ceres has a crater with bright salt deposits",
+    "body": "In 2015 NASA's Dawn spacecraft saw bright patches inside Occator, a crater on the dwarf planet Ceres. Dawn's observations showed that sodium carbonate dominates the light-coloured deposits.",
+    "takeaway": "The reflected light can identify what looks like an anonymous bright patch from a distance.",
+    "source": "NASA Science, Dawn Reveals Recent Changes in Ceres' Surface",
+    "visual": "a dark crater on Ceres with bright deposits on its floor"
+  }
+]

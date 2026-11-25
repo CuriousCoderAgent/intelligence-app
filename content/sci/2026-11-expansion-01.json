@@ -1,0 +1,26 @@
+[
+  {
+    "id": "sci-ocean-sound-channel",
+    "title": "The ocean can bend sound back toward a hidden channel",
+    "body": "At some depths, sound moves more slowly than in the water above and below. Sound waves bend towards that slower layer, trapping some of the sound in a band called the SOFAR channel.",
+    "takeaway": "An underwater signal can reach distant listeners because the sea itself guides it.",
+    "source": "NOAA Ocean Service, What Is SOFAR?",
+    "visual": "a hydrophone suspended deep in a dark open ocean"
+  },
+  {
+    "id": "sci-seafloor-magnetic-stripes",
+    "title": "The seafloor records flips in Earth's magnetic field",
+    "body": "The last full reversal of Earth's magnetic field was about 780,000 years ago. As lava cools at mid-ocean ridges, magnetic minerals preserve the field's direction, leaving stripes of opposite polarity in older and newer rock.",
+    "takeaway": "The matching stripes on either side of a ridge helped establish that the seafloor spreads.",
+    "source": "US Geological Survey, This Dynamic Earth and Magnetic Reversals FAQ",
+    "visual": "a cutaway of a mid-ocean ridge with mirrored bands in the rock"
+  },
+  {
+    "id": "sci-rain-and-ocean-salt",
+    "title": "Some of the ocean's salt starts on land",
+    "body": "Rainwater is slightly acidic because it absorbs carbon dioxide from air. As it breaks down rock, it releases charged particles that rivers carry to the ocean. Sodium and chloride are the most abundant dissolved ions in seawater.",
+    "takeaway": "The chemistry of the sea reflects processes that begin far inland.",
+    "source": "NOAA Ocean Service, Why Is the Ocean Salty?",
+    "visual": "a river flowing through a rocky valley toward a dark sea"
+  }
+]

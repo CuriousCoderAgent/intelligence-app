@@ -1,0 +1,26 @@
+[
+  {
+    "id": "math-random-chord-bertrand",
+    "title": "A random line across a circle can have more than one right probability",
+    "body": "Choose a chord, a straight line joining two points on a circle. The chance it is longer than the side of an inscribed equilateral triangle is one-third if you choose two points uniformly. Other ways of choosing a chord give different results.",
+    "takeaway": "A probability question needs a precise rule for how the sample is drawn.",
+    "source": "Wolfram MathWorld, Bertrand's Problem",
+    "visual": "a circular ring crossed by several fine straight threads"
+  },
+  {
+    "id": "math-hilbert-hotel-one-more",
+    "title": "An infinite hotel can be full and still take another guest",
+    "body": "Imagine a hotel with rooms numbered 1, 2, 3 and so on without end. Even if all rooms are occupied, moving each guest to the next room frees room 1 without leaving anyone outside.",
+    "takeaway": "An infinite collection can match up with a proper subset of itself, which finite collections cannot do.",
+    "source": "Wolfram MathWorld, Hilbert Hotel",
+    "visual": "a hotel corridor with identical unnumbered doors stretching into darkness"
+  },
+  {
+    "id": "math-square-triangular-36",
+    "title": "Thirty-six dots can make a square or a solid triangle",
+    "body": "A square array with six dots on each side uses 36 dots. A triangle with rows of one, two and so on up to eight dots also uses 36. Mathematicians call this a square triangular number.",
+    "takeaway": "Numbers can share two geometric patterns, even when the shapes are built in very different ways.",
+    "source": "Wolfram MathWorld, Square Triangular Number",
+    "visual": "two arrangements of small stones, one in a square and one in a filled triangle"
+  }
+]

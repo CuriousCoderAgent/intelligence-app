@@ -1,0 +1,34 @@
+[
+  {
+    "id": "econ-findex-account-gap",
+    "title": "The bank account gender gap narrowed in a 2021 survey",
+    "body": "In the World Bank's 2021 Global Findex, women in developing economies were 6 percentage points less likely than men to have a financial account. The gap had stood at around 9 points for many years.",
+    "takeaway": "Access can expand for both groups while the difference between them changes at a different pace.",
+    "source": "World Bank, Global Findex 2021",
+    "visual": "two plain bank passbooks resting next to a counter window"
+  },
+  {
+    "id": "econ-raj-railways-price-gaps",
+    "title": "India's early railways narrowed price gaps between regions",
+    "body": "Dave Donaldson used data from colonial India to study what happened as railway lines opened. His analysis found that trading became cheaper and prices for the same goods in different regions grew closer.",
+    "takeaway": "The effects of a railway can show up in a market stall as well as in passenger numbers.",
+    "source": "Dave Donaldson, American Economic Review (2018)",
+    "visual": "a freight train beside sacks of produce at a colonial-era Indian station"
+  },
+  {
+    "id": "econ-kenya-vendor-savings",
+    "title": "A savings account helped market vendors invest in one Kenyan trial",
+    "body": "In a study published in 2013, researchers offered some rural Kenyan traders help opening a savings account. Women selling goods at markets used the accounts and invested more in their businesses than comparable women without the offer.",
+    "takeaway": "A place to keep earnings can matter for a small business even when no one supplies a loan.",
+    "source": "Dupas and Robinson, American Economic Journal: Applied Economics (2013)",
+    "visual": "a Kenyan market stall holder counting earnings beside baskets of vegetables"
+  },
+  {
+    "id": "econ-qe-digital-reserves",
+    "title": "Quantitative easing pays for bonds with newly created digital reserves",
+    "body": "In quantitative easing, a central bank creates reserves electronically and uses them to buy assets such as government bonds from investors. The purchases aim to lower longer-term borrowing costs.",
+    "takeaway": "It is a way to try to influence long-term rates even when the short-term policy rate has little room to fall.",
+    "source": "Bank of England, Quantitative Easing",
+    "visual": "a face-down bond certificate beside a computer terminal in a central bank"
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "id": "math-picks-area",
+    "title": "Grid dots can reveal a polygon's area",
+    "body": "Draw a simple polygon whose corners are on an evenly spaced square grid. Pick's theorem gives its area in grid squares by adding the number of interior dots and half the boundary dots, then subtracting one.",
+    "takeaway": "Even a crooked outline can be measured by counting points instead of slicing it into triangles.",
+    "source": "Wolfram MathWorld, Pick's Theorem",
+    "visual": "an irregular polygon made of fine thread stretched around pegs on a square grid"
+  },
+  {
+    "id": "math-cyclic-one-seventh",
+    "title": "Multiplying 142857 can rotate its digits",
+    "body": "The decimal for one seventh repeats 142857. Multiply that six-digit block by any whole number from 1 to 6 and the digits stay in the same circular order. For example, twice 142857 is 285714.",
+    "takeaway": "A repeating decimal can carry a pattern you can see only after treating its ends as joined.",
+    "source": "Wolfram MathWorld, Cyclic Number",
+    "visual": "six beads of different shades strung around a ring on a dark surface"
+  },
+  {
+    "id": "math-convex-polyhedra-euler",
+    "title": "Every convex polyhedron has the same counting shortcut",
+    "body": "Count a convex solid's corners and faces, then subtract its edges. The answer is always 2. A cube gives eight corners plus six faces minus 12 edges, and a tetrahedron gives four plus four minus six.",
+    "takeaway": "The count exposes a property shared by shapes that look very different.",
+    "source": "Wolfram MathWorld, Polyhedral Formula",
+    "visual": "a wireframe cube beside a small wireframe tetrahedron on a plain surface"
+  },
+  {
+    "id": "math-euclid-primes-no-end",
+    "title": "Any finite list of primes must be incomplete",
+    "body": "Multiply all the primes on a finite list and add one. Dividing the result by any prime on that list leaves a remainder of one, so the new number must have a prime factor that the list missed.",
+    "takeaway": "You can prove there is no largest prime without having to find a particular next prime.",
+    "source": "Euclid, Elements, Book IX, Proposition 20",
+    "visual": "a row of small stone blocks receding into darkness with space for one more"
+  }
+]

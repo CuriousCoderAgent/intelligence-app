@@ -1,0 +1,26 @@
+[
+  {
+    "id": "sci-caesium-defines-second",
+    "title": "A second is defined using 9,192,631,770 cycles",
+    "body": "The international second is defined by setting the frequency of a particular transition in a caesium-133 atom to exactly 9,192,631,770 cycles per second. Atomic clocks tune a signal to match that transition.",
+    "takeaway": "A unit of time can be reproduced with the same kind of atom in laboratories far apart.",
+    "source": "US National Institute of Standards and Technology, Meet the Constants",
+    "visual": "a caesium atomic clock with a softly lit vacuum chamber"
+  },
+  {
+    "id": "sci-light-defines-metre",
+    "title": "The metre is defined by how far light travels",
+    "body": "Since 1983 the metre has been tied to light's speed in a vacuum, set exactly at 299,792,458 metres per second. A metre is the distance light travels in one of that many equal slices of a second.",
+    "takeaway": "Any laboratory that can reproduce the second can, in principle, realise the same unit of length.",
+    "source": "US National Institute of Standards and Technology, Defining the International System of Units",
+    "visual": "a narrow beam crossing a dark optical bench between two mirrors"
+  },
+  {
+    "id": "sci-pumice-raft",
+    "title": "A volcanic eruption can send a raft of rock across the sea",
+    "body": "In 1979 a pumice raft was the first sign of an eruption near Metis Shoal in Tonga. Pumice contains many gas pockets, so pieces of the rock can float and gather in a broad layer on the ocean.",
+    "takeaway": "Floating fragments can reveal an underwater eruption before its source is visible.",
+    "source": "US Geological Survey, Volcano Watch: Metis Shoal, Tonga",
+    "visual": "a field of light pumice fragments drifting together on dark ocean water"
+  }
+]

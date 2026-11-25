@@ -1,0 +1,26 @@
+[
+  {
+    "id": "math-mersenne-prime-exponents",
+    "title": "A prime exponent does not guarantee a Mersenne prime",
+    "body": "A Mersenne number is a power of 2 minus one. The exponent 11 is prime, but raising 2 to 11 and subtracting one gives 2,047, which is 23 times 89.",
+    "takeaway": "A condition can rule out many candidates without proving that the remaining ones work.",
+    "source": "Wolfram MathWorld, Mersenne Number",
+    "visual": "a formation of small tiles divided into a neat rectangular array"
+  },
+  {
+    "id": "math-gabriel-horn-area",
+    "title": "A mathematical horn has finite volume and infinite area",
+    "body": "Gabriel's horn comes from spinning the curve given by one divided by x around its horizontal axis, starting at x equal to one. Its volume is pi cubic units even though its outer surface has infinite area.",
+    "takeaway": "Knowing how much a shape holds does not tell you how much surface it has.",
+    "source": "Wolfram MathWorld, Gabriel's Horn",
+    "visual": "a wide horn that tapers into a very fine tip receding into darkness"
+  },
+  {
+    "id": "math-handshake-odd-count",
+    "title": "The number of guests with odd handshake counts is always even",
+    "body": "Count everyone's handshakes and add the totals. Every handshake is in two totals, so the sum is even. That means an odd total for one guest must be matched by an odd total for another.",
+    "takeaway": "The same rule applies to a diagram of roads, where the points are junctions and the connections are roads.",
+    "source": "Wolfram MathWorld, Handshaking Lemma",
+    "visual": "several hands meeting in pairs around the edge of a dark table"
+  }
+]
