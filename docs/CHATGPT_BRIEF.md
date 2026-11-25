@@ -88,6 +88,7 @@ A finished card, as it is stored:
 
 - It must be **literally true on its own**. Many readers will see only the title. If the title alone would mislead them, rewrite it.
 - State the surprising thing directly. Good: "Sharks are older than trees". Weak: "An amazing fact about sharks".
+- Say what is so, not what is not. A title built on a negative is hard to parse. Bad: "Old windows are not thicker at the bottom because glass flows". Good: "Old windows are thicker at the bottom, but the glass never flowed".
 - No clickbait ("You won't believe..."), no questions used as bait, no exclamation marks.
 - Sentence case, no full stop at the end unless the title is two sentences.
 
@@ -96,6 +97,7 @@ A finished card, as it is stored:
 - Two or three plain sentences.
 - Put in the specifics: the number with its unit, the person's name, the year, the place. "About 66 days, with a range from 18 to 254" is better than "a couple of months".
 - One idea only. If you want to write "also", you have a second card.
+- Assume no background. The reader has only the card. If the card corrects a common belief, state that belief in plain words first, then say why it is wrong. The owner flagged a card that debunked the idea that glass slowly flows without ever saying that anyone believed it, and it made no sense to him.
 - Give the mechanism or the evidence when there is room: how do we know, or why is it so?
 - If the fact is an estimate, say so ("an estimated", "about"). If experts dispute it, say that too.
 

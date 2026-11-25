@@ -3,7 +3,7 @@ import type { CardRef, Fact } from '../types.ts'
 import type { FactState } from '../lib/deck.ts'
 import { categoryOf } from '../lib/topics.ts'
 import { CardArt } from './CardArt.tsx'
-import { BookmarkIcon, ShareIcon } from './Icons.tsx'
+import { BookmarkIcon, HeartIcon, ShareIcon } from './Icons.tsx'
 
 export const groundStyle = (card: CardRef) => {
   const category = categoryOf(card.category)
@@ -14,7 +14,9 @@ interface Props {
   card: CardRef
   state: FactState
   saved: boolean
-  onToggleSave: (id: string) => void
+  liked: boolean
+  onToggleSave: (card: CardRef) => void
+  onToggleLike: (card: CardRef) => void
   onShare: (fact: Fact) => void
 }
 
@@ -22,7 +24,7 @@ interface Props {
  * The inside of a card. Art and topic label come from the card's id alone, so
  * they appear at once; the text fills in when its pack has loaded.
  */
-export function Card({ card, state, saved, onToggleSave, onShare }: Props) {
+export function Card({ card, state, saved, liked, onToggleSave, onToggleLike, onShare }: Props) {
   const fact = state.status === 'ready' ? state.fact : undefined
   return (
     <>
@@ -57,10 +59,19 @@ export function Card({ card, state, saved, onToggleSave, onShare }: Props) {
           <div className="actions">
             <button
               type="button"
+              className="icon-btn icon-btn--like"
+              aria-pressed={liked}
+              aria-label={liked ? 'Remove like' : 'Like this card'}
+              onClick={() => onToggleLike(card)}
+            >
+              <HeartIcon filled={liked} />
+            </button>
+            <button
+              type="button"
               className="icon-btn"
               aria-pressed={saved}
               aria-label={saved ? 'Remove from saved' : 'Save this card'}
-              onClick={() => onToggleSave(card.id)}
+              onClick={() => onToggleSave(card)}
             >
               <BookmarkIcon filled={saved} />
             </button>

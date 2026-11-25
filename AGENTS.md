@@ -57,7 +57,8 @@ The reader chose this over social media. Every card should leave them knowing on
 
 - **One idea per card.** If the body needs "also", it is two cards.
 - **True, and checkable.** Verify every number, name and date against a primary or reputable source before writing it. Name that source. If you cannot find a source, do not write the card.
-- **Avoid famous myths** (we use 10% of our brains, goldfish have three-second memories, the Great Wall is visible from space). A card that debunks a myth with a source is good.
+- **Assume no background.** The reader should be able to follow the card with nothing but the card. Do not lean on a story, a term or a debate they may never have heard of.
+- **Avoid famous myths** (we use 10% of our brains, goldfish have three-second memories, the Great Wall is visible from space). A card that debunks a myth with a source is good, but it must first say what the myth is, in plain words, before saying why it is wrong.
 - **Flag real disputes.** If a finding is contested or failed to replicate, say so in the body or takeaway, or skip it.
 - **Surprising or useful.** "Paris is the capital of France" is true and worthless. Prefer facts that change how the reader sees something, or that they can apply.
 - **Specific over vague.** "About 66 days, with a range of 18 to 254" beats "a couple of months".
@@ -71,6 +72,7 @@ The reader chose this over social media. Every card should leave them knowing on
 - British spelling (colour, metre, organisation).
 - Plain, direct sentences. No exclamation marks, no clickbait ("You won't believe..."), no rhetorical filler.
 - The title must be literally true on its own. A reader who sees only the title should not be misled.
+- Say what is so, not what is not. "Old windows are thicker at the bottom, but the glass never flowed" is clear. "Old windows are not thicker at the bottom because glass flows" makes the reader untangle a negative.
 - Plain text only: Latin letters, digits and ordinary punctuation. No emoji, arrows, maths symbols, superscripts or non-Latin scripts, because the app's fonts do not include them. Write "about" in place of an approximately sign, and transliterate other scripts.
 - `visual` describes a scene to paint, in the style "a lone spacecraft drifting through deep darkness, the Sun only a bright star behind it". It must not ask for text, letters, numbers, logos, maps with labels, or the likeness of a living person.
 
@@ -125,4 +127,24 @@ This keeps startup fast however large the deck grows. It was tested with 6,000 c
 - A pull request that adds content should not also change app code, and the reverse.
 - `main` is deployed automatically. Open a pull request; do not push to `main` directly.
 - Reader progress is stored on the device under the key `lumen.v1` (`src/lib/storage.ts`). Changing its shape needs a migration, or readers lose their history.
-- Keep the app free of accounts, trackers and third-party network requests unless the owner asks for them.
+- Accounts exist because the owner asked for them, and they are optional: a reader who never signs in must be able to use everything except syncing, people matching and feature requests, with all their data staying on the device.
+- Keep the app free of advertising, trackers and scripts from other companies. Sign-in with Google runs through our own server, so the app loads nothing from Google.
+- Never show how many cards the deck holds. The owner does not want its size advertised.
+
+## The server
+
+`server/` is a small API (Hono on Node, Postgres) that runs on Railway. It holds accounts, synced progress, people matching, connections and feature requests. `server/src/index.mjs` lists its environment variables. The app finds it through `VITE_API_URL` in `.env.production`.
+
+```bash
+cd server
+npm install
+npm test        # 13 tests against an in-memory Postgres
+npm run dev     # local API with an in-memory database and a stand-in for Google
+```
+
+Rules that matter here:
+
+- A reader's email is never sent to another reader. Other readers see a chosen name, photo and top topics, and only when both have switched on "Let others find me".
+- Contact details are returned only for a connection both sides have accepted. `server/test/api.test.mjs` pins this down; keep those tests passing.
+- Database changes go at the end of `MIGRATIONS` in `server/src/db.mjs`. Never edit a migration that has run.
+- Reading statistics are kept per device and added up, so a sync can never count anything twice.

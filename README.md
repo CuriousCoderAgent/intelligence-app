@@ -8,7 +8,10 @@ One idea per swipe. A full-screen feed of short, sourced facts across twelve top
 - Pick topics, save cards, share a link to a card
 - A pause after every ten new cards, and an end to the deck. It is meant to be put down
 - Installs to the home screen and works offline (PWA)
-- No account, no server, no tracking. Progress is stored on the device
+- A page of your own reading: time spent, cards read, and the topics you turn out to like
+- Like, save and share cards. The feed leans gently towards what you like
+- No account needed, and no tracking. Without one, everything stays on the device
+- Optional Google sign-in: progress follows you between devices, and you can be introduced to readers with similar tastes
 
 ## Run it
 
@@ -65,7 +68,11 @@ src/
   components/Feed.tsx     the swipe feed
   components/Card.tsx     one card
   components/CardArt.tsx  picture, or generated line art when there is none
+  lib/insights.ts         what the reader likes, worked out on the device
+  lib/api.ts              client for the server (sign-in, sync, people)
+  components/YouPanel.tsx the reader's page: time, likes, links to the rest
   styles.css              all styling
+server/                   accounts, sync, people matching (runs on Railway)
 scripts/
   lib/deck.mjs            reads and validates content/ (shared by everything)
   lib/vite-deck.mjs       build plugin: card index, trimmed packs
@@ -79,8 +86,22 @@ qc/
 
 The app name is set in three places: `APP_NAME` in `src/App.tsx`, the manifest in `vite.config.ts`, and `index.html`.
 
+## The server and Google sign-in
+
+Accounts, sync, people matching and feature requests are handled by a small API in `server/`, running on Railway with a Postgres database. The app finds it through `VITE_API_URL` in `.env.production`. Delete that line and the app builds with no accounts at all.
+
+Sign-in stays switched off, and hidden in the app, until the server has a Google client id and secret. To switch it on:
+
+1. In Google Cloud Console, create a project, then **APIs & Services > OAuth consent screen**: choose External, give the app a name and your email, and add the scopes `openid`, `email` and `profile`.
+2. **APIs & Services > Credentials > Create credentials > OAuth client ID**, type **Web application**. Under **Authorised redirect URIs** add exactly `https://api-production-3ea7ab67.up.railway.app/auth/google/callback`.
+3. In Railway, open the `lumen` project, the `api` service, **Variables**, and add `GOOGLE_CLIENT_ID` and `GOOGLE_CLIENT_SECRET` with the two values Google shows. Railway redeploys by itself.
+4. While the consent screen is in Testing, only the Google accounts you list as test users can sign in. Press **Publish app** when you want anyone to be able to.
+
+Feature requests land in the `feature_requests` table of the Railway database (Railway > `lumen` > Postgres > Data).
+
 ## Before making it public
 
 - Re-verify facts against primary sources. Every card names its source, but the starter deck was written in one pass and has not been independently fact-checked. The same goes for cards added by any AI assistant.
 - Check the usage terms of the image tool for commercial use of generated pictures.
-- Progress lives only on each device. Accounts or sync across devices would need a backend.
+- Write a short privacy policy page and link it from the Google consent screen. The app's own privacy page (You > Your data and privacy) says what is stored; Google asks for a public address.
+- People matching shows a name, photo and top topics to other opted-in readers. Before strangers use it, add a way to block or report someone.

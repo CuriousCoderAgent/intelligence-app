@@ -63,8 +63,9 @@ For each card, check:
 2. **Is the title literally true on its own?**
 3. **Is the source real, and does it say this?** A card must not cite a paper or book that does not exist or does not contain the claim.
 4. **Is it a known myth, or a finding that failed to replicate, presented as settled?**
-5. **Does it meet the rest of the bar in `AGENTS.md`?** One idea, specific, still true in five years, not partisan, not advice, British spelling, plain characters.
-6. **Is it already in the deck under another title?** Look at that topic's section of `docs/CARD_INDEX.md`.
+5. **Would it make sense to someone with no background?** Read it as a tired person on a phone would. If it corrects a belief, it must say what the belief is first. If the title is built on a negative, or the body leans on a term or story it never explains, rewrite it.
+6. **Does it meet the rest of the bar in `AGENTS.md`?** One idea, specific, still true in five years, not partisan, not advice, British spelling, plain characters.
+7. **Is it already in the deck under another title?** Look at that topic's section of `docs/CARD_INDEX.md`.
 
 Then:
 

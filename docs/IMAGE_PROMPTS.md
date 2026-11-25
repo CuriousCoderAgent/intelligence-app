@@ -697,7 +697,7 @@ Save as `sci-05.png`
 Illustration of an octopus drifting in deep blue water with its arms curling in different directions, each seemingly acting on its own. Colour palette: deep ocean blue and bright cyan, on a dark background. Style: rich editorial illustration, painterly digital art with bold simplified shapes, dramatic cinematic lighting and a subtle film grain. No text, letters, numbers, logos, borders or watermarks anywhere in the image. Format: vertical 2:3 portrait, 1024 x 1536 pixels. Centre the main subject and place it about one third of the way down. Leave a little plain background above it. Keep the bottom 40% of the image dark, simple and free of detail, because it fades into a text panel.
 ```
 
-### sci-06 · Old windows are not thicker at the bottom because glass flows
+### sci-06 · Old windows are thicker at the bottom, but the glass never flowed
 
 Save as `sci-06.png`
 

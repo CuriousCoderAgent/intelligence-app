@@ -21,13 +21,18 @@ interface Options {
   seed: string | number
   /** Treat every card as unread (used by "Shuffle everything"). */
   ignoreSeen?: boolean
+  /** How strongly to favour each topic, from the reader's own habits. Missing topics count as 1. */
+  weights?: Record<CategoryId, number>
 }
 
 /**
- * Orders cards so no two neighbours share a topic where that is avoidable:
- * always draw from the topic with the most cards left, skipping the last one used.
+ * Orders cards so no two neighbours share a topic where that is avoidable.
+ * Each draw picks a topic at random, skipping the last one used. A topic's
+ * chance grows with the cards it has left, which keeps topics running out
+ * together, and with how much the reader likes it, which brings their
+ * favourites round a little more often early on.
  */
-function spreadTopics(cards: CardRef[], rand: () => number): CardRef[] {
+function spreadTopics(cards: CardRef[], rand: () => number, weights: Record<CategoryId, number>): CardRef[] {
   const piles = new Map<CategoryId, CardRef[]>()
   for (const f of shuffle(cards, rand)) {
     const pile = piles.get(f.category) ?? []
@@ -39,21 +44,29 @@ function spreadTopics(cards: CardRef[], rand: () => number): CardRef[] {
   while (out.length < cards.length) {
     const open = [...piles.entries()].filter(([, pile]) => pile.length > 0)
     const candidates = open.length > 1 ? open.filter(([id]) => id !== last) : open
-    const most = Math.max(...candidates.map(([, pile]) => pile.length))
-    const top = candidates.filter(([, pile]) => pile.length === most)
-    const [id, pile] = top[Math.floor(rand() * top.length)]
+    const odds = candidates.map(([id, pile]) => pile.length ** 2 * (weights[id] ?? 1))
+    let pick = rand() * odds.reduce((a, b) => a + b, 0)
+    let chosen = candidates.length - 1
+    for (let i = 0; i < candidates.length; i++) {
+      pick -= odds[i]
+      if (pick <= 0) {
+        chosen = i
+        break
+      }
+    }
+    const [id, pile] = candidates[chosen]
     out.push(pile.pop()!)
     last = id
   }
   return out
 }
 
-export function buildFeed({ cards, seen, topics, first, seed, ignoreSeen }: Options): FeedItem[] {
+export function buildFeed({ cards, seen, topics, first, seed, ignoreSeen, weights = {} }: Options): FeedItem[] {
   const rand = rng(seed)
   const pool = topics.length ? cards.filter((f) => topics.includes(f.category)) : cards
   const isSeen = (f: CardRef) => !ignoreSeen && seen[f.id] !== undefined && f.id !== first
 
-  let fresh = spreadTopics(pool.filter((f) => !isSeen(f)), rand)
+  let fresh = spreadTopics(pool.filter((f) => !isSeen(f)), rand, weights)
   if (first) {
     const lead = fresh.find((f) => f.id === first)
     if (lead) fresh = [lead, ...fresh.filter((f) => f !== lead)]

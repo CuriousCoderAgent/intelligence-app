@@ -37,6 +37,8 @@ export default defineConfig(({ mode }) => ({
           // cards only downloads the new packs. Card images are cached as they
           // are viewed so a large image library does not bloat the install.
           globPatterns: ['**/*.{js,css,html,woff2,svg,png}'],
+          // The link-preview picture is fetched by chat apps, never by the app itself.
+          globIgnores: ['**/og.png'],
           runtimeCaching: [
             {
               urlPattern: /\.(?:webp|avif|jpe?g)$/,
