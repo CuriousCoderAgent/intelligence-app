@@ -8,3 +8,7 @@ dev-dist/
 # src/assets/cards/ are what the app ships, so only those are committed.
 image-inbox/*
 !image-inbox/.gitkeep
+
+# Working files of `npm run qc`. Only qc/state.json and the docs in qc/ are kept.
+qc/report.md
+qc/review-batch.json

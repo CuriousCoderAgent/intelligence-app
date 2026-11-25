@@ -1,0 +1,82 @@
+[
+  {
+    "id": "sci-penicillin-cantaloupe",
+    "title": "The world's penicillin came from one mouldy melon",
+    "body": "Alexander Fleming noticed in 1928 that a mould killed bacteria, but his strain made too little to be useful. In 1943 a lab worker in Peoria, Illinois, brought in a rotting cantaloupe from a market. Its mould produced far more penicillin and became the ancestor of the industrial strains.",
+    "takeaway": "By June 1944 there was enough for every wounded Allied soldier in the Normandy landings.",
+    "source": "American Chemical Society, National Historic Chemical Landmarks",
+    "visual": "a cantaloupe melon with a patch of blue-green mould on a 1940s laboratory bench among glass flasks"
+  },
+  {
+    "id": "sci-crispr-origin",
+    "title": "Gene editing was borrowed from bacteria",
+    "body": "Bacteria store fragments of the viruses that have attacked them and use them to recognise and cut the same virus if it returns. In 2012 Jennifer Doudna and Emmanuelle Charpentier showed that this system, CRISPR, could be aimed at any chosen stretch of DNA.",
+    "takeaway": "They won the 2020 Nobel Prize in Chemistry. The first CRISPR treatment, for sickle cell disease, was approved in 2023.",
+    "source": "Jinek et al., Science (2012); Nobel Prize Organisation",
+    "visual": "a glowing strand of DNA being cut precisely by a small molecular tool, bacteria faintly visible in the background"
+  },
+  {
+    "id": "sci-smallpox-eradicated",
+    "title": "Only one human disease has ever been wiped out",
+    "body": "Smallpox killed an estimated 300 million people in the twentieth century alone. After a worldwide vaccination campaign, the last natural case was recorded in Somalia in 1977, and the World Health Organization declared the disease eradicated in 1980.",
+    "takeaway": "India, once home to most of the world's cases, recorded its last one in 1975.",
+    "source": "World Health Organization",
+    "visual": "a health worker with a vaccination kit walking a dusty village path, children gathered ahead under a tree"
+  },
+  {
+    "id": "sci-immortal-jellyfish",
+    "title": "One jellyfish can age backwards",
+    "body": "Turritopsis dohrnii is about 4.5 mm across. When it is injured, starved or old, the adult can turn back into its juvenile form, a polyp fixed to the seabed, and grow up again. In principle it can repeat this indefinitely.",
+    "takeaway": "It can still be eaten or killed by disease. Scientists study it to learn how mature cells can change their type.",
+    "source": "Piraino et al., Biological Bulletin (1996)",
+    "visual": "a tiny translucent bell-shaped jellyfish with a red centre drifting in dark water, a ghostly younger form beside it"
+  },
+  {
+    "id": "sci-blue-whale-heart",
+    "title": "A blue whale's heart can beat just twice a minute",
+    "body": "Scientists attached a heart monitor to a wild blue whale by suction cups in 2018. During deep dives its heart slowed to as few as 2 beats a minute. Back at the surface it raced at up to 37. The heart weighs about 180 kg.",
+    "takeaway": "At the surface the heart works close to its limit, which may be why no animal has grown larger.",
+    "source": "Goldbogen et al., Proceedings of the National Academy of Sciences (2019)",
+    "visual": "a blue whale diving into deep dark water, a slow pulse of light glowing from its chest"
+  },
+  {
+    "id": "sci-wood-wide-web",
+    "title": "Trees are linked underground by fungi, but how much they share is debated",
+    "body": "A 1997 experiment showed that carbon passed between birch and fir trees through threads of fungus joining their roots. Popular accounts grew into forests where mother trees feed their young. A 2023 review found the evidence for those wider claims thin.",
+    "takeaway": "The fungal networks are real. The story of trees caring for each other ran ahead of the data.",
+    "source": "Simard et al., Nature (1997); Karst et al., Nature Ecology & Evolution (2023)",
+    "visual": "a cross-section of forest floor showing tree roots joined by fine glowing threads of fungus in dark soil"
+  },
+  {
+    "id": "sci-mendeleev-prediction",
+    "title": "Mendeleev described an element before anyone had found it",
+    "body": "In 1871 Dmitri Mendeleev left gaps in his periodic table and predicted the properties of the missing elements. One, he said, would have an atomic weight near 68 and a density of about 5.9. Gallium was discovered in 1875 and matched almost exactly.",
+    "takeaway": "A good theory does more than organise what is known. It tells you what you have not found yet.",
+    "source": "Royal Society of Chemistry",
+    "visual": "a bearded nineteenth-century chemist studying a wall chart of element cards with one conspicuous glowing gap"
+  },
+  {
+    "id": "sci-neutrinos",
+    "title": "About 100 trillion neutrinos pass through you every second",
+    "body": "Neutrinos are particles with almost no mass and no electric charge, made in huge numbers by the Sun. They hardly ever interact with matter. Nearly all of them pass straight through your body, and through the whole Earth, as if nothing were there.",
+    "takeaway": "To catch a few, physicists build detectors deep underground, such as a tank of 50,000 tonnes of water in Japan.",
+    "source": "Fermi National Accelerator Laboratory; Super-Kamiokande Collaboration",
+    "visual": "a vast underground chamber lined with thousands of golden light sensors reflected in still water, a small boat with two technicians"
+  },
+  {
+    "id": "sci-trex-timeline",
+    "title": "Tyrannosaurus lived closer in time to us than to Stegosaurus",
+    "body": "Stegosaurus lived about 150 million years ago. Tyrannosaurus rex lived about 67 million years ago, roughly 83 million years later. Only 66 million years separate T. rex from the present day.",
+    "takeaway": "Dinosaurs ruled for so long that most of them never coexisted. Birds are the one branch that survives.",
+    "source": "Natural History Museum, London",
+    "visual": "a towering Tyrannosaurus in a forest looking at the fossilised plated skeleton of a Stegosaurus half buried in rock"
+  },
+  {
+    "id": "sci-raman-effect",
+    "title": "Asia's first science Nobel was won with equipment costing a few hundred rupees",
+    "body": "In Calcutta in 1928, C. V. Raman and K. S. Krishnan shone sunlight through liquids and found that a tiny fraction of the scattered light changed colour. The shift reveals what molecules a substance contains. Raman received the Nobel Prize in Physics in 1930.",
+    "takeaway": "Raman spectroscopy now identifies drugs, minerals and explosives. India marks the discovery each 28 February as National Science Day.",
+    "source": "Nobel Prize Organisation; Indian Association for the Cultivation of Science",
+    "visual": "a physicist in a 1920s Indian laboratory directing a beam of sunlight through a glass flask of liquid, a faint second colour emerging"
+  }
+]

@@ -1,11 +1,11 @@
 [
   {
-    "id": "pol-sweden-public-records-1766",
-    "title": "Sweden gave the public access to official records in 1766",
-    "body": "Sweden's first Freedom of the Press Act was introduced in 1766. Along with restricting censorship, it established a principle of public access to documents produced by the authorities.",
-    "takeaway": "Freedom to publish is easier to exercise when the information needed to scrutinise government is available.",
-    "source": "Sveriges Riksdag, The Development of Constitutional Law in Sweden",
-    "visual": "an open wooden archive drawer holding bundles of blank-backed papers"
+    "id": "pol-commons-speaker-secret-ballot",
+    "title": "British MPs use a secret ballot in a contested Speaker election",
+    "body": "The Commons can confirm a former Speaker seeking to return by agreeing a motion. When no former Speaker seeks re-election or that motion fails, MPs choose a Speaker by secret ballot.",
+    "takeaway": "Choosing who will chair a chamber can follow a different voting procedure from deciding its legislation.",
+    "source": "UK Parliament, MPs' Guide to Procedure, Election of the Speaker",
+    "visual": "folded blank ballots resting near an ornate empty chair"
   },
   {
     "id": "pol-singapore-nominated-mps",
@@ -18,8 +18,8 @@
   {
     "id": "pol-un-council-abstention",
     "title": "A permanent UN member can abstain without using its veto",
-    "body": "Substantive decisions of the UN Security Council require at least nine votes in favour. A negative vote by a permanent member blocks such a decision. An abstention by that member does not, if the vote has enough support.",
-    "takeaway": "A member can decline to endorse a resolution while letting the other votes decide its fate.",
+    "body": "On a substantive UN Security Council vote, an abstention by a permanent member is not treated as a veto. A resolution can still pass if at least nine members vote in favour and no permanent member votes against.",
+    "takeaway": "The published voting record can show that a country let a measure pass without supporting it.",
     "source": "United Nations Security Council, Voting System",
     "visual": "empty chairs at a curved council table with one microphone unlit"
   }

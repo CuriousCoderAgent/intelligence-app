@@ -1,11 +1,11 @@
 [
   {
-    "id": "space-webb-five-layer-shield",
-    "title": "Webb's sunshield has five layers with gaps between them",
-    "body": "The James Webb Space Telescope spreads a sunshield about the size of a tennis court between its optics and the Sun. The five thin layers are separated so heat can escape from between them.",
-    "takeaway": "Keeping stray heat away helps Webb detect faint infrared light from distant objects.",
-    "source": "NASA Science, Webb Mission Frequently Asked Questions",
-    "visual": "a space telescope with a broad layered shield open beneath its gold mirror"
+    "id": "space-parker-enters-corona",
+    "title": "Parker Solar Probe crossed into the Sun's atmosphere in 2021",
+    "body": "In April 2021 NASA's Parker Solar Probe passed into the corona, the Sun's outer atmosphere. The probe found that the outer boundary it crossed was uneven instead of lying at a fixed distance from the Sun.",
+    "takeaway": "A spacecraft can measure where the solar wind begins to escape, rather than relying entirely on distant observations.",
+    "source": "NASA Science, Parker Solar Probe Touches the Sun (2021)",
+    "visual": "a small shielded spacecraft approaching bright loops in the Sun's outer atmosphere"
   },
   {
     "id": "space-apollo-visit-surveyor",

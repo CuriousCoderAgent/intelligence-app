@@ -1,11 +1,11 @@
 [
   {
-    "id": "math-six-people-ramsey",
-    "title": "Six people force a trio of mutual acquaintances or strangers",
-    "body": "Suppose each pair in a group of six has either met or never met. Pick one person. At least three others have the same relationship to them. Either two of those three form a matching trio with that person, or the three themselves form the opposite kind of trio.",
-    "takeaway": "A large enough group forces a pattern even when nobody planned the relationships.",
-    "source": "Wolfram MathWorld, Ramsey Number and Ramsey Graph",
-    "visual": "six small nodes connected by threads of two colours"
+    "id": "math-bertrand-prime-interval",
+    "title": "Between an integer above one and its double lies a prime",
+    "body": "For any whole number greater than one, there is a prime strictly between it and twice its value. For 100, the prime 101 is one example. Pafnuty Chebyshev first proved the general statement.",
+    "takeaway": "Primes can have gaps, but those gaps are bounded when measured relative to where you start.",
+    "source": "Wolfram MathWorld, Bertrand's Postulate",
+    "visual": "a row of evenly spaced counters with one contrasting counter inside a marked interval"
   },
   {
     "id": "math-efron-dice-cycle",

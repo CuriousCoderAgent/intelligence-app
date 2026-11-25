@@ -8,11 +8,11 @@
     "visual": "a programmer's hand beside an early mainframe tape drive"
   },
   {
-    "id": "tech-engelbart-remote-collaboration",
-    "title": "A 1968 computer demo showed collaborators working at a distance",
-    "body": "In December 1968 Douglas Engelbart and his team demonstrated their interactive system to a San Francisco audience. The presentation showed people in different locations using the computer together over a live link.",
-    "takeaway": "Shared work on a screen was an idea researchers could demonstrate decades before home internet became common.",
-    "source": "Computer History Museum, The Mother of All Demos (1968)",
-    "visual": "two early computer workstations connected for a live demonstration"
+    "id": "tech-datar-bowling-trackball",
+    "title": "An early trackball used a Canadian bowling ball",
+    "body": "Around 1952, Canada's DATAR naval defence system used a ball from five-pin bowling as a controller for radar displays. The operator rolled the ball in place to guide the pointer.",
+    "takeaway": "A trackball gives the operator two dimensions of control while the base stays put, useful at a crowded console.",
+    "source": "Computer History Museum, DATAR trackball (circa 1952)",
+    "visual": "a smooth bowling ball cradled in a steel console beside the glow of a round radar display"
   }
 ]

@@ -1,0 +1,82 @@
+[
+  {
+    "id": "geo-amazon-discharge",
+    "title": "One river carries about a fifth of all river water reaching the sea",
+    "body": "The Amazon pours roughly 209,000 cubic metres of water into the Atlantic every second, more than the next seven largest rivers combined. That is between 15 and 20% of all the fresh water that rivers deliver to the oceans.",
+    "takeaway": "Early sailors found fresh water at sea before they could see land, and named the river mouth the Sweet Sea.",
+    "source": "Encyclopaedia Britannica; Brazilian National Water Agency",
+    "visual": "a vast brown river mouth meeting a blue ocean, the muddy water fanning far out to sea, seen from high above"
+  },
+  {
+    "id": "geo-himalaya-rising",
+    "title": "The Himalaya are still growing",
+    "body": "India broke away from an ancient southern continent and ran into Asia about 50 million years ago. It is still pushing north at around 5 cm a year, and the mountains continue to rise by several millimetres annually. A 2020 survey put Everest at 8,848.86 metres.",
+    "takeaway": "Erosion wears the peaks down almost as fast as they rise, and the strain is released in earthquakes.",
+    "source": "US Geological Survey; Survey of Nepal (2020)",
+    "visual": "two great slabs of land colliding and crumpling upward into a snow-covered mountain range under a clear sky"
+  },
+  {
+    "id": "geo-ganges-delta",
+    "title": "The world's largest river delta is home to over 130 million people",
+    "body": "The Ganges and Brahmaputra build a delta of about 100,000 square km across Bangladesh and the Indian state of West Bengal. Its seaward edge is the Sundarbans, the largest mangrove forest on Earth, covering about 10,000 square km.",
+    "takeaway": "The Sundarbans shelter the only tigers that live in mangroves, and they are strong swimmers.",
+    "source": "UNESCO World Heritage Centre; Encyclopaedia Britannica",
+    "visual": "a maze of muddy river channels winding through dense mangrove forest, a tiger swimming across one of them"
+  },
+  {
+    "id": "geo-coastline-paradox",
+    "title": "The length of a coastline depends on the length of your ruler",
+    "body": "Measure Britain's coast with a 100 km ruler and you get about 2,800 km. Use a 50 km ruler and it grows to about 3,400 km, because the shorter ruler follows more bays and headlands. There is no single true answer.",
+    "takeaway": "This is why countries publish different lengths for the same shared border, and it led to the mathematics of fractals.",
+    "source": "Benoit Mandelbrot, Science (1967)",
+    "visual": "a rugged rocky coastline seen from above with a measuring chain laid along it in ever smaller and more intricate links"
+  },
+  {
+    "id": "geo-magnetic-north",
+    "title": "The magnetic north pole is on the move",
+    "body": "A compass points to a spot that wanders. When it was first located in 1831 the magnetic north pole was in Arctic Canada. It has since travelled more than 2,000 km towards Siberia, at times at over 50 km a year, driven by liquid iron churning in Earth's outer core.",
+    "takeaway": "The model used by ships, aircraft and phone maps is updated every five years to keep up.",
+    "source": "NOAA National Centers for Environmental Information; British Geological Survey",
+    "visual": "an antique brass compass on Arctic sea ice, its needle swinging, with a faint aurora glowing above the horizon"
+  },
+  {
+    "id": "geo-doubly-landlocked",
+    "title": "Two countries are landlocked by landlocked countries",
+    "body": "From Liechtenstein or Uzbekistan you must cross at least two national borders to reach a sea coast. Every neighbour of each is itself landlocked. They are the only two doubly landlocked countries in the world.",
+    "takeaway": "Distance from the sea raises the cost of trade, which is one reason landlocked countries tend to be poorer.",
+    "source": "CIA World Factbook",
+    "visual": "a small walled mountain town ringed by layer upon layer of further mountain ranges, with a thin line of sea on the far horizon"
+  },
+  {
+    "id": "geo-zealandia",
+    "title": "There is a sunken continent under New Zealand",
+    "body": "Zealandia covers about 4.9 million square km, roughly two thirds the size of Australia, and 94% of it lies under the Pacific. In 2017 geologists argued that its thick, distinct continental crust qualifies it as a continent in its own right.",
+    "takeaway": "New Zealand and New Caledonia are its highest mountains, poking above the water.",
+    "source": "Mortimer et al., GSA Today (2017)",
+    "visual": "a cutaway of the ocean showing a vast drowned landmass beneath the waves with only two green islands breaking the surface"
+  },
+  {
+    "id": "geo-ring-of-fire",
+    "title": "Most of the world's earthquakes happen along one horseshoe",
+    "body": "The Ring of Fire runs for about 40,000 km around the edge of the Pacific, from New Zealand through Indonesia and Japan to Alaska and down to Chile. About 90% of the world's earthquakes and 75% of its active volcanoes lie along it.",
+    "takeaway": "It marks where ocean plates dive beneath their neighbours. Hundreds of millions of people live on top of it.",
+    "source": "US Geological Survey",
+    "visual": "a dark ocean seen from space ringed by a glowing chain of volcanoes along its coasts"
+  },
+  {
+    "id": "geo-indian-monsoon",
+    "title": "India gets three quarters of its rain in four months",
+    "body": "Between June and September the south-west monsoon delivers about 75% of India's annual rainfall. The land heats faster than the sea in summer, pulling moist ocean air inland. Roughly half of the country's farmland has no irrigation and depends on it.",
+    "takeaway": "A monsoon that arrives late or weak is felt in food prices and the national economy within months.",
+    "source": "India Meteorological Department",
+    "visual": "towering dark monsoon clouds rolling in from the sea over green paddy fields, a farmer looking up at the first rain"
+  },
+  {
+    "id": "geo-third-pole",
+    "title": "The largest store of ice outside the poles is in Asia's mountains",
+    "body": "The Hindu Kush Himalaya region holds more ice and snow than anywhere except the Arctic and Antarctic, which is why it is called the Third Pole. Ten major rivers begin there, including the Ganges, Indus, Brahmaputra, Mekong and Yangtze.",
+    "takeaway": "Nearly 2 billion people downstream rely on that water. A 2019 assessment warned that a third of the ice could be gone by 2100.",
+    "source": "ICIMOD, Hindu Kush Himalaya Assessment (2019)",
+    "visual": "a huge glacier descending between high peaks and feeding a braided river that runs toward distant green plains"
+  }
+]

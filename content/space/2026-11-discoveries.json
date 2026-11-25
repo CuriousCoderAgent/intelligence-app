@@ -1,11 +1,11 @@
 [
   {
-    "id": "space-titan-methane-lakes",
-    "title": "On Titan, methane can fall as rain and fill lakes",
-    "body": "Cassini's radar found lakes near the north pole of Saturn's moon Titan in July 2006. Titan is cold enough for methane to be a liquid at the surface. Rainfall and liquid seeping up from underground can refill the lakes.",
-    "takeaway": "Earth's cycle of rain and runoff has a counterpart on a world where the liquid is a fuel on Earth.",
-    "source": "Stofan et al., The Lakes of Titan, Nature (2007)",
-    "visual": "a smooth lake on Titan under a low layer of haze, with a stark shoreline and dark hills"
+    "id": "space-jupiter-gossamer-rings",
+    "title": "Jupiter has faint outer rings made of dust",
+    "body": "NASA's Galileo spacecraft imaged Jupiter's faint outer gossamer rings. The material is so diffuse that the rings are much harder to see than Saturn's bright ring system.",
+    "takeaway": "Even a planet that looks ringless in a typical photograph may have a system of orbiting particles.",
+    "source": "NASA Science, NASA's Webb Telescope Will Study Jupiter and Its Rings",
+    "visual": "the dark edge of Jupiter with faint bands of dust catching light"
   },
   {
     "id": "space-dart-orbit-change",
@@ -32,11 +32,11 @@
     "visual": "the pale disc of Uranus encircled by a steeply tipped ring system in deep space"
   },
   {
-    "id": "space-huygens-titan-landing",
-    "title": "The first landing beyond the asteroid belt was on Titan",
-    "body": "On 14 January 2005 the European Space Agency's Huygens probe landed on Titan, Saturn's largest moon. Its parachute descent through the atmosphere took 2 hours and 28 minutes, and its cameras sent images from below the haze.",
-    "takeaway": "A probe can study the atmosphere and the surface on the same trip down.",
-    "source": "European Space Agency, Highlights of ESA's Huygens Mission (2005)",
-    "visual": "a small unmarked probe suspended beneath a parachute over Titan's rocky plain"
+    "id": "space-magellan-venus-radar",
+    "title": "Magellan mapped most of Venus without using visible light",
+    "body": "From 1990 to 1994, NASA's Magellan mission used radar to image more than 98% of Venus's surface. Radar pulses passed through the clouds and reflected from the terrain below.",
+    "takeaway": "When clouds hide a planet in visible light, choosing a different wavelength can make its geography accessible.",
+    "source": "NASA Science, Magellan and Hemispheric View of Venus",
+    "visual": "a radar spacecraft above cloud-covered Venus with a strip of rugged terrain revealed below"
   }
 ]

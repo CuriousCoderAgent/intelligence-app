@@ -17,8 +17,8 @@
   },
   {
     "id": "sci-lunar-day-tides",
-    "title": "A lunar day is about 50 minutes longer than a solar day",
-    "body": "Earth spins as the Moon moves around it in the same direction. A spot on Earth therefore takes an average of 24 hours and 50 minutes to line up with the Moon again.",
+    "title": "The Moon crosses a local meridian about every 24 hours 50 minutes",
+    "body": "Earth spins as the Moon moves around it in the same direction. The Moon therefore takes an average of 24 hours and 50 minutes to cross the same north-south line in the sky again.",
     "takeaway": "This extra time helps explain why a coast's high tide generally comes later by the clock on successive days.",
     "source": "NOAA Ocean Service, How Frequent Are Tides?",
     "visual": "a still shoreline in moonlight with the Moon reflected on the water"

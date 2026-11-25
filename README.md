@@ -49,6 +49,7 @@ The deck can reach many thousands of cards without slowing the app:
 - The feed adds cards to the page in batches as you swipe.
 - New content arrives as new files, so two contributors never edit the same file, and a deploy only downloads the packs that are new.
 - A validator rejects malformed cards, duplicate ids, duplicate titles and characters the fonts cannot show before anything is deployed.
+- A nightly quality-control run (`qc/NIGHTLY.md`) looks for reworded duplicates, reads new cards closely, checks their facts and logs what it changed in `qc/LOG.md`. `npm run qc` runs the automatic part on demand.
 
 ## Where things are
 
@@ -68,7 +69,12 @@ src/
 scripts/
   lib/deck.mjs            reads and validates content/ (shared by everything)
   lib/vite-deck.mjs       build plugin: card index, trimmed packs
+  qc.mjs                  quality scan: likely duplicates, misfiled cards, style slips
   *.mjs                   check, list, image prompts, image optimiser
+qc/
+  NIGHTLY.md              what the nightly quality-control run does
+  state.json              which pairs were ruled on, when each card was last read
+  LOG.md                  what each run changed
 ```
 
 The app name is set in three places: `APP_NAME` in `src/App.tsx`, the manifest in `vite.config.ts`, and `index.html`.

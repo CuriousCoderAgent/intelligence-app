@@ -1,0 +1,82 @@
+[
+  {
+    "id": "pol-finland-women-mps",
+    "title": "The world's first women members of parliament were elected in Finland",
+    "body": "In 1906 Finland gave all adult women both the right to vote and the right to stand for election. In the election of 1907, 19 women won seats in its 200-member parliament. No country had elected a woman to a national legislature before.",
+    "takeaway": "The right to vote and the right to be elected often arrived decades apart. Finland granted both at once.",
+    "source": "Parliament of Finland",
+    "visual": "a group of women in early 1900s dress walking up the steps of a grand northern parliament building in winter light"
+  },
+  {
+    "id": "pol-separation-of-powers",
+    "title": "One book gave us the idea of three branches of government",
+    "body": "In The Spirit of the Laws, published in 1748, the French thinker Montesquieu argued that liberty is safe only if the power to make laws, the power to carry them out and the power to judge are held by different bodies, each able to check the others.",
+    "takeaway": "The framers of the United States constitution followed him closely, and most modern constitutions, including India's, reflect the idea.",
+    "source": "Montesquieu, The Spirit of the Laws (1748)",
+    "visual": "three stone pillars of equal height holding up a single roof, each lit from a different side"
+  },
+  {
+    "id": "pol-un-veto",
+    "title": "Five countries can each block the UN Security Council alone",
+    "body": "China, France, Russia, the United Kingdom and the United States are permanent members of the Security Council. A no vote from any one of them stops a resolution, however many others agree. The veto has been used more than 300 times since 1946, about half of them by the Soviet Union and Russia.",
+    "takeaway": "The five were the main victors of the Second World War. The list has not changed since 1945.",
+    "source": "United Nations Dag Hammarskjöld Library",
+    "visual": "a large circular council table with fifteen chairs, five of them taller and casting long shadows across it"
+  },
+  {
+    "id": "pol-nota-india",
+    "title": "Indian voters can reject every candidate, but it changes nothing",
+    "body": "Since a Supreme Court ruling in 2013, every Indian ballot has had a None of the Above option. It is counted, but it has no effect on the result: the candidate with the most votes wins even if NOTA gets more. In Indore in 2024 it drew over 218,000 votes.",
+    "takeaway": "It lets a voter register dissatisfaction in secret, which the court held to be part of free expression.",
+    "source": "Supreme Court of India, PUCL v. Union of India (2013); Election Commission of India",
+    "visual": "a finger with an ink mark hovering over the last button of a voting machine, which is marked with a plain crossed symbol"
+  },
+  {
+    "id": "pol-iceland-althing",
+    "title": "Iceland's parliament first met in the year 930",
+    "body": "Viking-age settlers gathered each summer on an open plain called Thingvellir to make laws and settle disputes. A law speaker recited the laws from memory. The assembly, the Althing, still exists, which gives it a claim to be the world's oldest surviving parliament.",
+    "takeaway": "It was suspended between 1800 and 1845, so the claim depends on how you count the gap.",
+    "source": "Althingi, Parliament of Iceland",
+    "visual": "Norse settlers gathered on a grassy plain beside a dark rocky cliff, one man standing on a rock addressing the crowd"
+  },
+  {
+    "id": "pol-san-marino-captains",
+    "title": "One country has two heads of state, and replaces them every six months",
+    "body": "San Marino, a republic of about 34,000 people surrounded by Italy, is led by two Captains Regent who hold office together for six months. The custom dates from 1243. Each can veto the other, and neither may serve again for three years.",
+    "takeaway": "Short terms and shared office are an old defence against any one person gathering too much power.",
+    "source": "Republic of San Marino, Great and General Council",
+    "visual": "two figures in ceremonial black robes standing side by side on the battlements of a hilltop fortress at sunrise"
+  },
+  {
+    "id": "pol-indelible-ink",
+    "title": "The ink on every Indian voter's finger comes from one factory",
+    "body": "Mysore Paints and Varnish, a company owned by the government of Karnataka, has been the sole maker of India's election ink since 1962. The ink contains silver nitrate, which stains skin on exposure to light and cannot be washed off for weeks.",
+    "takeaway": "A cheap purple mark is a simple defence against voting twice. The company exports it to more than 25 countries.",
+    "source": "Election Commission of India; Mysore Paints and Varnish Limited",
+    "visual": "a row of raised index fingers each marked with a dark purple line across the nail, a polling booth blurred behind"
+  },
+  {
+    "id": "pol-human-rights-declaration",
+    "title": "An Indian delegate changed the first line of the Universal Declaration",
+    "body": "The draft of the Universal Declaration of Human Rights began by saying that all men are born free and equal. Hansa Mehta of India insisted on all human beings, warning that the first wording could be used to exclude women. The United Nations adopted it on 10 December 1948.",
+    "takeaway": "It has been translated into more than 500 languages, more than any other document.",
+    "source": "United Nations; Office of the High Commissioner for Human Rights",
+    "visual": "a woman in a sari speaking at a long conference table in the 1940s, delegates from many countries listening"
+  },
+  {
+    "id": "pol-first-information-law",
+    "title": "The first freedom of information law was passed in 1766",
+    "body": "Sweden's Freedom of the Press Act gave citizens the right to read official documents, more than two centuries before most countries followed. India's Right to Information Act came in 2005 and requires a reply within 30 days. Citizens file millions of requests under it each year.",
+    "takeaway": "The principle is that government records belong to the public unless there is a stated reason to withhold them.",
+    "source": "Swedish Riksdag; Central Information Commission of India",
+    "visual": "a heavy archive door standing open with light falling onto shelves of old bound ledgers, a citizen reading one at a desk"
+  },
+  {
+    "id": "pol-federal-countries",
+    "title": "Only about 25 countries are federal, but they hold 40% of humanity",
+    "body": "In a federation, power is divided by the constitution between a national government and states or provinces, and neither can abolish the other. Roughly 25 of the world's 193 countries work this way. They include India, the United States, Brazil, Nigeria and Germany.",
+    "takeaway": "Large and diverse countries tend to choose federalism because it lets regions differ without breaking away.",
+    "source": "Forum of Federations",
+    "visual": "a mosaic map made of many differently patterned tiles fitting together inside one frame"
+  }
+]

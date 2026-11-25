@@ -1,0 +1,95 @@
+{
+  "cards": {},
+  "pairs": {
+    "eng-02|eng-07": {
+      "verdict": "distinct",
+      "note": "The Eiffel Tower expanding in heat, and the Chenab Bridge's height, which only uses the tower as a comparison.",
+      "ruled": "2026-11-25"
+    },
+    "eng-09|eng-falkirk-wheel": {
+      "verdict": "distinct",
+      "note": "Both lift boats, by different means: the Panama Canal uses gravity-fed locks, the Falkirk Wheel a balanced rotating lift.",
+      "ruled": "2026-11-25"
+    },
+    "eng-09|eng-suez-canal": {
+      "verdict": "distinct",
+      "note": "Two different canals: Suez has no locks and was blocked by one ship in 2021; Panama lifts ships through locks by gravity.",
+      "ruled": "2026-11-25"
+    },
+    "eng-great-pyramid-precision|hist-01": {
+      "verdict": "distinct",
+      "note": "hist-01 uses the pyramid only as a date marker for Cleopatra; the other is about how accurately it was built.",
+      "ruled": "2026-11-25"
+    },
+    "geo-04|space-09": {
+      "verdict": "distinct",
+      "note": "Tallest mountains measured different ways on Earth, and Olympus Mons on Mars.",
+      "ruled": "2026-11-25"
+    },
+    "geo-amazon-discharge|geo-lake-baikal": {
+      "verdict": "distinct",
+      "note": "Baikal is about how much fresh water one lake stores; the Amazon card is about how much river flow reaches the sea.",
+      "ruled": "2026-11-25"
+    },
+    "gk-png-languages|soc-half-world-23-languages": {
+      "verdict": "distinct",
+      "note": "One is about a single country holding 840 languages; the other about half of humanity speaking just 23. Both mention endangered languages only in passing.",
+      "ruled": "2026-11-25"
+    },
+    "math-02|math-seven-shuffles": {
+      "verdict": "distinct",
+      "note": "math-02 counts the possible orders of a deck; the other says how many riffle shuffles it takes to randomise one.",
+      "ruled": "2026-11-25"
+    },
+    "math-ramsey-party|soc-02": {
+      "verdict": "distinct",
+      "note": "Ramsey's theorem about guaranteed patterns among six people, and the small-world finding about chains of acquaintance.",
+      "ruled": "2026-11-25"
+    },
+    "pol-04|pol-constitution-lifespan": {
+      "verdict": "distinct",
+      "note": "pol-04 is about the length of India's constitution in words; the other is about how many years constitutions typically survive.",
+      "ruled": "2026-11-25"
+    },
+    "pol-finland-women-mps|pol-panchayat-women": {
+      "verdict": "distinct",
+      "note": "One is about reserved local council seats in India since 1992; the other about the first women elected to a national parliament in 1907.",
+      "ruled": "2026-11-25"
+    },
+    "pol-india-first-election|pol-secret-ballot": {
+      "verdict": "distinct",
+      "note": "India's first election and its symbol-marked ballot boxes, and the origin of the secret ballot in 1850s Australia.",
+      "ruled": "2026-11-25"
+    },
+    "sci-02|sci-mitochondria-origin": {
+      "verdict": "distinct",
+      "note": "sci-02 counts bacteria living in the body today; the other is about mitochondria descending from bacteria swallowed long ago.",
+      "ruled": "2026-11-25"
+    },
+    "sci-03|sci-triple-point": {
+      "verdict": "distinct",
+      "note": "sci-03 is about water being densest at 4 degrees so ice floats; the other is about the triple point where it boils and freezes at once.",
+      "ruled": "2026-11-25"
+    },
+    "sci-05|sci-blue-whale-heart": {
+      "verdict": "distinct",
+      "note": "Different animals and facts: a blue whale's heart rate when diving, and an octopus having three hearts.",
+      "ruled": "2026-11-25"
+    },
+    "soc-02|soc-friendship-paradox": {
+      "verdict": "distinct",
+      "note": "soc-02 is about chains of acquaintance between any two people; the other is about why your friends average more friends than you.",
+      "ruled": "2026-11-25"
+    },
+    "space-01|space-sun-mass-loss": {
+      "verdict": "distinct",
+      "note": "space-01 is about how long light takes to leave the Sun; the other is about how much mass the Sun converts to energy each second.",
+      "ruled": "2026-11-25"
+    },
+    "tech-arpanet-first-message|tech-email-at-sign": {
+      "verdict": "distinct",
+      "note": "The first ARPANET message of 1969 (LO), and the first email and the choice of the at sign in 1971.",
+      "ruled": "2026-11-25"
+    }
+  }
+}

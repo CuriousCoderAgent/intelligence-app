@@ -2,9 +2,9 @@
   {
     "id": "self-background-speech-order",
     "title": "Background speech can disrupt recall of a sequence",
-    "body": "In a 2022 study, children and adults remembered visually presented items in order. Irrelevant speech hurt recall for verbal items, but the study did not find the same effect for spatial items.",
+    "body": "In a 2023 paper, researchers asked children and adults to remember visually presented items in order. Overheard sequences of syllables hurt recall of the verbal items, but the study found no such effect for spatial positions.",
     "takeaway": "If you need to keep a sequence of words straight, a conversation nearby may matter more than it seems.",
-    "source": "Irrelevant Speech Impairs Serial Recall of Verbal but Not Spatial Items, Scientific Reports (2022)",
+    "source": "Leist et al., Memory & Cognition (2023)",
     "visual": "a person trying to recall a sequence while two figures speak in the distance"
   },
   {

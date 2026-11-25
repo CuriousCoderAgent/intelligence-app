@@ -1,11 +1,11 @@
 [
   {
-    "id": "soc-friendship-paradox",
-    "title": "Popular friends appear in more people's circles",
-    "body": "In 1991 sociologist Scott Feld described a quirk of friendship networks. A person with 40 friends appears in 40 other people's circles, while someone with one friend appears in only one. That tilts the average friend count upwards when you sample friends.",
-    "takeaway": "Friends can give you a skewed picture of how connected the typical person is.",
-    "source": "Scott Feld, American Journal of Sociology (1991)",
-    "visual": "a network of dots with many threads meeting at a single bright node"
+    "id": "soc-close-friend-contact",
+    "title": "Frequent contact with friends often happens without a visit",
+    "body": "In a Pew survey published in 2025, 74% of US adults with close friends said they connected with one at least a few times a week by phone, message, social media or in person. Only 29% saw a close friend that often.",
+    "takeaway": "Asking only about visits would miss a substantial part of how people keep in touch.",
+    "source": "Pew Research Center, Where Men and Women Turn for Emotional Support (2025)",
+    "visual": "a person at a kitchen table speaking into a phone at dusk"
   },
   {
     "id": "soc-criminal-record-audit",

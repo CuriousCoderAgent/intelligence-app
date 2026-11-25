@@ -24,11 +24,11 @@
     "visual": "a Kenyan market stall holder counting earnings beside baskets of vegetables"
   },
   {
-    "id": "econ-remittances-external-finance",
-    "title": "Remittances topped foreign investment across developing economies in 2023",
-    "body": "The World Bank found that remittances to low- and middle-income economies exceeded foreign direct investment as a source of external finance in 2023. Remittances are transfers such as money workers abroad send home.",
-    "takeaway": "Households moving money across borders can be as consequential in aggregate as companies investing abroad.",
-    "source": "World Bank, Migration and Development Brief 40 (2024)",
-    "visual": "a hand passing an unmarked envelope across a small counter"
+    "id": "econ-qe-digital-reserves",
+    "title": "Quantitative easing pays for bonds with newly created digital reserves",
+    "body": "In quantitative easing, a central bank creates reserves electronically and uses them to buy assets such as government bonds from investors. The purchases aim to lower longer-term borrowing costs.",
+    "takeaway": "It is a way to try to influence long-term rates even when the short-term policy rate has little room to fall.",
+    "source": "Bank of England, Quantitative Easing",
+    "visual": "a face-down bond certificate beside a computer terminal in a central bank"
   }
 ]
