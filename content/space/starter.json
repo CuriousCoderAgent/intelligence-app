@@ -1,0 +1,82 @@
+[
+  {
+    "id": "space-01",
+    "title": "Sunlight is 8 minutes old. Its energy is far older.",
+    "body": "Light takes 8 minutes and 20 seconds to travel from the Sun's surface to Earth. The energy behind it was made in the core and spent tens of thousands of years, by some estimates over 100,000, bouncing its way out through dense plasma.",
+    "takeaway": "The warmth on your face today began its journey before human civilisation existed.",
+    "source": "NASA Goddard Space Flight Center",
+    "visual": "a cutaway of the Sun with a tangled zig-zag path of light working outward from the core and then a straight beam to a small blue planet"
+  },
+  {
+    "id": "space-02",
+    "title": "On Venus, a day is longer than a year",
+    "body": "Venus takes about 243 Earth days to rotate once but only 225 to orbit the Sun. It also spins backwards compared with most planets, so the Sun rises in the west.",
+    "takeaway": "Its surface is about 465 degrees Celsius, hot enough to melt lead.",
+    "source": "NASA Solar System Exploration",
+    "visual": "a thick golden cloud-wrapped planet turning slowly with the Sun rising over the wrong horizon"
+  },
+  {
+    "id": "space-03",
+    "title": "A sugar cube of neutron star weighs a billion tonnes",
+    "body": "A neutron star packs more mass than the Sun into a ball about 20 km across, roughly the size of a city. Its matter is so dense that a sugar-cube-sized piece would weigh about a billion tonnes on Earth.",
+    "takeaway": "It is what remains when a giant star collapses and its atoms are crushed together.",
+    "source": "NASA Goddard Space Flight Center",
+    "visual": "a small intensely bright blue-white sphere hovering above a city skyline for scale, bending the starlight around it"
+  },
+  {
+    "id": "space-04",
+    "title": "The universe is 13.8 billion years old and 93 billion light-years wide",
+    "body": "The observable universe is far bigger than its age seems to allow. Space itself has been expanding while light travelled, so the most distant things we can see are now about 46 billion light-years away in every direction.",
+    "takeaway": "Nothing moves through space faster than light, but space itself can stretch.",
+    "source": "NASA WMAP; ESA Planck mission",
+    "visual": "a sphere of galaxies spreading apart on a stretching grid of space, with a tiny point of light at the centre"
+  },
+  {
+    "id": "space-05",
+    "title": "There are more stars than grains of sand on every beach",
+    "body": "Estimates put Earth's beach sand at several billion billion grains. The observable universe holds at least a thousand times more stars than that, and possibly far more.",
+    "takeaway": "Both numbers are rough, but the stars win by a wide margin.",
+    "source": "European Space Agency; University of Hawaii estimate",
+    "visual": "a hand letting sand fall through its fingers, the grains turning into stars as they drop into a night sky"
+  },
+  {
+    "id": "space-06",
+    "title": "Voyager 1 is nearly a light-day away, on 1970s hardware",
+    "body": "Launched in 1977, Voyager 1 crossed into interstellar space in 2012 and is now more than 25 billion km from Earth. Its computers have about 70 kilobytes of memory, less than a single small photo.",
+    "takeaway": "A radio command takes almost a full day to arrive, and the reply takes another.",
+    "source": "NASA Jet Propulsion Laboratory",
+    "visual": "a lone spacecraft with a large dish antenna drifting through deep darkness, the Sun only a bright star far behind it"
+  },
+  {
+    "id": "space-07",
+    "title": "The Moon is leaving at 3.8 cm a year",
+    "body": "Scientists bounce lasers off reflectors left by Apollo astronauts and time the return trip. The Moon is drifting away about as fast as fingernails grow, and Earth's days are lengthening by around two thousandths of a second each century.",
+    "takeaway": "Tides are slowly trading Earth's spin for the Moon's distance.",
+    "source": "NASA Lunar Laser Ranging Experiment",
+    "visual": "a thin green laser beam reaching from an observatory dome on Earth to a large full Moon"
+  },
+  {
+    "id": "space-08",
+    "title": "Total solar eclipses are a cosmic coincidence",
+    "body": "The Sun is about 400 times wider than the Moon and, by chance, about 400 times farther away. From Earth they appear almost exactly the same size, so the Moon can just cover the Sun.",
+    "takeaway": "As the Moon drifts away, total eclipses will eventually stop. We live in the right era to see them.",
+    "source": "NASA Eclipse Science",
+    "visual": "a total solar eclipse with a black disc and a shimmering white corona above a silhouetted crowd looking up"
+  },
+  {
+    "id": "space-09",
+    "title": "The tallest mountain we know of is on Mars",
+    "body": "Olympus Mons is a volcano about 22 km high, two and a half times the height of Everest above sea level. Its base is around 600 km across, so wide that from the summit its edges would lie beyond the horizon.",
+    "takeaway": "Mars has weaker gravity and no moving plates, so one volcano kept growing in the same spot.",
+    "source": "NASA Mars Exploration Program",
+    "visual": "a colossal shield volcano on a rust-red planet rising above the thin atmosphere, with a tiny Everest silhouette for scale"
+  },
+  {
+    "id": "space-10",
+    "title": "Space is only 100 km away",
+    "body": "The usual boundary of space, the Karman line, is 100 km up. That is an hour's drive, pointed straight up. The Space Station orbits at about 400 km and circles Earth every 90 minutes, giving its crew 16 sunrises a day.",
+    "takeaway": "Astronauts float because they are constantly falling around Earth. Gravity up there is still about 90% as strong.",
+    "source": "NASA; Fédération Aéronautique Internationale",
+    "visual": "a road that bends straight up from a night city into a thin glowing blue line of atmosphere and the black of space"
+  }
+]

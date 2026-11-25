@@ -5,7 +5,9 @@ import { existsSync, mkdirSync, readdirSync, renameSync, statSync } from 'node:f
 import { basename, extname, join } from 'node:path'
 import { fileURLToPath } from 'node:url'
 import sharp from 'sharp'
-import { FACT_BY_ID } from '../src/data/index.ts'
+import { loadDeckOrExit } from './lib/deck.mjs'
+
+const FACT_BY_ID = new Map(loadDeckOrExit().facts.map((fact) => [fact.id, fact]))
 
 const INBOX = fileURLToPath(new URL('../image-inbox/', import.meta.url))
 const DONE = join(INBOX, 'done')

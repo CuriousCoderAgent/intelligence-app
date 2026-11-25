@@ -1,0 +1,82 @@
+[
+  {
+    "id": "gk-01",
+    "title": "Honey never spoils",
+    "body": "Archaeologists have found pots of honey in ancient Egyptian tombs, thousands of years old and still edible. Honey has very little water, is acidic, and contains traces of hydrogen peroxide, so microbes cannot grow in it.",
+    "takeaway": "If your honey crystallises it has not gone off. Warm the jar gently and it turns liquid again.",
+    "source": "Smithsonian Magazine; National Honey Board",
+    "visual": "a sealed clay jar of golden honey glowing in a dim ancient tomb beside carved stone walls"
+  },
+  {
+    "id": "gk-02",
+    "title": "Bluetooth is named after a Viking king",
+    "body": "Harald \"Bluetooth\" Gormsson united Denmark and Norway in the tenth century. In 1997 an Intel engineer borrowed his name for a technology meant to unite devices. The logo joins the runes for his initials, H and B.",
+    "takeaway": "It was supposed to be a temporary code name. Nobody found a better one in time.",
+    "source": "Bluetooth Special Interest Group",
+    "visual": "a Viking king at the prow of a longship holding up a glowing blue stone against a stormy northern sea"
+  },
+  {
+    "id": "gk-03",
+    "title": "Oxford University is older than the Aztec Empire",
+    "body": "Teaching was under way at Oxford by 1096. The Aztec capital Tenochtitlan was founded in 1325, more than two centuries later.",
+    "takeaway": "Events that feel ancient and events that feel modern often overlap.",
+    "source": "University of Oxford; Encyclopaedia Britannica",
+    "visual": "a medieval stone college cloister on one side mirrored by a great stepped temple rising from a lake on the other"
+  },
+  {
+    "id": "gk-04",
+    "title": "The dot on an \"i\" has a name",
+    "body": "It is called a tittle. The # sign is an octothorpe. And & was once recited as the 27th letter of the English alphabet: children ended with \"and per se and\", which slurred into \"ampersand\".",
+    "takeaway": "Almost everything has a name. Knowing it makes the thing easier to notice.",
+    "source": "Oxford English Dictionary; Merriam-Webster",
+    "visual": "wooden letterpress printing blocks scattered on a printer's workbench, one small round dot floating free above them"
+  },
+  {
+    "id": "gk-05",
+    "title": "Sharks are older than trees",
+    "body": "The earliest shark fossils are over 400 million years old. The first true trees appeared around 385 million years ago. Sharks have since survived all five mass extinctions.",
+    "takeaway": "A body plan that works can outlast almost everything around it.",
+    "source": "Natural History Museum, London",
+    "visual": "a prehistoric shark gliding through a sea above a shoreline with only low primitive plants and no trees"
+  },
+  {
+    "id": "gk-06",
+    "title": "Only one person has Nobel Prizes in two sciences",
+    "body": "Marie Curie won the Physics prize in 1903 and the Chemistry prize in 1911. She was also the first woman to win a Nobel at all. Her notebooks are still radioactive and are stored in lead-lined boxes.",
+    "takeaway": "She did it while being barred from many scientific institutions because she was a woman.",
+    "source": "Nobel Prize Organisation; Bibliothèque nationale de France",
+    "visual": "a woman scientist in a dim early-1900s laboratory holding a vial that gives off a faint glow"
+  },
+  {
+    "id": "gk-07",
+    "title": "Every flag in the world shares a colour with the Olympic rings",
+    "body": "Pierre de Coubertin designed the symbol in 1913. He chose blue, yellow, black, green and red on white because at least one of those six colours appeared on the flag of every nation at the time.",
+    "takeaway": "No ring stands for a particular continent. That is a later myth.",
+    "source": "International Olympic Committee",
+    "visual": "five interlocking rings made of flowing fabric from many different flags against a white sky"
+  },
+  {
+    "id": "gk-08",
+    "title": "Someone wrote a 50,000-word novel without the letter E",
+    "body": "E is the most common letter in English, about one in every eight. Ernest Vincent Wright's 1939 novel \"Gadsby\" avoids it completely. Georges Perec later did the same in French, and his translator repeated the feat in English.",
+    "takeaway": "A hard constraint can push writing in directions nobody would otherwise try.",
+    "source": "E. V. Wright, Gadsby (1939); Georges Perec, La Disparition (1969)",
+    "visual": "an old typewriter with one key missing from its keyboard and a tall stack of typed pages beside it"
+  },
+  {
+    "id": "gk-09",
+    "title": "Paper money is not made of paper",
+    "body": "US dollar notes are 75% cotton and 25% linen. Indian rupee notes are made from cotton. That is why a banknote survives the washing machine and a receipt does not.",
+    "takeaway": "Many countries now print on plastic polymer, which lasts even longer.",
+    "source": "US Bureau of Engraving and Printing; Reserve Bank of India",
+    "visual": "cotton bolls on the plant gradually unravelling into fibres that weave themselves into a blank banknote"
+  },
+  {
+    "id": "gk-10",
+    "title": "You cannot see the Great Wall from the Moon",
+    "body": "From the Moon no human structure is visible at all. Even from low orbit the wall is extremely hard to spot with the naked eye because it is narrow and the same colour as the land around it. China's first astronaut said he could not see it.",
+    "takeaway": "City lights, airports and motorways are far easier to see from orbit.",
+    "source": "NASA Earth Observatory",
+    "visual": "an astronaut at a spacecraft window looking down at brown mountains, the wall an almost invisible thread"
+  }
+]

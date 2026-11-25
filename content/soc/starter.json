@@ -1,0 +1,82 @@
+[
+  {
+    "id": "soc-01",
+    "title": "You can keep up about 150 relationships",
+    "body": "Anthropologist Robin Dunbar compared brain size and group size across primates and estimated that humans can maintain around 150 stable relationships. Inside that sit layers of roughly 5 intimates, 15 close friends and 50 good friends.",
+    "takeaway": "The exact number is debated. The limit on your time and attention is real.",
+    "source": "Robin Dunbar, Journal of Human Evolution (1992)",
+    "visual": "a person at the centre of concentric rings of figures, the inner ring bright and close, the outer rings fading"
+  },
+  {
+    "id": "soc-02",
+    "title": "Six degrees of separation has shrunk to about three and a half",
+    "body": "In 1967 Stanley Milgram asked people in the American Midwest to get a letter to a stranger in Boston through personal contacts. Letters that arrived took about six steps. In 2016 Facebook measured its 1.6 billion users and found an average of 3.57.",
+    "takeaway": "You are probably a friend of a friend of a friend of almost anyone.",
+    "source": "Milgram, Psychology Today (1967); Facebook Research (2016)",
+    "visual": "a chain of hands passing a glowing letter from person to person across a night map of city lights"
+  },
+  {
+    "id": "soc-03",
+    "title": "The more witnesses, the less likely anyone helps",
+    "body": "In a 1968 experiment, people heard a stranger appear to have a seizure. When they believed they were the only listener, 85% went for help. When they believed four others were also listening, only 31% did.",
+    "takeaway": "In an emergency, point at one person and give a specific instruction: \"You, call an ambulance.\"",
+    "source": "Darley & Latané, Journal of Personality and Social Psychology (1968)",
+    "visual": "a crowd standing in a loose circle on a street, each looking at the others, one person stepping forward"
+  },
+  {
+    "id": "soc-04",
+    "title": "Acquaintances find you jobs more often than close friends",
+    "body": "Sociologist Mark Granovetter found in 1973 that people mostly heard about new jobs through contacts they saw only occasionally. Close friends know what you already know. A 2022 experiment across 20 million LinkedIn users confirmed it.",
+    "takeaway": "Keep in light touch with people outside your usual circle. New information comes from there.",
+    "source": "Granovetter, American Journal of Sociology (1973); Rajkumar et al., Science (2022)",
+    "visual": "two tight clusters of people joined by a single thin glowing thread stretching between them"
+  },
+  {
+    "id": "soc-05",
+    "title": "Three in four people denied what they could plainly see",
+    "body": "Solomon Asch asked students which of three lines matched a fourth. The answer was obvious, but actors in the room gave the wrong one first. About 75% of participants went along with the group at least once.",
+    "takeaway": "When just one other person gave the right answer, conformity collapsed. One dissenting voice is powerful.",
+    "source": "Solomon Asch, Scientific American (1955)",
+    "visual": "a row of seated people all pointing confidently at the wrong line on a card, one person among them hesitating"
+  },
+  {
+    "id": "soc-06",
+    "title": "People behave differently when they know they are watched",
+    "body": "At the Hawthorne factory near Chicago in the 1920s, researchers changed the lighting to see how it affected output. Productivity seemed to rise whatever they did. The lasting explanation was that workers responded to the attention itself.",
+    "takeaway": "Later re-analysis found the original data weak, a reminder to check famous studies too.",
+    "source": "Landsberger, Hawthorne Revisited (1958); Levitt & List (2011)",
+    "visual": "a 1920s factory floor of workers at benches under hanging lamps, with observers holding clipboards on a balcony"
+  },
+  {
+    "id": "soc-07",
+    "title": "A false belief can make itself true",
+    "body": "Sociologist Robert Merton named the self-fulfilling prophecy in 1948. His example was a healthy bank. A rumour spreads that it is failing, depositors rush to withdraw, and the bank fails.",
+    "takeaway": "Expectations change behaviour, and behaviour changes outcomes. Watch what you predict about people.",
+    "source": "Robert K. Merton, The Antioch Review (1948)",
+    "visual": "a long anxious queue outside a grand old bank, a whisper visibly passing from person to person down the line"
+  },
+  {
+    "id": "soc-08",
+    "title": "Humanity became a majority-urban species around 2007",
+    "body": "In 1950 about 30% of people lived in towns and cities. By around 2007, for the first time in history, urban dwellers outnumbered rural ones. The UN has projected roughly two-thirds by 2050.",
+    "takeaway": "Most of the cities that will exist in 2050 are being built right now, mainly in Asia and Africa.",
+    "source": "UN World Urbanization Prospects (2018)",
+    "visual": "farmland in the foreground giving way to a dense glowing skyline, people walking along a road toward the city"
+  },
+  {
+    "id": "soc-09",
+    "title": "Success breeds success, whether or not it is deserved",
+    "body": "Robert Merton noticed that famous scientists got most of the credit for joint work, even when lesser-known colleagues had done as much. He called it the Matthew effect, after the Gospel line \"to everyone who has, more will be given\".",
+    "takeaway": "Early advantages snowball. Notice who gets the credit and who did the work.",
+    "source": "Robert K. Merton, Science (1968)",
+    "visual": "a spotlight on one figure on a stage holding a trophy, with several equally busy collaborators in shadow behind"
+  },
+  {
+    "id": "soc-10",
+    "title": "Strong relationships predict a longer life",
+    "body": "A review pooling 148 studies and more than 300,000 people found that those with stronger social ties were about 50% more likely to be alive at follow-up. The effect was comparable to that of quitting smoking.",
+    "takeaway": "Time with people you care about is a health habit as well as a pleasure.",
+    "source": "Holt-Lunstad, Smith & Layton, PLOS Medicine (2010)",
+    "visual": "a long dinner table of friends of all ages laughing together in warm evening light"
+  }
+]

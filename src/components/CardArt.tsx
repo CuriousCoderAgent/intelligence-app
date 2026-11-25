@@ -1,19 +1,22 @@
 import type { ReactNode } from 'react'
-import type { CategoryId, Fact } from '../types.ts'
+import type { CardRef } from '../types.ts'
 import { IMAGE_BY_ID } from '../lib/images.ts'
 import { rng } from '../lib/random.ts'
+import { categoryOf } from '../lib/topics.ts'
 
 /**
- * The picture area of a card. Shows the fact's image when one exists in
- * src/assets/cards, otherwise line art generated from the fact's id: one motif
- * per topic, varied per card so no two look the same.
+ * The picture area of a card. Shows the card's image when one exists in
+ * src/assets/cards, otherwise line art generated from the card's id: each
+ * topic names a motif in content/topics.json, and the id varies it so no two
+ * cards look the same. Needs only the id and topic, so it draws before the
+ * card's text has loaded.
  *
  * Motifs draw on a 400x400 canvas. FRAMES says which part of it to show:
  * patterns that work at any crop fill the whole area, while drawings that
  * must stay whole (a bridge, a chamber of seats) are fitted inside it.
  */
-export function CardArt({ fact }: { fact: Fact }) {
-  const image = IMAGE_BY_ID.get(fact.id)
+export function CardArt({ card }: { card: CardRef }) {
+  const image = IMAGE_BY_ID.get(card.id)
   if (image) {
     return (
       <div className="art art--image">
@@ -21,29 +24,31 @@ export function CardArt({ fact }: { fact: Fact }) {
       </div>
     )
   }
-  const frame = FRAMES[fact.category]
+  const motif = categoryOf(card.category).motif
+  const frame = FRAMES[motif] ?? FRAMES.tiles
   return (
     <div className={frame.fill ? 'art art--fill' : 'art'}>
       <svg viewBox={frame.box} preserveAspectRatio={frame.fill ? 'xMidYMid slice' : 'xMidYMid meet'} aria-hidden="true">
-        {MOTIFS[fact.category](rng(fact.id))}
+        {(MOTIFS[motif] ?? MOTIFS.tiles)(rng(card.id))}
       </svg>
     </div>
   )
 }
 
-const FRAMES: Record<CategoryId, { box: string; fill?: boolean }> = {
-  self: { box: '30 55 340 265' },
-  geo: { box: '0 0 400 400', fill: true },
-  sci: { box: '25 35 350 330' },
-  space: { box: '0 0 400 400', fill: true },
-  pol: { box: '-12 88 424 232' },
-  tech: { box: '0 0 400 400', fill: true },
-  gk: { box: '0 0 400 400', fill: true },
-  hist: { box: '10 68 380 258' },
-  soc: { box: '22 76 356 248' },
-  math: { box: '25 35 350 330' },
-  eng: { box: '0 92 400 262' },
-  econ: { box: '20 62 360 252' },
+/** Keep these names in step with MOTIFS in scripts/lib/deck.mjs. */
+const FRAMES: Record<string, { box: string; fill?: boolean }> = {
+  steps: { box: '30 55 340 265' },
+  contours: { box: '0 0 400 400', fill: true },
+  orbits: { box: '25 35 350 330' },
+  planet: { box: '0 0 400 400', fill: true },
+  chamber: { box: '-12 88 424 232' },
+  circuit: { box: '0 0 400 400', fill: true },
+  tiles: { box: '0 0 400 400', fill: true },
+  arches: { box: '10 68 380 258' },
+  network: { box: '22 76 356 248' },
+  spiro: { box: '25 35 350 330' },
+  bridge: { box: '0 92 400 262' },
+  bars: { box: '20 62 360 252' },
 }
 
 type Rand = () => number
@@ -51,9 +56,9 @@ const between = (r: Rand, lo: number, hi: number) => lo + r() * (hi - lo)
 const int = (r: Rand, lo: number, hi: number) => Math.floor(between(r, lo, hi + 1))
 const f = (n: number) => n.toFixed(1)
 
-const MOTIFS: Record<CategoryId, (r: Rand) => ReactNode> = {
+const MOTIFS: Record<string, (r: Rand) => ReactNode> = {
   // Steps that start small and grow: compounding effort.
-  self(r) {
+  steps(r) {
     const n = int(r, 6, 9)
     const growth = between(r, 1.25, 1.45)
     const weights = Array.from({ length: n }, (_, i) => growth ** i)
@@ -81,7 +86,7 @@ const MOTIFS: Record<CategoryId, (r: Rand) => ReactNode> = {
   },
 
   // Contour lines, as on a topographic map.
-  geo(r) {
+  contours(r) {
     const cx = between(r, 170, 230)
     const cy = between(r, 185, 215)
     const waves = [0, 1, 2].map((i) => ({ k: i + 2, phase: between(r, 0, 6.28), amp: between(r, 0.04, 0.1) }))
@@ -104,7 +109,7 @@ const MOTIFS: Record<CategoryId, (r: Rand) => ReactNode> = {
   },
 
   // Orbits around a nucleus.
-  sci(r) {
+  orbits(r) {
     const spin = between(r, 0, 60)
     const count = int(r, 3, 4)
     const orbits = Array.from({ length: count }, (_, i) => {
@@ -135,7 +140,7 @@ const MOTIFS: Record<CategoryId, (r: Rand) => ReactNode> = {
   },
 
   // A ringed planet in a field of stars.
-  space(r) {
+  planet(r) {
     const stars = Array.from({ length: 54 }, (_, i) => (
       <circle
         key={i}
@@ -162,7 +167,7 @@ const MOTIFS: Record<CategoryId, (r: Rand) => ReactNode> = {
   },
 
   // Seats in a chamber, split between two sides.
-  pol(r) {
+  chamber(r) {
     const split = between(r, 0.32, 0.68)
     const seats: ReactNode[] = []
     for (let row = 0; row < 5; row++) {
@@ -191,7 +196,7 @@ const MOTIFS: Record<CategoryId, (r: Rand) => ReactNode> = {
   },
 
   // Traces on a circuit board around a chip.
-  tech(r) {
+  circuit(r) {
     const traces = Array.from({ length: 11 }, (_, i) => {
       let x = int(r, 1, 9) * 40
       let y = int(r, 2, 8) * 40
@@ -227,7 +232,7 @@ const MOTIFS: Record<CategoryId, (r: Rand) => ReactNode> = {
   },
 
   // Truchet tiles: one simple tile, endless patterns.
-  gk(r) {
+  tiles(r) {
     const tiles: string[] = []
     const dots: ReactNode[] = []
     for (let row = 0; row < 8; row++) {
@@ -251,7 +256,7 @@ const MOTIFS: Record<CategoryId, (r: Rand) => ReactNode> = {
   },
 
   // Tiers of arches, as on an aqueduct.
-  hist(r) {
+  arches(r) {
     const spans = int(r, 3, 5)
     const tiers = [
       { base: 312, height: 96, count: spans },
@@ -287,7 +292,7 @@ const MOTIFS: Record<CategoryId, (r: Rand) => ReactNode> = {
   },
 
   // People and the ties between them.
-  soc(r) {
+  network(r) {
     const nodes: { x: number; y: number; size: number }[] = []
     for (let tries = 0; nodes.length < 17 && tries < 400; tries++) {
       const x = between(r, 45, 355)
@@ -321,7 +326,7 @@ const MOTIFS: Record<CategoryId, (r: Rand) => ReactNode> = {
   },
 
   // A spirograph curve: simple rule, intricate result.
-  math(r) {
+  spiro(r) {
     const [big, small] = [[5, 3], [7, 3], [8, 3], [7, 2], [9, 4], [11, 4]][int(r, 0, 5)]
     const reach = between(r, 0.7, 1.25)
     const d = small * reach
@@ -343,7 +348,7 @@ const MOTIFS: Record<CategoryId, (r: Rand) => ReactNode> = {
   },
 
   // An arched truss bridge.
-  eng(r) {
+  bridge(r) {
     const panels = int(r, 4, 6) * 2
     const rise = between(r, 95, 130)
     const left = 45
@@ -376,7 +381,7 @@ const MOTIFS: Record<CategoryId, (r: Rand) => ReactNode> = {
   },
 
   // Bars and a trend line.
-  econ(r) {
+  bars(r) {
     const n = int(r, 8, 11)
     const w = 300 / n
     let level = between(r, 40, 70)

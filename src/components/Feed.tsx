@@ -1,6 +1,7 @@
 import { useCallback, useEffect, useRef, useState } from 'react'
-import type { Fact } from '../types.ts'
+import type { CardRef, CategoryId, Fact } from '../types.ts'
 import type { FeedItem } from '../lib/feed.ts'
+import { preload, useFact } from '../lib/deck.ts'
 import { Card, groundStyle } from './Card.tsx'
 import { ChevronUpIcon } from './Icons.tsx'
 
@@ -8,6 +9,13 @@ import { ChevronUpIcon } from './Icons.tsx'
 const READ_AFTER_MS = 900
 /** Cards this far either side of the current one are fully rendered. */
 const RENDER_WINDOW = 2
+/** Card text is fetched this many cards ahead of the current one. */
+const PRELOAD_AHEAD = 5
+/**
+ * The feed is dealt onto the page in batches, so a deck of thousands of cards
+ * does not mean thousands of elements. More are added as the end gets close.
+ */
+const BATCH = 40
 
 interface Props {
   items: FeedItem[]
@@ -15,8 +23,8 @@ interface Props {
   readToday: number
   streak: number
   showHint: boolean
-  onRead: (fact: Fact) => void
-  onActiveFact: (fact: Fact | undefined) => void
+  onRead: (id: string) => void
+  onActiveTopic: (topic: CategoryId | undefined) => void
   onToggleSave: (id: string) => void
   onShare: (fact: Fact) => void
   onShuffleAll: () => void
@@ -24,9 +32,16 @@ interface Props {
 }
 
 export function Feed(props: Props) {
-  const { items, saved, readToday, streak, showHint, onRead, onActiveFact, onToggleSave, onShare, onShuffleAll, onOpenTopics } = props
+  const { items, saved, readToday, streak, showHint, onRead, onActiveTopic, onToggleSave, onShare, onShuffleAll, onOpenTopics } = props
   const scroller = useRef<HTMLDivElement>(null)
   const [active, setActive] = useState(0)
+  const [dealt, setDealt] = useState(BATCH)
+  const shown = items.slice(0, dealt)
+
+  // Deal the next batch before the reader reaches the end of this one.
+  useEffect(() => {
+    if (active >= dealt - 8 && dealt < items.length) setDealt((n) => n + BATCH)
+  }, [active, dealt, items.length])
 
   // Track which card fills the screen.
   useEffect(() => {
@@ -42,26 +57,32 @@ export function Feed(props: Props) {
     )
     root.querySelectorAll('[data-index]').forEach((el) => observer.observe(el))
     return () => observer.disconnect()
-  }, [items])
+  }, [items, dealt])
 
   const current = items[active]
-  const currentFact = current?.kind === 'fact' ? current.fact : undefined
+  const currentCard = current?.kind === 'fact' ? current.card : undefined
 
   useEffect(() => {
-    onActiveFact(currentFact)
-    if (!currentFact) return
-    const timer = setTimeout(() => onRead(currentFact), READ_AFTER_MS)
+    onActiveTopic(currentCard?.category)
+    if (!currentCard) return
+    const timer = setTimeout(() => onRead(currentCard.id), READ_AFTER_MS)
     return () => clearTimeout(timer)
-  }, [currentFact, onRead, onActiveFact])
+  }, [currentCard, onRead, onActiveTopic])
+
+  // Fetch the text for the next few cards before they are swiped to.
+  useEffect(() => {
+    const ahead = items.slice(active, active + PRELOAD_AHEAD + 1)
+    preload(ahead.flatMap((item) => (item.kind === 'fact' ? [item.card.id] : [])))
+  }, [items, active])
 
   const go = useCallback(
     (delta: number) => {
       const root = scroller.current
       if (!root) return
-      const next = Math.min(items.length - 1, Math.max(0, active + delta))
+      const next = Math.min(shown.length - 1, Math.max(0, active + delta))
       root.scrollTo({ top: next * root.clientHeight, behavior: 'smooth' })
     },
-    [active, items.length],
+    [active, shown.length],
   )
 
   // Arrow keys, space and j/k for desktop.
@@ -82,13 +103,12 @@ export function Feed(props: Props) {
 
   return (
     <div className="feed" ref={scroller} tabIndex={-1}>
-      {items.map((item, index) => {
-        const near = Math.abs(index - active) <= RENDER_WINDOW
+      {shown.map((item, index) => {
         if (item.kind === 'fact') {
           return (
-            <article key={item.key} data-index={index} className="card" style={groundStyle(item.fact)}>
-              {near && (
-                <Card fact={item.fact} saved={saved.has(item.fact.id)} onToggleSave={onToggleSave} onShare={onShare} />
+            <article key={item.key} data-index={index} className="card" style={groundStyle(item.card)}>
+              {Math.abs(index - active) <= RENDER_WINDOW && (
+                <FeedCard card={item.card} saved={saved.has(item.card.id)} onToggleSave={onToggleSave} onShare={onShare} />
               )}
               {index === 0 && showHint && active === 0 && (
                 <button type="button" className="hint" onClick={() => go(1)}>
@@ -154,4 +174,16 @@ export function Feed(props: Props) {
       })}
     </div>
   )
+}
+
+interface FeedCardProps {
+  card: CardRef
+  saved: boolean
+  onToggleSave: (id: string) => void
+  onShare: (fact: Fact) => void
+}
+
+function FeedCard({ card, saved, onToggleSave, onShare }: FeedCardProps) {
+  const state = useFact(card.id)
+  return <Card card={card} state={state} saved={saved} onToggleSave={onToggleSave} onShare={onShare} />
 }

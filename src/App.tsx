@@ -1,8 +1,8 @@
 import { useCallback, useEffect, useMemo, useState, type CSSProperties } from 'react'
-import type { CategoryId, Fact } from './types.ts'
-import { CATEGORIES, CATEGORY_BY_ID } from './data/categories.ts'
-import { FACTS, FACT_BY_ID } from './data/index.ts'
+import type { CardRef, CategoryId, Fact } from './types.ts'
+import { CARDS, CARD_BY_ID, useFact } from './lib/deck.ts'
 import { buildFeed } from './lib/feed.ts'
+import { CATEGORIES, categoryOf } from './lib/topics.ts'
 import { currentStreak, loadStore, markSeen, saveStore, today } from './lib/storage.ts'
 import { Card, groundStyle } from './components/Card.tsx'
 import { Feed } from './components/Feed.tsx'
@@ -11,7 +11,7 @@ import { CloseIcon, LibraryIcon, TopicsIcon } from './components/Icons.tsx'
 
 export const APP_NAME = 'Lumen'
 
-type Panel = { kind: 'topics' } | { kind: 'saved' } | { kind: 'reader'; fact: Fact } | null
+type Panel = { kind: 'topics' } | { kind: 'saved' } | { kind: 'reader'; card: CardRef } | null
 
 export function App() {
   // One mutable store for the visit; React state mirrors the parts the UI shows.
@@ -23,12 +23,12 @@ export function App() {
   const [deck, setDeck] = useState({ round: 0, ignoreSeen: false })
   const [panel, setPanel] = useState<Panel>(null)
   const [toast, setToast] = useState('')
-  const [activeFact, setActiveFact] = useState<Fact>()
+  const [activeTopic, setActiveTopic] = useState<CategoryId>()
 
   // A shared link (#sci-03) opens on that card.
   const [linked] = useState(() => {
     const id = decodeURIComponent(location.hash.slice(1))
-    return FACT_BY_ID.has(id) ? id : undefined
+    return CARD_BY_ID.has(id) ? id : undefined
   })
   const [seed] = useState(() => `${today()}-${Math.random()}`)
 
@@ -36,7 +36,7 @@ export function App() {
   const items = useMemo(
     () =>
       buildFeed({
-        facts: FACTS,
+        cards: CARDS,
         seen: store.seen,
         topics,
         first: deck.round === 0 ? linked : undefined,
@@ -54,8 +54,8 @@ export function App() {
   }, [toast])
 
   const onRead = useCallback(
-    (fact: Fact) => {
-      markSeen(store, fact.id)
+    (id: string) => {
+      markSeen(store, id)
       saveStore(store)
       setReadToday(store.day.count)
       setIsFirstVisit(false)
@@ -104,7 +104,9 @@ export function App() {
 
   const savedSet = useMemo(() => new Set(saved), [saved])
   const closePanel = useCallback(() => setPanel(null), [])
-  const stageStyle = { '--ground': activeFact ? CATEGORY_BY_ID[activeFact.category].ground : '#14131c' } as CSSProperties
+  const stageStyle = { '--ground': activeTopic ? categoryOf(activeTopic).ground : '#14131c' } as CSSProperties
+  // Saved cards whose content has since been removed from the deck are skipped.
+  const savedCards = saved.flatMap((id) => CARD_BY_ID.get(id) ?? [])
 
   return (
     <div className="stage" style={stageStyle}>
@@ -130,7 +132,7 @@ export function App() {
           streak={currentStreak(store)}
           showHint={isFirstVisit}
           onRead={onRead}
-          onActiveFact={setActiveFact}
+          onActiveTopic={setActiveTopic}
           onToggleSave={toggleSave}
           onShare={share}
           onShuffleAll={() => setDeck((d) => ({ round: d.round + 1, ignoreSeen: true }))}
@@ -143,30 +145,24 @@ export function App() {
 
         {panel?.kind === 'saved' && (
           <Sheet title="Saved" onClose={closePanel}>
-            {saved.length === 0 ? (
+            {savedCards.length === 0 ? (
               <p className="empty">Nothing saved yet. Tap the bookmark on a card to keep it here.</p>
             ) : (
               <ul className="saved-list">
-                {saved
-                  .map((id) => FACT_BY_ID.get(id))
-                  .filter((fact): fact is Fact => Boolean(fact))
-                  .map((fact) => (
-                    <li key={fact.id}>
-                      <button type="button" className="saved-item" style={groundStyle(fact)} onClick={() => setPanel({ kind: 'reader', fact })}>
-                        <span className="label">{CATEGORY_BY_ID[fact.category].name}</span>
-                        <span className="saved-title">{fact.title}</span>
-                      </button>
-                    </li>
-                  ))}
+                {savedCards.map((card) => (
+                  <li key={card.id}>
+                    <SavedRow card={card} onOpen={() => setPanel({ kind: 'reader', card })} />
+                  </li>
+                ))}
               </ul>
             )}
           </Sheet>
         )}
 
         {panel?.kind === 'reader' && (
-          <div className="reader" role="dialog" aria-modal="true" aria-label={panel.fact.title}>
-            <article className="card" style={groundStyle(panel.fact)}>
-              <Card fact={panel.fact} saved={savedSet.has(panel.fact.id)} onToggleSave={toggleSave} onShare={share} />
+          <div className="reader" role="dialog" aria-modal="true" aria-label="Saved card">
+            <article className="card" style={groundStyle(panel.card)}>
+              <ReaderCard card={panel.card} saved={savedSet.has(panel.card.id)} onToggleSave={toggleSave} onShare={share} />
             </article>
             <button type="button" className="icon-btn reader-close" aria-label="Back to saved" onClick={() => setPanel({ kind: 'saved' })}>
               <CloseIcon />
@@ -182,6 +178,28 @@ export function App() {
   )
 }
 
+function SavedRow({ card, onOpen }: { card: CardRef; onOpen: () => void }) {
+  const state = useFact(card.id)
+  return (
+    <button type="button" className="saved-item" style={groundStyle(card)} onClick={onOpen}>
+      <span className="label">{categoryOf(card.category).name}</span>
+      <span className="saved-title">{state.status === 'ready' ? state.fact.title : state.status === 'failed' ? 'Could not load this card' : '\u2026'}</span>
+    </button>
+  )
+}
+
+interface ReaderCardProps {
+  card: CardRef
+  saved: boolean
+  onToggleSave: (id: string) => void
+  onShare: (fact: Fact) => void
+}
+
+function ReaderCard({ card, saved, onToggleSave, onShare }: ReaderCardProps) {
+  const state = useFact(card.id)
+  return <Card card={card} state={state} saved={saved} onToggleSave={onToggleSave} onShare={onShare} />
+}
+
 interface TopicSheetProps {
   selected: CategoryId[]
   seen: Record<string, number>
@@ -194,7 +212,7 @@ function TopicSheet({ selected, seen, onApply, onClose }: TopicSheetProps) {
   const [draft, setDraft] = useState<CategoryId[]>(selected.length ? selected : CATEGORIES.map((c) => c.id))
   const toggle = (id: CategoryId) => setDraft((d) => (d.includes(id) ? d.filter((t) => t !== id) : [...d, id]))
   const all = draft.length === CATEGORIES.length
-  const count = FACTS.filter((fact) => draft.includes(fact.category)).length
+  const count = CARDS.filter((card) => draft.includes(card.category)).length
 
   return (
     <Sheet
@@ -213,8 +231,8 @@ function TopicSheet({ selected, seen, onApply, onClose }: TopicSheetProps) {
     >
       <ul className="topic-grid">
         {CATEGORIES.map((category) => {
-          const facts = FACTS.filter((fact) => fact.category === category.id)
-          const unread = facts.filter((fact) => seen[fact.id] === undefined).length
+          const cards = CARDS.filter((card) => card.category === category.id)
+          const unread = cards.filter((card) => seen[card.id] === undefined).length
           return (
             <li key={category.id}>
               <button
@@ -227,7 +245,7 @@ function TopicSheet({ selected, seen, onApply, onClose }: TopicSheetProps) {
                 <span className="topic-dot" />
                 <span className="topic-text">
                   <span className="topic-name">{category.name}</span>
-                  <span className="topic-count">{unread ? `${unread} new` : `${facts.length} read`}</span>
+                  <span className="topic-count">{unread ? `${unread} new` : `${cards.length} read`}</span>
                 </span>
               </button>
             </li>

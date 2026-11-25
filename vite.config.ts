@@ -1,12 +1,14 @@
 import { defineConfig } from 'vite'
 import react from '@vitejs/plugin-react'
 import { VitePWA } from 'vite-plugin-pwa'
+import { deckPlugin } from './scripts/lib/vite-deck.mjs'
 
 // `base: './'` keeps every asset path relative, so the build works at a domain
 // root (Vercel, Netlify) and under a sub-path (GitHub Pages) without changes.
 export default defineConfig(({ mode }) => ({
   base: './',
   plugins: [
+    deckPlugin(),
     react(),
     // "single" mode is a plain build without the service worker, for previews.
     mode !== 'single' &&
@@ -30,7 +32,9 @@ export default defineConfig(({ mode }) => ({
           ],
         },
         workbox: {
-          // App shell and fonts are precached; card images are cached as they
+          // The app, fonts and every card pack are precached, so the whole deck
+          // reads offline. Packs are small hashed files, so a deploy that adds
+          // cards only downloads the new packs. Card images are cached as they
           // are viewed so a large image library does not bloat the install.
           globPatterns: ['**/*.{js,css,html,woff2,svg,png}'],
           runtimeCaching: [

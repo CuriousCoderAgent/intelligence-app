@@ -365,6 +365,39 @@ button {
   margin-right: -10px;
 }
 
+/* Shown while a card's text is being fetched. */
+.skeleton {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  padding: 4px 0 10px;
+}
+
+.skeleton span {
+  height: 0.95rem;
+  border-radius: 6px;
+  background: color-mix(in oklab, var(--accent) 16%, transparent);
+  animation: pulse 1.4s ease-in-out infinite;
+}
+
+@keyframes pulse {
+  50% {
+    opacity: 0.45;
+  }
+}
+
+.card-error {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 12px;
+}
+
+.icon-btn:disabled {
+  opacity: 0.35;
+  cursor: default;
+}
+
 /* Shorter phones: tighten the type so the picture keeps some room. */
 @container (max-height: 700px) {
   .content {

@@ -1,0 +1,82 @@
+[
+  {
+    "id": "self-01",
+    "title": "1% better every day makes you 37 times better in a year",
+    "body": "Improve by 1% daily and the gains compound: 1.01 multiplied by itself 365 times is about 37.8. Slip by 1% a day instead and you end the year at roughly 3% of where you started.",
+    "takeaway": "Pick improvements small enough to repeat tomorrow. Consistency does the heavy lifting.",
+    "source": "Compound arithmetic; popularised by James Clear, Atomic Habits (2018)",
+    "visual": "a staircase of tiny glowing steps that curves upward into a steep climb, a small figure near the top"
+  },
+  {
+    "id": "self-02",
+    "title": "A habit takes about 66 days to stick, not 21",
+    "body": "Researchers at University College London tracked 96 people building a new daily habit. On average it became automatic after 66 days, with a range from 18 to 254. Missing a single day made no real difference.",
+    "takeaway": "Plan for two to three months, and do not quit over one missed day.",
+    "source": "Lally et al., European Journal of Social Psychology (2010)",
+    "visual": "a wall calendar with a long chain of marked days winding into the distance, one gap in the chain that does not break it"
+  },
+  {
+    "id": "self-03",
+    "title": "Testing yourself beats re-reading",
+    "body": "Students who read a passage and then practised recalling it remembered far more a week later than students who read it again and again. The re-readers, however, felt more confident.",
+    "takeaway": "Close the book and try to recall. The struggle is the learning.",
+    "source": "Roediger & Karpicke, Psychological Science (2006)",
+    "visual": "a closed book on a desk with glowing threads of memory rising from a person's head instead of from the pages"
+  },
+  {
+    "id": "self-04",
+    "title": "You forget on a curve, and you can flatten it",
+    "body": "In 1885 Hermann Ebbinghaus memorised lists of nonsense syllables and timed how fast they faded. Forgetting is steepest in the first hours and days. Each review at a widening interval makes the memory last longer.",
+    "takeaway": "Review after a day, a week, then a month. Spacing beats cramming for the same total time.",
+    "source": "Ebbinghaus, Memory (1885); Cepeda et al., Psychological Bulletin (2006)",
+    "visual": "a steep downhill slope that becomes gentler with each of several glowing checkpoints along a mountain path"
+  },
+  {
+    "id": "self-05",
+    "title": "\"If X happens, I will do Y\" plans really work",
+    "body": "A review of 94 studies found that people who wrote plans in an if-then form, such as \"If it is 7 am, I will put on my running shoes\", were markedly more likely to reach their goals than people who only stated the goal.",
+    "takeaway": "Attach each goal to a specific cue: a time, a place, or the thing you do right before it.",
+    "source": "Gollwitzer & Sheeran, Advances in Experimental Social Psychology (2006)",
+    "visual": "a fork in a path with a signpost, one arm lit warmly and leading to running shoes waiting by a door at dawn"
+  },
+  {
+    "id": "self-06",
+    "title": "A to-do list can put you to sleep",
+    "body": "In a sleep-lab study, people who spent five minutes before bed writing tomorrow's to-do list fell asleep about nine minutes faster than people who wrote about tasks they had already finished. The more specific the list, the faster they dropped off.",
+    "takeaway": "Unload tomorrow onto paper before bed so your mind stops rehearsing it.",
+    "source": "Scullin et al., Journal of Experimental Psychology: General (2018)",
+    "visual": "a bedside table with a notebook and pen under a warm lamp, thoughts drifting out of a sleeping head onto the page"
+  },
+  {
+    "id": "self-07",
+    "title": "Switching tasks leaves \"attention residue\"",
+    "body": "When you jump from one unfinished task to another, part of your attention stays behind with the first one. In experiments, people carrying this residue performed worse on the next task.",
+    "takeaway": "Finish, or write down exactly where you stopped, before you switch.",
+    "source": "Sophie Leroy, Organizational Behavior and Human Decision Processes (2009)",
+    "visual": "a person walking between two desks with a translucent ghost of themselves still seated at the first desk"
+  },
+  {
+    "id": "self-08",
+    "title": "17 hours awake is like being tipsy",
+    "body": "After 17 to 19 hours without sleep, people performed on reaction and accuracy tests as badly as, or worse than, they did with a blood alcohol level of 0.05%. Longer stretches matched 0.1%.",
+    "takeaway": "A late night costs more than it buys. Protect sleep before important work.",
+    "source": "Williamson & Feyer, Occupational and Environmental Medicine (2000)",
+    "visual": "a tired figure at a desk late at night, the clock and the room gently tilting and blurring around them"
+  },
+  {
+    "id": "self-09",
+    "title": "You will take longer than you think. Everyone does.",
+    "body": "Psychology students predicted they would finish their theses in 34 days on average. They took 56. Fewer than a third finished by their own estimate. This is the planning fallacy.",
+    "takeaway": "Ask how long similar tasks took last time, then trust that number over your gut.",
+    "source": "Buehler, Griffin & Ross, Journal of Personality and Social Psychology (1994)",
+    "visual": "a short optimistic road on a map overlaid with the much longer winding road actually travelled"
+  },
+  {
+    "id": "self-10",
+    "title": "Want to learn it? Prepare to teach it",
+    "body": "Students told they would have to teach a passage recalled more of it, and organised it better, than students told they would be tested. Neither group actually taught anyone. Expecting to teach was enough.",
+    "takeaway": "Study as if you must explain it to a friend tomorrow.",
+    "source": "Nestojko et al., Memory & Cognition (2014)",
+    "visual": "a person explaining a glowing diagram to an empty chair, the diagram becoming sharper as they speak"
+  }
+]

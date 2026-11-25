@@ -1,6 +1,5 @@
-export type CategoryId =
-  | 'self' | 'geo' | 'sci' | 'space' | 'pol' | 'tech'
-  | 'gk' | 'hist' | 'soc' | 'math' | 'eng' | 'econ'
+/** A topic id from content/topics.json, e.g. "sci". */
+export type CategoryId = string
 
 export interface Category {
   id: CategoryId
@@ -11,12 +10,18 @@ export interface Category {
   accent: string
   /** Colour words fed into the image prompt so pictures match the card. */
   palette: string
+  /** Which line-art style to draw when a card has no picture. */
+  motif: string
 }
 
-export interface Fact {
-  /** Stable id, e.g. "sci-03". Also the image file name. */
+/** What the feed needs to place a card. Known up front for the whole deck. */
+export interface CardRef {
   id: string
   category: CategoryId
+}
+
+/** A card's full text. Loaded on demand, one pack at a time. */
+export interface Fact extends CardRef {
   /** The hook. One line, reads on its own. */
   title: string
   /** The fact itself: two or three sentences. */
@@ -25,9 +30,4 @@ export interface Fact {
   takeaway: string
   /** Where it comes from (name and year, no links). */
   source: string
-  /** Scene description for the illustration. */
-  visual: string
 }
-
-/** A fact as written in a category file, before id and category are attached. */
-export type FactDraft = Omit<Fact, 'id' | 'category'>

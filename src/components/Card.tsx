@@ -1,43 +1,76 @@
 import type { CSSProperties } from 'react'
-import type { Fact } from '../types.ts'
-import { CATEGORY_BY_ID } from '../data/categories.ts'
+import type { CardRef, Fact } from '../types.ts'
+import type { FactState } from '../lib/deck.ts'
+import { categoryOf } from '../lib/topics.ts'
 import { CardArt } from './CardArt.tsx'
 import { BookmarkIcon, ShareIcon } from './Icons.tsx'
 
-export const groundStyle = (fact: Fact) => {
-  const category = CATEGORY_BY_ID[fact.category]
+export const groundStyle = (card: CardRef) => {
+  const category = categoryOf(card.category)
   return { '--ground': category.ground, '--accent': category.accent } as CSSProperties
 }
 
 interface Props {
-  fact: Fact
+  card: CardRef
+  state: FactState
   saved: boolean
   onToggleSave: (id: string) => void
   onShare: (fact: Fact) => void
 }
 
-export function Card({ fact, saved, onToggleSave, onShare }: Props) {
+/**
+ * The inside of a card. Art and topic label come from the card's id alone, so
+ * they appear at once; the text fills in when its pack has loaded.
+ */
+export function Card({ card, state, saved, onToggleSave, onShare }: Props) {
+  const fact = state.status === 'ready' ? state.fact : undefined
   return (
     <>
-      <CardArt fact={fact} />
+      <CardArt card={card} />
       <div className="content">
-        <p className="label">{CATEGORY_BY_ID[fact.category].name}</p>
-        <h2 className="title">{fact.title}</h2>
-        <p className="body">{fact.body}</p>
-        <p className="takeaway">{fact.takeaway}</p>
+        <p className="label">{categoryOf(card.category).name}</p>
+        {fact ? (
+          <>
+            <h2 className="title">{fact.title}</h2>
+            <p className="body">{fact.body}</p>
+            <p className="takeaway">{fact.takeaway}</p>
+          </>
+        ) : state.status === 'failed' ? (
+          <div className="card-error">
+            <h2 className="title">This card did not load</h2>
+            <p className="body">Check your connection and try again.</p>
+            <button type="button" className="text-btn" onClick={state.retry}>
+              Try again
+            </button>
+          </div>
+        ) : (
+          <div className="skeleton" aria-busy="true" aria-label="Loading card">
+            <span style={{ width: '88%', height: '1.9rem' }} />
+            <span style={{ width: '62%', height: '1.9rem' }} />
+            <span style={{ width: '100%' }} />
+            <span style={{ width: '96%' }} />
+            <span style={{ width: '70%' }} />
+          </div>
+        )}
         <footer className="meta">
-          <p className="source">{fact.source}</p>
+          <p className="source">{fact?.source}</p>
           <div className="actions">
             <button
               type="button"
               className="icon-btn"
               aria-pressed={saved}
               aria-label={saved ? 'Remove from saved' : 'Save this card'}
-              onClick={() => onToggleSave(fact.id)}
+              onClick={() => onToggleSave(card.id)}
             >
               <BookmarkIcon filled={saved} />
             </button>
-            <button type="button" className="icon-btn" aria-label="Share this card" onClick={() => onShare(fact)}>
+            <button
+              type="button"
+              className="icon-btn"
+              aria-label="Share this card"
+              disabled={!fact}
+              onClick={() => fact && onShare(fact)}
+            >
               <ShareIcon />
             </button>
           </div>
