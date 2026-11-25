@@ -57,7 +57,8 @@ The reader chose this over social media. Every card should leave them knowing on
 
 - **One idea per card.** If the body needs "also", it is two cards.
 - **True, and checkable.** Verify every number, name and date against a primary or reputable source before writing it. Name that source. If you cannot find a source, do not write the card.
-- **Avoid famous myths** (we use 10% of our brains, goldfish have three-second memories, the Great Wall is visible from space). A card that debunks a myth with a source is good.
+- **Assume no background.** The reader should be able to follow the card with nothing but the card. Do not lean on a story, a term or a debate they may never have heard of.
+- **Avoid famous myths** (we use 10% of our brains, goldfish have three-second memories, the Great Wall is visible from space). A card that debunks a myth with a source is good, but it must first say what the myth is, in plain words, before saying why it is wrong.
 - **Flag real disputes.** If a finding is contested or failed to replicate, say so in the body or takeaway, or skip it.
 - **Surprising or useful.** "Paris is the capital of France" is true and worthless. Prefer facts that change how the reader sees something, or that they can apply.
 - **Specific over vague.** "About 66 days, with a range of 18 to 254" beats "a couple of months".
@@ -71,6 +72,7 @@ The reader chose this over social media. Every card should leave them knowing on
 - British spelling (colour, metre, organisation).
 - Plain, direct sentences. No exclamation marks, no clickbait ("You won't believe..."), no rhetorical filler.
 - The title must be literally true on its own. A reader who sees only the title should not be misled.
+- Say what is so, not what is not. "Old windows are thicker at the bottom, but the glass never flowed" is clear. "Old windows are not thicker at the bottom because glass flows" makes the reader untangle a negative.
 - Plain text only: Latin letters, digits and ordinary punctuation. No emoji, arrows, maths symbols, superscripts or non-Latin scripts, because the app's fonts do not include them. Write "about" in place of an approximately sign, and transliterate other scripts.
 - `visual` describes a scene to paint, in the style "a lone spacecraft drifting through deep darkness, the Sun only a bright star behind it". It must not ask for text, letters, numbers, logos, maps with labels, or the likeness of a living person.
 
