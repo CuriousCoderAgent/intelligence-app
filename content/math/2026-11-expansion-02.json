@@ -1,0 +1,26 @@
+[
+  {
+    "id": "math-mobius-single-side",
+    "title": "A paper strip can be turned into a one-sided loop",
+    "body": "Give one end of a strip a half twist before joining it to the other end. A line drawn down the middle of the resulting Mobius strip returns to its starting point after visiting what used to be both faces.",
+    "takeaway": "The join changes a property of the strip that you cannot see by examining a tiny patch.",
+    "source": "Wolfram MathWorld, Mobius Strip",
+    "visual": "a half-twisted ribbon loop hanging against a dark wall"
+  },
+  {
+    "id": "math-gabriel-horn-area",
+    "title": "A mathematical horn has finite volume and infinite area",
+    "body": "Gabriel's horn comes from spinning the curve given by one divided by x around its horizontal axis, starting at x equal to one. Its volume is pi cubic units even though its outer surface has infinite area.",
+    "takeaway": "Knowing how much a shape holds does not tell you how much surface it has.",
+    "source": "Wolfram MathWorld, Gabriel's Horn",
+    "visual": "a wide horn that tapers into a very fine tip receding into darkness"
+  },
+  {
+    "id": "math-handshake-odd-count",
+    "title": "An even number of guests always shake an odd number of hands",
+    "body": "Count everyone's handshakes and add the totals. Every handshake is in two totals, so the sum is even. That means an odd total for one guest must be matched by an odd total for another.",
+    "takeaway": "The same rule applies to a diagram of roads, where the points are junctions and the connections are roads.",
+    "source": "Wolfram MathWorld, Handshaking Lemma",
+    "visual": "several hands meeting in pairs around the edge of a dark table"
+  }
+]

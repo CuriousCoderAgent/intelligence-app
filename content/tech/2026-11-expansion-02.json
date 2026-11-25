@@ -1,0 +1,18 @@
+[
+  {
+    "id": "tech-sketchpad-light-pen",
+    "title": "A 1963 computer let its user draw directly on screen",
+    "body": "Ivan Sutherland's Sketchpad ran on the TX-2 computer. A light pen let a designer indicate points on the display, and the program could apply geometric constraints while the designer moved parts of a drawing.",
+    "takeaway": "A computer drawing can store relationships between shapes as well as the positions of their lines.",
+    "source": "Ivan Sutherland, Sketchpad, MIT doctoral thesis (1963)",
+    "visual": "a light pen touching a simple geometric outline on an early computer display"
+  },
+  {
+    "id": "tech-game-boy-small-screen",
+    "title": "The original Game Boy played cartridges on a 7 cm screen",
+    "body": "Nintendo introduced the Game Boy in 1989. It played interchangeable game cartridges on a monochrome display about 7.4 cm across the diagonal, small enough to fit into a portable handheld machine.",
+    "takeaway": "Separating the cartridge from the handheld let one small machine become many games.",
+    "source": "Computer History Museum, Timeline of Computer History (1989)",
+    "visual": "an unbranded vintage handheld game device with a blank display and a cartridge beside it"
+  }
+]

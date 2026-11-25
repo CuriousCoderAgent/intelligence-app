@@ -1,0 +1,26 @@
+[
+  {
+    "id": "soc-resume-name-callbacks",
+    "title": "Changing a name changed interview callbacks in a 2004 study",
+    "body": "Researchers sent fictitious applications to employers in Boston and Chicago. Randomly assigning names perceived as white got about 50% more interview callbacks than assigning names perceived as Black to otherwise comparable CVs.",
+    "takeaway": "An audit can test for unequal treatment at a point in hiring that applicants rarely get to observe.",
+    "source": "Bertrand and Mullainathan, American Economic Review (2004)",
+    "visual": "a pile of face-down application sheets beside a desk phone"
+  },
+  {
+    "id": "soc-census-mother-tongue-returns",
+    "title": "India's 2011 census recorded 19,569 mother-tongue labels",
+    "body": "Census takers wrote down the mother tongue that each respondent reported. The 2011 count produced 19,569 raw labels, which census linguists checked and grouped before publishing language totals.",
+    "takeaway": "A count of language names depends on how people name their speech and how the census classifies those answers.",
+    "source": "Census of India 2011, Language Paper C-16 (2018)",
+    "visual": "a census worker's closed notebook on a table between two people in conversation"
+  },
+  {
+    "id": "soc-older-adults-children-projection",
+    "title": "The UN projects more older adults than children by 2080",
+    "body": "The United Nations' 2024 population projections put the number of people aged 65 or over at about 2.2 billion by the late 2070s. By around 2080 that group is projected to outnumber children under 18 worldwide.",
+    "takeaway": "Population change is about the balance of age groups as well as the total number of people.",
+    "source": "United Nations, World Population Prospects 2024",
+    "visual": "an older adult and a child walking across a wide neighbourhood square"
+  }
+]
