@@ -127,4 +127,24 @@ This keeps startup fast however large the deck grows. It was tested with 6,000 c
 - A pull request that adds content should not also change app code, and the reverse.
 - `main` is deployed automatically. Open a pull request; do not push to `main` directly.
 - Reader progress is stored on the device under the key `lumen.v1` (`src/lib/storage.ts`). Changing its shape needs a migration, or readers lose their history.
-- Keep the app free of accounts, trackers and third-party network requests unless the owner asks for them.
+- Accounts exist because the owner asked for them, and they are optional: a reader who never signs in must be able to use everything except syncing, people matching and feature requests, with all their data staying on the device.
+- Keep the app free of advertising, trackers and scripts from other companies. Sign-in with Google runs through our own server, so the app loads nothing from Google.
+- Never show how many cards the deck holds. The owner does not want its size advertised.
+
+## The server
+
+`server/` is a small API (Hono on Node, Postgres) that runs on Railway. It holds accounts, synced progress, people matching, connections and feature requests. `server/src/index.mjs` lists its environment variables. The app finds it through `VITE_API_URL` in `.env.production`.
+
+```bash
+cd server
+npm install
+npm test        # 13 tests against an in-memory Postgres
+npm run dev     # local API with an in-memory database and a stand-in for Google
+```
+
+Rules that matter here:
+
+- A reader's email is never sent to another reader. Other readers see a chosen name, photo and top topics, and only when both have switched on "Let others find me".
+- Contact details are returned only for a connection both sides have accepted. `server/test/api.test.mjs` pins this down; keep those tests passing.
+- Database changes go at the end of `MIGRATIONS` in `server/src/db.mjs`. Never edit a migration that has run.
+- Reading statistics are kept per device and added up, so a sync can never count anything twice.
