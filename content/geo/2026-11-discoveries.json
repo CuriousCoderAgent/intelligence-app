@@ -1,0 +1,26 @@
+[
+  {
+    "id": "geo-sargasso-sea",
+    "title": "The Sargasso Sea has no coastline",
+    "body": "The Sargasso Sea lies in the North Atlantic. Ocean currents, including the Gulf Stream, mark its edges on every side. Within them, mats of floating Sargassum seaweed provide shelter for marine life.",
+    "takeaway": "A sea can have a recognisable habitat even when the lines around it are made of moving water.",
+    "source": "NOAA Ocean Service, What is the Sargasso Sea?",
+    "visual": "a floating mat of tangled seaweed seen from above in a broad expanse of dark ocean"
+  },
+  {
+    "id": "geo-us-population-centre",
+    "title": "The US population centre moved from Maryland to Missouri",
+    "body": "In 1790 the US census put the country's population centre near Chestertown, Maryland. In 2020 it was near Hartville, Missouri. It's the point where a weightless map would balance if each person were an equal weight placed where they lived.",
+    "takeaway": "Tracking this point shows how settlement shifts, even when the outline on the map stays the same.",
+    "source": "US Census Bureau, 2020 Center of Population Press Kit",
+    "visual": "a thin relief map of the United States balanced on a single point with scattered dots of light"
+  },
+  {
+    "id": "geo-brasilia-inland-capital",
+    "title": "Brazil opened a purpose-built inland capital in 1960",
+    "body": "Brasilia opened as Brazil's capital on 21 April 1960. The government moved inland from Rio de Janeiro on the Atlantic coast, giving a new city on the central plateau a role once held by a coastal one.",
+    "takeaway": "A capital can be chosen to change which part of a country its institutions are closest to.",
+    "source": "Brazilian Federal Senate, 50 Years of Brasilia (2010)",
+    "visual": "the twin towers and low domes of Brazil's National Congress on an open plateau"
+  }
+]

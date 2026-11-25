@@ -1,0 +1,42 @@
+[
+  {
+    "id": "space-titan-methane-lakes",
+    "title": "On Titan, methane can fall as rain and fill lakes",
+    "body": "Cassini's radar found lakes near the north pole of Saturn's moon Titan in July 2006. Titan is cold enough for methane to be a liquid at the surface. Rainfall and liquid seeping up from underground can refill the lakes.",
+    "takeaway": "Earth's cycle of rain and runoff has a counterpart on a world where the liquid is a fuel on Earth.",
+    "source": "Stofan et al., The Lakes of Titan, Nature (2007)",
+    "visual": "a smooth lake on Titan under a low layer of haze, with a stark shoreline and dark hills"
+  },
+  {
+    "id": "space-dart-orbit-change",
+    "title": "A spacecraft cut 33 minutes off an asteroid's orbit time",
+    "body": "In September 2022 NASA's DART spacecraft hit Dimorphos, a small asteroid orbiting the larger Didymos. Observations after impact showed that Dimorphos took about 33 minutes less to complete each orbit.",
+    "takeaway": "A small change made far in advance can shift where an asteroid will be when it crosses Earth's path.",
+    "source": "NASA Science, Didymos and Dimorphos",
+    "visual": "a small rocky moonlet beside a larger asteroid with a faint plume lifting off its surface"
+  },
+  {
+    "id": "space-mars-blue-sunset",
+    "title": "On Mars, the sky near the setting Sun can turn blue",
+    "body": "NASA's Curiosity rover photographed a blue sunset at Gale Crater on 15 April 2015. When blue light scatters off fine Martian dust, it stays closer to the direction of the Sun than light of other colours does.",
+    "takeaway": "The colour of another world's sky can reveal how the particles in its air interact with sunlight.",
+    "source": "NASA Jet Propulsion Laboratory, Curiosity Rover Views Serene Sundown on Mars (2015)",
+    "visual": "a pale blue glow around the setting Sun above the dark rocky rim of a Martian crater"
+  },
+  {
+    "id": "space-uranus-sideways-seasons",
+    "title": "Uranus spins tipped almost onto its side",
+    "body": "Uranus's spin axis is tilted about 98 degrees from the upright direction of its orbit. During the planet's 84-year trip around the Sun, each pole in turn points nearly towards the Sun and then nearly away from it.",
+    "takeaway": "Earth's seasons come from the same kind of tilt. Uranus takes that familiar effect to an extreme.",
+    "source": "NASA Science, Uranus Facts",
+    "visual": "the pale disc of Uranus encircled by a steeply tipped ring system in deep space"
+  },
+  {
+    "id": "space-huygens-titan-landing",
+    "title": "The first landing beyond the asteroid belt was on Titan",
+    "body": "On 14 January 2005 the European Space Agency's Huygens probe landed on Titan, Saturn's largest moon. Its parachute descent through the atmosphere took 2 hours and 28 minutes, and its cameras sent images from below the haze.",
+    "takeaway": "A probe can study the atmosphere and the surface on the same trip down.",
+    "source": "European Space Agency, Highlights of ESA's Huygens Mission (2005)",
+    "visual": "a small unmarked probe suspended beneath a parachute over Titan's rocky plain"
+  }
+]

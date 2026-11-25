@@ -1,0 +1,18 @@
+[
+  {
+    "id": "math-penrose-nonrepeating-tiles",
+    "title": "Two tile shapes can force a floor never to repeat",
+    "body": "In the 1970s Roger Penrose found pairs of shapes that can tile an infinite plane. Match their edges by his rules and no shift in any direction will make the entire pattern line up with itself.",
+    "takeaway": "A motif can recur many times without the whole design having a repeating unit.",
+    "source": "Encyclopedia of Mathematics, Penrose tiling",
+    "visual": "a patch of interlocking kite and dart tiles forming star shapes on a dark surface"
+  },
+  {
+    "id": "math-buffon-needle-pi",
+    "title": "Dropping a needle on parallel lines can estimate pi",
+    "body": "Draw evenly spaced lines one needle-length apart and drop a needle at random. In Buffon's problem the chance it crosses a line is 2 divided by pi. Over many drops, divide twice the number of drops by the number of crossings to estimate pi.",
+    "takeaway": "The circle hiding in this experiment comes from the directions the needle can point.",
+    "source": "Wolfram MathWorld, Buffon's Needle Problem",
+    "visual": "a slender needle resting diagonally across a groove on a surface with evenly spaced parallel grooves"
+  }
+]

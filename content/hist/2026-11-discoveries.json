@@ -1,0 +1,34 @@
+[
+  {
+    "id": "hist-sutton-hoo-ship-imprint",
+    "title": "A buried ship survived as a 27-metre imprint",
+    "body": "In 1939, excavators at Sutton Hoo in eastern England uncovered the outline of an Anglo-Saxon ship under a burial mound. Its wooden hull had decayed, but its shape remained in the soil, along with the iron rivets that had held it together.",
+    "takeaway": "The positions of the rivets help reconstruct how the planks fitted together, centuries after the wood disappeared.",
+    "source": "University of Southampton, Sutton Hoo Ship (2018)",
+    "visual": "a long ship-shaped hollow in an archaeological trench with rows of rivets visible in the soil"
+  },
+  {
+    "id": "hist-rapa-nui-quarry",
+    "title": "Rapa Nui's quarry still holds unfinished statues",
+    "body": "Rapa Nui has an estimated 900 monumental stone figures called moai. Many were carved from a soft volcanic rock at Rano Raraku, where some unfinished figures can still be seen at different stages of carving.",
+    "takeaway": "The unfinished figures preserve steps in the carving process that a completed statue can no longer show.",
+    "source": "UNESCO World Heritage Centre, Rapa Nui National Park",
+    "visual": "an unfinished stone figure carved into the flank of the Rano Raraku quarry"
+  },
+  {
+    "id": "hist-chan-chan-earthen-palaces",
+    "title": "A capital in Peru was built largely from earth",
+    "body": "Chan Chan, on Peru's coast, was the capital of the Chimu kingdom, which reached its height in the 15th century CE. Nine walled palace compounds divided the city, whose builders used adobe, or sun-dried earthen brick.",
+    "takeaway": "A city's building material can shape what survives. Earthen walls are especially vulnerable when heavy rains reach this dry coast.",
+    "source": "UNESCO World Heritage Centre, Chan Chan Archaeological Zone",
+    "visual": "a broad earthen passage at Chan Chan framed by high patterned adobe walls"
+  },
+  {
+    "id": "hist-sigiriya-lion-stairs",
+    "title": "A Sri Lankan royal stairway rose between lion paws",
+    "body": "In the late fifth century CE, King Kassapa I built a capital at Sigiriya around a granite peak about 180 metres high. The route up to the summit passed through a lion-shaped gateway. Its giant stone paws still frame the staircase.",
+    "takeaway": "The climb made entering the royal compound part of the architecture, long before visitors reached the summit.",
+    "source": "UNESCO World Heritage Centre, Ancient City of Sigiriya",
+    "visual": "massive carved lion paws framing a stone stairway against the foot of a granite cliff"
+  }
+]
