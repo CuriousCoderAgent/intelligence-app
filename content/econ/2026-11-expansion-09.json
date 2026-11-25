@@ -1,0 +1,26 @@
+[
+  {
+    "id": "econ-world-bank-poverty-line-update",
+    "title": "The World Bank recalibrated its global poverty line in 2025",
+    "body": "The international extreme poverty line changed from 2.15 to 3 international dollars per person per day in June 2025. The update uses a newer set of price comparisons between economies.",
+    "takeaway": "A change in the poverty estimate can come from how prices are measured as well as from how much people earn.",
+    "source": "World Bank, June 2025 Update to Global Poverty Lines",
+    "visual": "a small basket of daily necessities on a market counter"
+  },
+  {
+    "id": "econ-chained-cpi-substitution",
+    "title": "An inflation index can account for shoppers switching products",
+    "body": "In the US chained Consumer Price Index, spending patterns help determine how much each group of goods contributes. If shoppers buy less of a product after it becomes dearer, this affects the basket used in the comparison.",
+    "takeaway": "A fixed basket answers what yesterday's choices would cost, while a changing basket can reflect new choices.",
+    "source": "US Bureau of Labor Statistics, Chained Consumer Price Index FAQ",
+    "visual": "two kinds of fruit in nearby market bins with different amounts remaining"
+  },
+  {
+    "id": "econ-us-fed-two-goals",
+    "title": "The US central bank has an employment goal as well as a price goal",
+    "body": "The 1977 amendment to the Federal Reserve Act directs the US central bank to promote maximum employment, stable prices and moderate long-term interest rates. The first two goals are commonly called the dual mandate.",
+    "takeaway": "Policy can face a trade-off when measures aimed at one goal make the other harder to reach in the short run.",
+    "source": "U.S. Federal Reserve, Remarks on the Dual Mandate (2024)",
+    "visual": "two pans of a scale beside the columns of a central bank building"
+  }
+]

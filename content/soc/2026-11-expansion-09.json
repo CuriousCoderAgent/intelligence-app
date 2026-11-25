@@ -1,0 +1,26 @@
+[
+  {
+    "id": "soc-us-one-person-households",
+    "title": "The share of US households with one person doubled after 1960",
+    "body": "The US census recorded one-person households at 13.3% of households in 1960 and 27.6% in 2020. The figures count households rather than the share of Americans who live alone.",
+    "takeaway": "A population can require more homes per person as its households become smaller.",
+    "source": "US Census Bureau, Households and Families: 2020",
+    "visual": "a lit window showing a small table set for one"
+  },
+  {
+    "id": "soc-ilo-youth-neet-2023",
+    "title": "About one in five young people were out of work and education in 2023",
+    "body": "The International Labour Organization estimated that 20.4% of people worldwide aged 15 to 24 were outside employment, education and training in 2023. The figure includes young people who were not actively seeking work.",
+    "takeaway": "Counting unemployment alone leaves out people who have stopped looking or never started.",
+    "source": "International Labour Organization, Global Employment Trends for Youth 2024",
+    "visual": "a young person waiting outside an empty classroom after hours"
+  },
+  {
+    "id": "soc-summer-jobs-chicago",
+    "title": "A Chicago summer jobs offer cut violent-crime arrests in a trial",
+    "body": "Sara Heller and colleagues studied summer job offers made by lottery to young people in Chicago. Their 2017 analysis of two trials found fewer violent-crime arrests after the offer, without a sustained rise in employment.",
+    "takeaway": "An employment programme can affect what happens away from the workplace even when its job effects are limited.",
+    "source": "Sara Heller, NBER Working Paper 23443 (2017)",
+    "visual": "young people arriving for a summer work programme at a Chicago community centre"
+  }
+]

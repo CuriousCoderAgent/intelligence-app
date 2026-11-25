@@ -1,0 +1,18 @@
+[
+  {
+    "id": "self-reminder-confidence",
+    "title": "People's confidence can change when they set reminders",
+    "body": "In a 2015 experiment, participants could move objects on a screen to remind themselves of later actions. The less confident they were about remembering, the more they used reminders, even after the researchers accounted for memory ability.",
+    "takeaway": "When a missed task would matter, set a reminder based on the consequence as well as how sure you feel.",
+    "source": "Sam Gilbert, Consciousness and Cognition (2015)",
+    "visual": "a person placing a small object beside a front door as a reminder"
+  },
+  {
+    "id": "self-self-reference-recall",
+    "title": "Relating an item to yourself can help you remember it",
+    "body": "A 1997 review found that people remembered items better after judging how the items related to themselves. In many of the experiments, people thought about whether a word described them or simply processed its meaning.",
+    "takeaway": "For a new idea, think of a situation in your own life that would illustrate it.",
+    "source": "Symons and Johnson, Psychological Bulletin (1997)",
+    "visual": "a person reviewing a small stack of photographs at a writing desk"
+  }
+]

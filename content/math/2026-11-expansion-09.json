@@ -1,0 +1,18 @@
+[
+  {
+    "id": "math-cassini-fibonacci-identity",
+    "title": "A Fibonacci middle square differs from the outer product by one",
+    "body": "Take 5, 8 and 13 from the Fibonacci sequence. The outer product is 65 and the middle square is 64. For any three consecutive terms, those two results differ by one, with the sign alternating.",
+    "takeaway": "The same addition rule that grows the sequence also keeps its neighbouring products strikingly close.",
+    "source": "Wolfram MathWorld, Cassini's Identity",
+    "visual": "three piles of counters of increasing size beside a square array"
+  },
+  {
+    "id": "math-coastline-measuring-scale",
+    "title": "A shorter ruler can make the same coastline measure longer",
+    "body": "A long ruler laid along a map skips over small bays and headlands. A shorter ruler follows more of those bends. The measured length can therefore grow as you use finer steps along the same coast.",
+    "takeaway": "To compare two published coastline lengths, you need to know the scale at which they were measured.",
+    "source": "Wolfram MathWorld, Coastline Paradox",
+    "visual": "an irregular rocky coast beside two plain rulers of different lengths"
+  }
+]
