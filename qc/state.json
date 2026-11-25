@@ -1,6 +1,257 @@
 {
-  "cards": {},
+  "cards": {
+    "econ-02": {
+      "hash": "770a3d255dcb",
+      "reviewed": "2026-11-25"
+    },
+    "econ-07": {
+      "hash": "bd12f4a2ff8e",
+      "reviewed": "2026-11-25"
+    },
+    "econ-bangladesh-garment-training": {
+      "hash": "4f5fc3d8efbb",
+      "reviewed": "2026-11-25"
+    },
+    "econ-endowment-effect": {
+      "hash": "b9590a558fe5",
+      "reviewed": "2026-11-25"
+    },
+    "econ-raj-railways-price-gaps": {
+      "hash": "f75256b9f457",
+      "reviewed": "2026-11-25"
+    },
+    "eng-02": {
+      "hash": "61a1bbe7cfdd",
+      "reviewed": "2026-11-25"
+    },
+    "eng-08": {
+      "hash": "e24acbe332d1",
+      "reviewed": "2026-11-25"
+    },
+    "eng-albula-railway-structures": {
+      "hash": "8a3a3ec1beeb",
+      "reviewed": "2026-11-25"
+    },
+    "eng-pont-du-gard-water-crossing": {
+      "hash": "c39e8f5a5da7",
+      "reviewed": "2026-11-25"
+    },
+    "geo-02": {
+      "hash": "711ba74f3c90",
+      "reviewed": "2026-11-25"
+    },
+    "geo-05": {
+      "hash": "5a4ee97d9325",
+      "reviewed": "2026-11-25"
+    },
+    "geo-himachal-meltwater-catchments": {
+      "hash": "3c138ea542c1",
+      "reviewed": "2026-11-25"
+    },
+    "geo-sangha-parks-border": {
+      "hash": "3cf9da9932d1",
+      "reviewed": "2026-11-25"
+    },
+    "gk-09": {
+      "hash": "06ca280c7bf9",
+      "reviewed": "2026-11-25"
+    },
+    "gk-hindi-loanwords": {
+      "hash": "f74a16e8441a",
+      "reviewed": "2026-11-25"
+    },
+    "gk-jamdani-pattern-thread": {
+      "hash": "8c35017a4df0",
+      "reviewed": "2026-11-25"
+    },
+    "gk-kalbelia-serpent-dance": {
+      "hash": "3abcc440fe57",
+      "reviewed": "2026-11-25"
+    },
+    "gk-koala-fingerprints": {
+      "hash": "99a51f763f06",
+      "reviewed": "2026-11-25"
+    },
+    "gk-penny-black": {
+      "hash": "359f7b21452a",
+      "reviewed": "2026-11-25"
+    },
+    "gk-senufo-balafon-gourds": {
+      "hash": "a2e65a1807ad",
+      "reviewed": "2026-11-25"
+    },
+    "gk-shortest-flight": {
+      "hash": "d165d5feabca",
+      "reviewed": "2026-11-25"
+    },
+    "gk-statue-of-liberty-colour": {
+      "hash": "7fd470083953",
+      "reviewed": "2026-11-25"
+    },
+    "hist-haeinsa-woodblocks": {
+      "hash": "f27db0bd8801",
+      "reviewed": "2026-11-25"
+    },
+    "hist-tulip-mania": {
+      "hash": "753e367457a1",
+      "reviewed": "2026-11-25"
+    },
+    "hist-vikings-1021": {
+      "hash": "394a94c46ffb",
+      "reviewed": "2026-11-25"
+    },
+    "math-billiard-corner-bounces": {
+      "hash": "416c653d75f5",
+      "reviewed": "2026-11-25"
+    },
+    "math-dominoes-chessboard-corners": {
+      "hash": "5bc98aac62f8",
+      "reviewed": "2026-11-25"
+    },
+    "math-konigsberg-bridges": {
+      "hash": "6d1d42ca286a",
+      "reviewed": "2026-11-25"
+    },
+    "math-seven-shuffles": {
+      "hash": "351030d1a5ab",
+      "reviewed": "2026-11-25"
+    },
+    "pol-council-europe-founders": {
+      "hash": "a5085bbf964a",
+      "reviewed": "2026-11-25"
+    },
+    "pol-federal-countries": {
+      "hash": "a8824d67e1f4",
+      "reviewed": "2026-11-25"
+    },
+    "pol-finland-women-mps": {
+      "hash": "d3525bff6e57",
+      "reviewed": "2026-11-25"
+    },
+    "pol-india-first-election": {
+      "hash": "c2ce43a910d2",
+      "reviewed": "2026-11-25"
+    },
+    "pol-magna-carta": {
+      "hash": "89943e102004",
+      "reviewed": "2026-11-25"
+    },
+    "pol-new-zealand-two-votes": {
+      "hash": "41ff4dc609a4",
+      "reviewed": "2026-11-25"
+    },
+    "pol-un-council-abstention": {
+      "hash": "66f9ef6bacb8",
+      "reviewed": "2026-11-25"
+    },
+    "pol-us-senators-direct-election": {
+      "hash": "7aa1d0d040b2",
+      "reviewed": "2026-11-25"
+    },
+    "sci-07": {
+      "hash": "037f2d88130c",
+      "reviewed": "2026-11-25"
+    },
+    "sci-caesium-defines-second": {
+      "hash": "f38c1f41eaa9",
+      "reviewed": "2026-11-25"
+    },
+    "sci-coldest-place": {
+      "hash": "59b2f7035d54",
+      "reviewed": "2026-11-25"
+    },
+    "sci-coral-tiny-skeletons": {
+      "hash": "461bf8109a33",
+      "reviewed": "2026-11-25"
+    },
+    "sci-crispr-origin": {
+      "hash": "7cab88f263fe",
+      "reviewed": "2026-11-25"
+    },
+    "sci-open-label-placebo": {
+      "hash": "a98ce20ccb17",
+      "reviewed": "2026-11-25"
+    },
+    "self-ego-depletion": {
+      "hash": "5f2a8df0d304",
+      "reviewed": "2026-11-25"
+    },
+    "self-mental-rotation-angle": {
+      "hash": "95dc639c0a27",
+      "reviewed": "2026-11-25"
+    },
+    "self-sleep-odour-cue": {
+      "hash": "7e7a1f3365a7",
+      "reviewed": "2026-11-25"
+    },
+    "self-study-cue-visibility": {
+      "hash": "e7c145bcb45d",
+      "reviewed": "2026-11-25"
+    },
+    "soc-02": {
+      "hash": "2160dbaec474",
+      "reviewed": "2026-11-25"
+    },
+    "soc-06": {
+      "hash": "f0e46534e7d3",
+      "reviewed": "2026-11-25"
+    },
+    "soc-aapravasi-indentured-migration": {
+      "hash": "9963022e3dab",
+      "reviewed": "2026-11-25"
+    },
+    "soc-pew-multilingual-interviews": {
+      "hash": "d0f98b875f93",
+      "reviewed": "2026-11-25"
+    },
+    "space-enceladus-icy-plumes": {
+      "hash": "7f43bc334477",
+      "reviewed": "2026-11-25"
+    },
+    "space-ingenuity-mars-flights": {
+      "hash": "2d270c38d059",
+      "reviewed": "2026-11-25"
+    },
+    "space-saturn-rings": {
+      "hash": "337bed98c407",
+      "reviewed": "2026-11-25"
+    },
+    "space-trappist-seven-planets": {
+      "hash": "97bd00ff3d87",
+      "reviewed": "2026-11-25"
+    },
+    "space-uranus-sideways-seasons": {
+      "hash": "c7d37f5d8fca",
+      "reviewed": "2026-11-25"
+    },
+    "tech-10": {
+      "hash": "3a31f382c867",
+      "reviewed": "2026-11-25"
+    },
+    "tech-altair-switches": {
+      "hash": "7e02830592b9",
+      "reviewed": "2026-11-25"
+    },
+    "tech-eliza": {
+      "hash": "b4ad81f7298d",
+      "reviewed": "2026-11-25"
+    },
+    "tech-kodak-digital-camera": {
+      "hash": "3a911d3006a6",
+      "reviewed": "2026-11-25"
+    }
+  },
   "pairs": {
+    "econ-10|econ-world-bank-poverty-line-update": {
+      "verdict": "distinct",
+      "note": "The 2025 change to the poverty line itself; the long fall in the share of people in extreme poverty.",
+      "ruled": "2026-11-25"
+    },
+    "econ-kenya-textbook-trial|econ-pratham-remedial-learning": {
+      "verdict": "distinct",
+      "note": "Different trials with opposite lessons: textbooks helped only strong pupils in Kenya; remedial teaching helped the weakest in India.",
+      "ruled": "2026-11-25"
+    },
     "eng-02|eng-07": {
       "verdict": "distinct",
       "note": "The Eiffel Tower expanding in heat, and the Chenab Bridge's height, which only uses the tower as a comparison.",
@@ -16,9 +267,44 @@
       "note": "Two different canals: Suez has no locks and was blocked by one ship in 2021; Panama lifts ships through locks by gravity.",
       "ruled": "2026-11-25"
     },
+    "eng-albula-railway-structures|eng-gotthard-base-tunnel": {
+      "verdict": "distinct",
+      "note": "The 57 km Gotthard Base Tunnel; the Albula line's many small structures.",
+      "ruled": "2026-11-25"
+    },
+    "eng-albula-railway-structures|eng-konkan-railway": {
+      "verdict": "distinct",
+      "note": "Konkan Railway in India; Albula railway in Switzerland.",
+      "ruled": "2026-11-25"
+    },
+    "eng-albula-railway-structures|eng-semmering-mountain-railway": {
+      "verdict": "distinct",
+      "note": "Two different Alpine railways, Swiss 1904 and Austrian 1854.",
+      "ruled": "2026-11-25"
+    },
+    "eng-brooklyn-pier-caissons|eng-emily-roebling": {
+      "verdict": "distinct",
+      "note": "Emily Roebling's role in finishing the bridge; how the caisson foundations worked.",
+      "ruled": "2026-11-25"
+    },
+    "eng-dujiangyan-bypass|eng-kallanai-dam": {
+      "verdict": "distinct",
+      "note": "Kallanai dam in Tamil Nadu; Dujiangyan's dam-free diversion in Sichuan.",
+      "ruled": "2026-11-25"
+    },
+    "eng-forth-cantilever-span|geo-amazon-no-bridges": {
+      "verdict": "distinct",
+      "note": "The Forth Bridge's spans; the absence of bridges on the Amazon.",
+      "ruled": "2026-11-25"
+    },
     "eng-great-pyramid-precision|hist-01": {
       "verdict": "distinct",
       "note": "hist-01 uses the pyramid only as a date marker for Cleopatra; the other is about how accurately it was built.",
+      "ruled": "2026-11-25"
+    },
+    "eng-meghalaya-living-root-bridges|geo-10": {
+      "verdict": "distinct",
+      "note": "geo-10 teaches that Mawsynram is the wettest place and mentions the bridges in one line; the other explains how root bridges are grown and how long they take.",
       "ruled": "2026-11-25"
     },
     "geo-04|space-09": {
@@ -31,14 +317,114 @@
       "note": "Baikal is about how much fresh water one lake stores; the Amazon card is about how much river flow reaches the sea.",
       "ruled": "2026-11-25"
     },
+    "geo-ha-long-tower-karst|geo-phong-nha-karst-age": {
+      "verdict": "distinct",
+      "note": "Two different Vietnamese karst sites: drowned towers at Ha Long, and the age and caves of Phong Nha-Ke Bang.",
+      "ruled": "2026-11-25"
+    },
+    "geo-himachal-meltwater-catchments|geo-pantanal-protected-share": {
+      "verdict": "distinct",
+      "note": "Pantanal Conservation Area in Brazil; Great Himalayan National Park in India.",
+      "ruled": "2026-11-25"
+    },
+    "geo-iceland-rift|geo-mid-ocean-ridge-length": {
+      "verdict": "distinct",
+      "note": "Iceland's rift at Thingvellir; the global length of the mid-ocean ridge.",
+      "ruled": "2026-11-25"
+    },
+    "geo-ilulissat-ice-outlet|geo-lake-argentino-icebergs": {
+      "verdict": "distinct",
+      "note": "Greenland's Ilulissat Icefjord; glaciers calving into Lake Argentino.",
+      "ruled": "2026-11-25"
+    },
+    "geo-lake-baikal|geo-lake-malawi-endemic-fish": {
+      "verdict": "distinct",
+      "note": "Baikal's depth and volume; Lake Malawi's endemic cichlids.",
+      "ruled": "2026-11-25"
+    },
+    "gk-05|sci-greenland-shark-lens-age": {
+      "verdict": "distinct",
+      "note": "Age of sharks as a lineage; lifespan of individual Greenland sharks.",
+      "ruled": "2026-11-25"
+    },
+    "gk-06|gk-no-maths-nobel": {
+      "verdict": "distinct",
+      "note": "Why there is no maths Nobel; Marie Curie's two prizes.",
+      "ruled": "2026-11-25"
+    },
+    "gk-10|space-far-side-of-moon": {
+      "verdict": "distinct",
+      "note": "Great Wall visibility myth; the Moon's far side is not dark.",
+      "ruled": "2026-11-25"
+    },
+    "gk-arabic-coffee-refill|gk-turkish-coffee-foam": {
+      "verdict": "distinct",
+      "note": "How Turkish coffee is brewed; etiquette of Arabic coffee service.",
+      "ruled": "2026-11-25"
+    },
+    "gk-jamdani-pattern-thread|tech-jacquard-loom-cards": {
+      "verdict": "distinct",
+      "note": "Hand-inserted jamdani motifs; punched-card control of the Jacquard loom.",
+      "ruled": "2026-11-25"
+    },
     "gk-png-languages|soc-half-world-23-languages": {
       "verdict": "distinct",
       "note": "One is about a single country holding 840 languages; the other about half of humanity speaking just 23. Both mention endangered languages only in passing.",
       "ruled": "2026-11-25"
     },
+    "hist-03|hist-diamond-sutra-date": {
+      "verdict": "distinct",
+      "note": "Dated Chinese woodblock print of 868; Gutenberg's movable type and European output.",
+      "ruled": "2026-11-25"
+    },
+    "hist-qhapaq-nan|hist-tiwanaku-andean-capital": {
+      "verdict": "distinct",
+      "note": "Inca road network; the earlier Tiwanaku civilisation.",
+      "ruled": "2026-11-25"
+    },
     "math-02|math-seven-shuffles": {
       "verdict": "distinct",
       "note": "math-02 counts the possible orders of a deck; the other says how many riffle shuffles it takes to randomise one.",
+      "ruled": "2026-11-25"
+    },
+    "math-09|math-cyclic-one-seventh": {
+      "verdict": "distinct",
+      "note": "Cyclic digits of one seventh; how many digits of pi NASA uses.",
+      "ruled": "2026-11-25"
+    },
+    "math-bertrand-prime-interval|math-euclid-primes-no-end": {
+      "verdict": "distinct",
+      "note": "Euclid's proof of infinitely many primes; Bertrand's postulate on a prime between n and 2n.",
+      "ruled": "2026-11-25"
+    },
+    "math-bertrand-prime-interval|math-wilson-prime-factorial": {
+      "verdict": "distinct",
+      "note": "Bertrand's postulate; Wilson's theorem.",
+      "ruled": "2026-11-25"
+    },
+    "math-cassini-fibonacci-identity|math-fibonacci-india": {
+      "verdict": "distinct",
+      "note": "One is the sequence's Indian origin; the other is Cassini's identity about three consecutive terms.",
+      "ruled": "2026-11-25"
+    },
+    "math-euclid-primes-no-end|math-largest-known-prime": {
+      "verdict": "distinct",
+      "note": "The 2024 record prime; Euclid's proof that primes never end.",
+      "ruled": "2026-11-25"
+    },
+    "math-gabriel-horn-area|math-koch-perimeter-area": {
+      "verdict": "distinct",
+      "note": "Gabriel's horn in three dimensions; the Koch snowflake in two. Similar paradox, different objects and mathematics.",
+      "ruled": "2026-11-25"
+    },
+    "math-hilbert-hotel-one-more|soc-towel-social-proof": {
+      "verdict": "distinct",
+      "note": "Only the word hotel is shared: an infinity thought experiment and a towel-reuse field experiment.",
+      "ruled": "2026-11-25"
+    },
+    "math-picks-area|math-square-triangular-36": {
+      "verdict": "distinct",
+      "note": "Pick's theorem; 36 as a square triangular number.",
       "ruled": "2026-11-25"
     },
     "math-ramsey-party|soc-02": {
@@ -51,9 +437,89 @@
       "note": "pol-04 is about the length of India's constitution in words; the other is about how many years constitutions typically survive.",
       "ruled": "2026-11-25"
     },
+    "pol-05|pol-new-zealand-women-candidates": {
+      "verdict": "distinct",
+      "note": "Both mention the 1893 vote, but one teaches the wait to stand for Parliament and the other Switzerland's 1971 date.",
+      "ruled": "2026-11-25"
+    },
+    "pol-05|pol-swiss-double-majority": {
+      "verdict": "distinct",
+      "note": "Swiss double majority for amendments; Swiss women's late suffrage.",
+      "ruled": "2026-11-25"
+    },
+    "pol-07|pol-new-zealand-two-votes": {
+      "verdict": "distinct",
+      "note": "New Zealand's mixed-member system in particular; Duverger's law in general.",
+      "ruled": "2026-11-25"
+    },
+    "pol-austria-voting-age|pol-india-voting-age-amendment": {
+      "verdict": "distinct",
+      "note": "Austria's voting age of 16; India's cut from 21 to 18.",
+      "ruled": "2026-11-25"
+    },
+    "pol-cambodia-un-election|pol-un-namibia-election": {
+      "verdict": "distinct",
+      "note": "Two different UN-run elections: Cambodia 1993 and Namibia 1989.",
+      "ruled": "2026-11-25"
+    },
+    "pol-canada-boundary-commissions|pol-canada-chief-electoral-officer": {
+      "verdict": "distinct",
+      "note": "Independent boundary commissions; the Chief Electoral Officer created in 1920.",
+      "ruled": "2026-11-25"
+    },
+    "pol-commons-speaker-secret-ballot|pol-secret-ballot": {
+      "verdict": "distinct",
+      "note": "Origin of the secret ballot for voters; how the Commons elects its Speaker.",
+      "ruled": "2026-11-25"
+    },
+    "pol-commons-speaker-secret-ballot|pol-speaker-tie-convention": {
+      "verdict": "distinct",
+      "note": "How the Speaker is elected; how the Speaker votes on a tie.",
+      "ruled": "2026-11-25"
+    },
+    "pol-commons-walk-to-vote|pol-speaker-tie-convention": {
+      "verdict": "distinct",
+      "note": "Speaker's casting vote convention; how MPs vote through the lobbies.",
+      "ruled": "2026-11-25"
+    },
+    "pol-council-europe-founders|pol-oau-1963-founders": {
+      "verdict": "distinct",
+      "note": "Council of Europe 1949; Organisation of African Unity 1963.",
+      "ruled": "2026-11-25"
+    },
+    "pol-finland-women-mps|pol-first-direct-european-election": {
+      "verdict": "distinct",
+      "note": "First women elected to a national parliament; first direct election to the European Parliament.",
+      "ruled": "2026-11-25"
+    },
+    "pol-finland-women-mps|pol-new-zealand-women-candidates": {
+      "verdict": "distinct",
+      "note": "Finland's first elected women MPs in 1907; New Zealand's 26-year gap between women voting and standing.",
+      "ruled": "2026-11-25"
+    },
     "pol-finland-women-mps|pol-panchayat-women": {
       "verdict": "distinct",
       "note": "One is about reserved local council seats in India since 1992; the other about the first women elected to a national parliament in 1907.",
+      "ruled": "2026-11-25"
+    },
+    "pol-finland-women-mps|pol-un-council-rotation": {
+      "verdict": "distinct",
+      "note": "Unrelated: Finnish women MPs and UN Security Council seats.",
+      "ruled": "2026-11-25"
+    },
+    "pol-first-direct-european-election|pol-singapore-nominated-mps": {
+      "verdict": "distinct",
+      "note": "Singapore's appointed MPs; the 1979 European election.",
+      "ruled": "2026-11-25"
+    },
+    "pol-first-direct-european-election|pol-un-council-rotation": {
+      "verdict": "distinct",
+      "note": "Unrelated: UN Security Council seats and the 1979 European election.",
+      "ruled": "2026-11-25"
+    },
+    "pol-icj-two-election-bodies|pol-un-council-rotation": {
+      "verdict": "distinct",
+      "note": "Security Council seat rotation; how International Court of Justice judges are elected.",
       "ruled": "2026-11-25"
     },
     "pol-india-first-election|pol-secret-ballot": {
@@ -61,9 +527,49 @@
       "note": "India's first election and its symbol-marked ballot boxes, and the origin of the secret ballot in 1850s Australia.",
       "ruled": "2026-11-25"
     },
+    "pol-lords-money-bill-month|pol-queen-anne-assent": {
+      "verdict": "distinct",
+      "note": "Lords' one-month limit on money bills; the last refusal of royal assent in 1708.",
+      "ruled": "2026-11-25"
+    },
+    "pol-new-zealand-two-votes|pol-new-zealand-women-candidates": {
+      "verdict": "distinct",
+      "note": "Women's right to stand in 1919; the two-vote electoral system from 1996.",
+      "ruled": "2026-11-25"
+    },
+    "pol-panchayat-women|pol-un-council-rotation": {
+      "verdict": "distinct",
+      "note": "Women's reserved seats in Indian local government; UN Security Council elected seats.",
+      "ruled": "2026-11-25"
+    },
+    "pol-primary-cooperative-votes|pol-un-council-abstention": {
+      "verdict": "distinct",
+      "note": "Security Council abstentions; one member one vote in cooperatives.",
+      "ruled": "2026-11-25"
+    },
+    "pol-un-council-abstention|pol-un-council-rotation": {
+      "verdict": "distinct",
+      "note": "Seat rotation; the abstention rule.",
+      "ruled": "2026-11-25"
+    },
+    "pol-un-council-abstention|pol-un-veto": {
+      "verdict": "distinct",
+      "note": "One explains the veto and how often it has been used; the other that an abstention does not count as a veto.",
+      "ruled": "2026-11-25"
+    },
+    "pol-un-council-rotation|pol-un-veto": {
+      "verdict": "distinct",
+      "note": "Permanent members' veto; how the ten elected seats rotate.",
+      "ruled": "2026-11-25"
+    },
     "sci-02|sci-mitochondria-origin": {
       "verdict": "distinct",
       "note": "sci-02 counts bacteria living in the body today; the other is about mitochondria descending from bacteria swallowed long ago.",
+      "ruled": "2026-11-25"
+    },
+    "sci-02|sci-petrichor": {
+      "verdict": "distinct",
+      "note": "Geosmin and the smell of rain; the count of bacteria in the body.",
       "ruled": "2026-11-25"
     },
     "sci-03|sci-triple-point": {
@@ -71,9 +577,89 @@
       "note": "sci-03 is about water being densest at 4 degrees so ice floats; the other is about the triple point where it boils and freezes at once.",
       "ruled": "2026-11-25"
     },
+    "sci-04|sci-mitochondria-origin": {
+      "verdict": "distinct",
+      "note": "Bacterial origin of mitochondria; length of DNA in a cell.",
+      "ruled": "2026-11-25"
+    },
+    "sci-05|sci-antarctic-icefish-blood": {
+      "verdict": "distinct",
+      "note": "Icefish without haemoglobin; octopus hearts and copper-based blood.",
+      "ruled": "2026-11-25"
+    },
     "sci-05|sci-blue-whale-heart": {
       "verdict": "distinct",
       "note": "Different animals and facts: a blue whale's heart rate when diving, and an octopus having three hearts.",
+      "ruled": "2026-11-25"
+    },
+    "sci-caesium-defines-second|sci-light-defines-metre": {
+      "verdict": "distinct",
+      "note": "Definition of the second; definition of the metre.",
+      "ruled": "2026-11-25"
+    },
+    "sci-coral-tiny-skeletons|sci-parrotfish-reef-sand": {
+      "verdict": "distinct",
+      "note": "Parrotfish producing sand; coral polyps building reef skeletons.",
+      "ruled": "2026-11-25"
+    },
+    "sci-hydrothermal-vent-temperature|sci-triple-point": {
+      "verdict": "distinct",
+      "note": "Water's triple point at low pressure; vent water above 400 degrees kept liquid by high pressure.",
+      "ruled": "2026-11-25"
+    },
+    "sci-seafloor-magnetic-stripes|space-ganymede-magnetic-field": {
+      "verdict": "distinct",
+      "note": "Seafloor record of Earth's field reversals; Ganymede's own magnetic field.",
+      "ruled": "2026-11-25"
+    },
+    "self-03|self-generate-word-memory": {
+      "verdict": "distinct",
+      "note": "Generation effect; testing effect. Related but separate findings from different experiments.",
+      "ruled": "2026-11-25"
+    },
+    "self-05|self-unfinished-goal-plans": {
+      "verdict": "distinct",
+      "note": "Plans quieten intrusive thoughts; if-then plans raise goal attainment.",
+      "ruled": "2026-11-25"
+    },
+    "self-06|self-sleep-restriction-blind-spot": {
+      "verdict": "distinct",
+      "note": "People underrate their impairment under sleep restriction; writing a to-do list speeds falling asleep.",
+      "ruled": "2026-11-25"
+    },
+    "self-07|self-short-breaks-vigilance-evidence": {
+      "verdict": "distinct",
+      "note": "Mixed evidence on brief breaks during vigilance tasks; attention residue from task switching.",
+      "ruled": "2026-11-25"
+    },
+    "self-07|self-unfinished-goal-plans": {
+      "verdict": "distinct",
+      "note": "Planning reduces intrusive thoughts about unfinished goals; attention residue after switching tasks.",
+      "ruled": "2026-11-25"
+    },
+    "self-four-minute-classroom-activity|self-short-breaks-vigilance-evidence": {
+      "verdict": "distinct",
+      "note": "Movement breaks for schoolchildren; brief mental breaks in adult vigilance tasks.",
+      "ruled": "2026-11-25"
+    },
+    "self-high-confidence-correction|self-reminder-confidence": {
+      "verdict": "distinct",
+      "note": "Hypercorrection of confident errors; confidence driving reminder use.",
+      "ruled": "2026-11-25"
+    },
+    "self-mednick-nap-texture|self-nasa-nap": {
+      "verdict": "distinct",
+      "note": "NASA cockpit nap and alertness; a nap with deep and REM sleep and visual learning.",
+      "ruled": "2026-11-25"
+    },
+    "self-mednick-nap-texture|self-short-breaks-vigilance-evidence": {
+      "verdict": "distinct",
+      "note": "Naps and visual learning; brief breaks and vigilance.",
+      "ruled": "2026-11-25"
+    },
+    "self-shopping-phone-break|self-short-breaks-vigilance-evidence": {
+      "verdict": "distinct",
+      "note": "Phone breaks being less restorative; mixed evidence on brief breaks in vigilance tasks.",
       "ruled": "2026-11-25"
     },
     "soc-02|soc-friendship-paradox": {
@@ -81,9 +667,94 @@
       "note": "soc-02 is about chains of acquaintance between any two people; the other is about why your friends average more friends than you.",
       "ruled": "2026-11-25"
     },
+    "soc-04|soc-close-friend-contact": {
+      "verdict": "distinct",
+      "note": "How often US adults contact close friends; weak ties as a source of job leads.",
+      "ruled": "2026-11-25"
+    },
+    "soc-04|soc-friendship-paradox": {
+      "verdict": "distinct",
+      "note": "Friendship paradox; strength of weak ties.",
+      "ruled": "2026-11-25"
+    },
+    "soc-criminal-record-audit|soc-resume-name-callbacks": {
+      "verdict": "distinct",
+      "note": "Pager's criminal-record audit in Milwaukee; the Boston and Chicago CV name study.",
+      "ruled": "2026-11-25"
+    },
+    "soc-eight-billion|soc-older-adults-children-projection": {
+      "verdict": "distinct",
+      "note": "Pace of population growth to 8 billion; projected crossover of over-65s and children.",
+      "ruled": "2026-11-25"
+    },
+    "soc-global-household-by-person|soc-us-one-person-households": {
+      "verdict": "distinct",
+      "note": "How household size is measured from a person's view; the rise of one-person households in the US.",
+      "ruled": "2026-11-25"
+    },
+    "soc-newlywed-intermarriage-us|soc-pew-india-same-religion-spouses": {
+      "verdict": "distinct",
+      "note": "Same-religion marriage in India; interracial marriage among US newlyweds.",
+      "ruled": "2026-11-25"
+    },
+    "soc-pew-india-same-religion-spouses|soc-pew-multilingual-interviews": {
+      "verdict": "distinct",
+      "note": "Same Pew survey, different lessons: a finding about marriage, and how the survey was conducted.",
+      "ruled": "2026-11-25"
+    },
     "space-01|space-sun-mass-loss": {
       "verdict": "distinct",
       "note": "space-01 is about how long light takes to leave the Sun; the other is about how much mass the Sun converts to energy each second.",
+      "ruled": "2026-11-25"
+    },
+    "space-02|space-magellan-venus-radar": {
+      "verdict": "distinct",
+      "note": "Radar mapping of Venus; Venus's day being longer than its year.",
+      "ruled": "2026-11-25"
+    },
+    "space-51-pegasi-short-year|space-mercury-ice": {
+      "verdict": "distinct",
+      "note": "Ice in Mercury's polar craters; the exoplanet 51 Pegasi b.",
+      "ruled": "2026-11-25"
+    },
+    "space-chandrayaan-3|space-enceladus-icy-plumes": {
+      "verdict": "distinct",
+      "note": "India's lunar south pole landing; plumes at Enceladus's south pole.",
+      "ruled": "2026-11-25"
+    },
+    "space-europa-ocean|space-io-tidal-volcanoes": {
+      "verdict": "distinct",
+      "note": "Both involve tidal flexing by Jupiter, but one teaches Europa's ocean volume and the other Io's volcanoes.",
+      "ruled": "2026-11-25"
+    },
+    "space-hubble-correcting-optics|space-webb-segments-fold": {
+      "verdict": "distinct",
+      "note": "Hubble's 1993 optical repair; Webb's folding mirror wings.",
+      "ruled": "2026-11-25"
+    },
+    "space-jupiter-gossamer-rings|space-saturn-rings": {
+      "verdict": "distinct",
+      "note": "Dimensions and make-up of Saturn's rings; Jupiter's faint dust rings.",
+      "ruled": "2026-11-25"
+    },
+    "space-mangalyaan|space-mariner-nine-dust-storm": {
+      "verdict": "distinct",
+      "note": "India's 2014 Mars orbiter and its cost; Mariner 9 arriving during a dust storm in 1971.",
+      "ruled": "2026-11-25"
+    },
+    "space-webb-segments-fold|space-webb-telescope": {
+      "verdict": "distinct",
+      "note": "Webb's sunshade, orbit and mirror materials; why and how the mirror folded for launch.",
+      "ruled": "2026-11-25"
+    },
+    "tech-01|tech-whirlwind-core-memory": {
+      "verdict": "distinct",
+      "note": "Whirlwind's first core memory in 1953; the Apollo computer's memory size and woven rope memory.",
+      "ruled": "2026-11-25"
+    },
+    "tech-alphago-move-37|tech-game-boy-small-screen": {
+      "verdict": "distinct",
+      "note": "Unrelated: AlphaGo's match against Lee Sedol and the Game Boy's screen.",
       "ruled": "2026-11-25"
     },
     "tech-arpanet-first-message|tech-email-at-sign": {
