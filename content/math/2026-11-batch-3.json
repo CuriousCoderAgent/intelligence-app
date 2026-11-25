@@ -1,0 +1,82 @@
+[
+  {
+    "id": "math-collatz-conjecture",
+    "title": "A problem a child can understand has beaten every mathematician",
+    "body": "Pick any whole number. If it is even, halve it. If it is odd, triple it and add one. Repeat. Every number ever tried ends at 1, and computers have checked up to about 300 billion billion. Nobody has proved it must always happen. The question dates from 1937.",
+    "takeaway": "Paul Erdos said mathematics may not be ready for such problems. Simple rules can hide deep difficulty.",
+    "source": "Jeffrey Lagarias, The Ultimate Challenge: The 3x+1 Problem (2010)",
+    "visual": "a jagged path of stepping stones that leaps up and tumbles down many times before settling at a single low stone"
+  },
+  {
+    "id": "math-ramsey-party",
+    "title": "Among any six people, three all know each other or three are all strangers",
+    "body": "It is guaranteed. However the acquaintances fall, a group of six always contains either three mutual friends or three mutual strangers. With only five people it can be avoided. How many people guarantee five mutual friends or five mutual strangers is still unknown: somewhere from 43 to 46.",
+    "takeaway": "Complete disorder is impossible. In any large enough structure, some pattern must appear.",
+    "source": "Frank Ramsey, Proceedings of the London Mathematical Society (1930)",
+    "visual": "six figures standing in a circle joined by lines in two colours, with one triangle of a single colour glowing"
+  },
+  {
+    "id": "math-rice-on-chessboard",
+    "title": "Doubling a grain of rice 63 times outgrows the world's harvest",
+    "body": "A legend tells of an inventor who asked a king for one grain of rice on the first square of a chessboard, two on the second, four on the third and so on. The total for all 64 squares is 18,446,744,073,709,551,615 grains, hundreds of times the rice the world grows in a year.",
+    "takeaway": "Doubling looks harmless for a long time. The last square alone holds more than all the others together.",
+    "source": "Ibn Khallikan, Biographical Dictionary (1256)",
+    "visual": "a chessboard with rice grains piling higher on each square until the far squares are buried under mountains of rice"
+  },
+  {
+    "id": "math-e-compound-interest",
+    "title": "The number e was discovered through a question about interest",
+    "body": "In 1683 Jacob Bernoulli asked what happens to money earning 100% a year if interest is added more and more often. Yearly it doubles. Monthly it grows 2.61 times. Compounded every instant it reaches a limit of 2.71828 times, the number now called e.",
+    "takeaway": "The same number describes radioactive decay, population growth and the cooling of a cup of tea.",
+    "source": "Jacob Bernoulli (1683); Eli Maor, e: The Story of a Number (1994)",
+    "visual": "a stack of gold coins growing along a smooth upward curve that levels toward a glowing line"
+  },
+  {
+    "id": "math-mobius-strip",
+    "title": "A strip of paper can have only one side",
+    "body": "Give a paper strip a half twist and join its ends. You can now draw a line along its whole surface without lifting the pen or crossing an edge. Two German mathematicians, August Möbius and Johann Listing, described it independently in 1858.",
+    "takeaway": "Cut it down the middle and it does not fall into two. Some conveyor belts are made this way so that both faces wear evenly.",
+    "source": "Clifford Pickover, The Möbius Strip (2006)",
+    "visual": "a twisted loop of pale paper floating in darkness with a small ant walking along its single continuous surface"
+  },
+  {
+    "id": "math-largest-known-prime",
+    "title": "The largest known prime number has 41 million digits",
+    "body": "In October 2024 Luke Durant, a former chip engineer, found that 2 multiplied by itself 136,279,841 times, minus 1, is prime. Written out, it has 41,024,320 digits. He used thousands of graphics processors in data centres across 17 countries.",
+    "takeaway": "Euclid proved over 2,000 years ago that the primes never run out. There is always a larger one to find.",
+    "source": "Great Internet Mersenne Prime Search (2024)",
+    "visual": "an endless scroll of digits unrolling from a desk out through a window and away to the horizon"
+  },
+  {
+    "id": "math-pythagoras-before-pythagoras",
+    "title": "Pythagoras' theorem was known long before Pythagoras",
+    "body": "A Babylonian clay tablet from about 1800 BCE lists whole-number triangles that obey the rule. In India, the Baudhayana Sulba Sutra of around 800 BCE states it outright, as an instruction for building fire altars. Pythagoras was born about 570 BCE.",
+    "takeaway": "Discoveries are often named for whoever made them famous in one tradition. Ask who else knew.",
+    "source": "Kim Plofker, Mathematics in India (2009); Plimpton 322, Columbia University",
+    "visual": "an ancient clay tablet marked with wedge-shaped signs beside a brick fire altar laid out with ropes and pegs"
+  },
+  {
+    "id": "math-regression-to-the-mean",
+    "title": "An exceptional result is usually followed by a more ordinary one",
+    "body": "Francis Galton noticed in 1886 that very tall parents tend to have children shorter than themselves, and very short parents taller ones. Any outcome that mixes skill with luck behaves this way: after an extreme, the next result tends to drift back towards the average.",
+    "takeaway": "It is why praise seems to backfire and scolding seems to work. Performance was returning to normal either way.",
+    "source": "Francis Galton, Journal of the Anthropological Institute (1886)",
+    "visual": "an archer whose first arrow has struck the exact centre of a target, with later arrows scattered around the middle rings"
+  },
+  {
+    "id": "math-pigeonhole-hairs",
+    "title": "At least two people in Delhi have exactly the same number of hairs",
+    "body": "A human head has at most around 150,000 hairs. Delhi has over 30 million people. There are far more people than possible hair counts, so many must share one. Mathematicians call this the pigeonhole principle: more pigeons than holes means some hole holds two.",
+    "takeaway": "You can prove something exists without being able to point to it. This simple idea underlies data compression.",
+    "source": "Peter Gustav Lejeune Dirichlet (1834)",
+    "visual": "a wall of small wooden pigeonholes with more pigeons than openings, two birds squeezed into one"
+  },
+  {
+    "id": "math-seven-shuffles",
+    "title": "It takes seven shuffles to mix a deck of cards",
+    "body": "Mathematicians analysed the ordinary riffle shuffle, in which the deck is split and the halves are interleaved. After five or six, traces of the original order remain. At seven the deck becomes close to random, and further shuffles add little.",
+    "takeaway": "Most people stop at three or four. A skilled player can exploit what an under-shuffled deck still remembers.",
+    "source": "Bayer & Diaconis, Annals of Applied Probability (1992)",
+    "visual": "two hands riffling a deck of cards together in mid-air, the cards arcing between them under a single lamp"
+  }
+]

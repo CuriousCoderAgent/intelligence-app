@@ -1,0 +1,82 @@
+[
+  {
+    "id": "econ-cost-of-light",
+    "title": "Light is about 3,000 times cheaper than it was in 1800",
+    "body": "Two economists traced the cost of lighting in Britain across seven centuries, from tallow candles through gas and paraffin lamps to electric bulbs. By 2000 a given amount of light cost roughly one three-thousandth of what it had in 1800, after allowing for inflation.",
+    "takeaway": "Reading after dark was once a luxury. Some of the largest gains in living standards never show up as a pay rise.",
+    "source": "Fouquet & Pearson, The Energy Journal (2006)",
+    "visual": "a single candle on a dark table in the foreground and a brilliantly lit modern city at night through the window behind"
+  },
+  {
+    "id": "econ-opportunity-cost-neglect",
+    "title": "People forget that money spent here cannot be spent elsewhere",
+    "body": "Shoppers were offered a film on disc for 14.99 dollars. When the choice was buy or not buy, 75% bought it. When the second option was worded as keep the 14.99 for other purchases, only 55% did. The facts were the same.",
+    "takeaway": "Before any purchase, name the specific thing you would do with the money otherwise.",
+    "source": "Frederick, Novemsky, Wang, Dhar & Nowlis, Journal of Consumer Research (2009)",
+    "visual": "a hand holding a banknote between two shop windows, one showing a single item and the other a row of different ones"
+  },
+  {
+    "id": "econ-prisoners-dilemma",
+    "title": "Two people acting sensibly can both end up worse off",
+    "body": "Two suspects are questioned apart. If both stay silent each gets a short sentence. If one talks he goes free and the other gets a long one. If both talk both get medium sentences. Talking is the best move whatever the other does, so both talk, and both lose.",
+    "takeaway": "Devised in 1950, it explains arms races, price wars and overfishing. Trust and repeated dealings are the way out.",
+    "source": "Merrill Flood & Melvin Dresher, RAND Corporation (1950)",
+    "visual": "two figures in separate bare cells divided by a wall, each glancing toward a door standing slightly open"
+  },
+  {
+    "id": "econ-two-percent-inflation-target",
+    "title": "The 2% inflation target began in New Zealand, almost by chance",
+    "body": "In 1990 New Zealand became the first country to give its central bank a public inflation target, of 0 to 2%. Officials later admitted that the figure owed much to an offhand remark by a minister on television. Dozens of central banks now aim for about 2%.",
+    "takeaway": "The number mattered less than announcing one. A public target shapes what people expect prices to do.",
+    "source": "Reserve Bank of New Zealand",
+    "visual": "a central bank building with a single small target hanging above its entrance, an arrow resting just inside the ring"
+  },
+  {
+    "id": "econ-remittances-india",
+    "title": "Indians abroad send home more money than any other diaspora",
+    "body": "India received about 129 billion dollars in remittances in 2024, the largest total of any country, and it has held first place since 2008. Worldwide, the money migrants send to poorer countries is now larger than foreign direct investment in them and several times official aid.",
+    "takeaway": "Most of it arrives as small monthly transfers that pay for food, school fees and medical bills.",
+    "source": "World Bank, Migration and Development Brief (2024)",
+    "visual": "a worker on a construction site abroad sending a message on a phone, and a family in an Indian village receiving it at their door"
+  },
+  {
+    "id": "econ-market-for-lemons",
+    "title": "A paper rejected by three journals won a Nobel Prize",
+    "body": "In 1970 George Akerlof explained why used cars sell so cheaply. The seller knows whether the car is a dud, a lemon, and the buyer does not, so buyers offer only an average price. Owners of good cars then refuse to sell, and bad ones fill the market. Three journals rejected the paper.",
+    "takeaway": "When one side knows more, trade can collapse. Warranties, inspections and reviews exist to repair that.",
+    "source": "George Akerlof, Quarterly Journal of Economics (1970)",
+    "visual": "a used-car lot at dusk with rows of similar-looking cars, one shining and one quietly leaking oil"
+  },
+  {
+    "id": "econ-green-revolution",
+    "title": "India went from importing grain to feeding itself in under a decade",
+    "body": "In 1966 India depended on shiploads of foreign wheat. That year it imported 18,000 tonnes of high-yielding dwarf wheat seed developed in Mexico by Norman Borlaug. With irrigation and fertiliser, the wheat harvest rose from about 12 million tonnes in 1965 to 20 million by 1970.",
+    "takeaway": "It ended the threat of famine. It also drained groundwater in Punjab, a cost India is still managing.",
+    "source": "M. S. Swaminathan Research Foundation; Food and Agriculture Organization",
+    "visual": "golden fields of short sturdy wheat stretching across the Punjab plain, a farmer holding up a heavy sheaf"
+  },
+  {
+    "id": "econ-shipping-container",
+    "title": "A steel box cut the cost of loading a ship by 97%",
+    "body": "Before 1956 dockworkers loaded cargo piece by piece, at about 5.86 dollars a tonne. That April a trucking owner, Malcolm McLean, sent 58 loaded truck bodies by ship from New Jersey to Texas. Loading them cost about 16 cents a tonne.",
+    "takeaway": "Cheap shipping made it worthwhile to manufacture goods on one continent and sell them on another.",
+    "source": "Marc Levinson, The Box (2006)",
+    "visual": "a crane lowering a steel container onto the deck of a 1950s cargo ship, dockworkers watching from the quay"
+  },
+  {
+    "id": "econ-ikea-effect",
+    "title": "People value things more when they have built them",
+    "body": "Volunteers assembled plain storage boxes from a kit, then bid for them. They offered 63% more for a box they had built than others offered for an identical box built by someone else. The effect disappeared if they were not allowed to finish.",
+    "takeaway": "Effort creates attachment. It also means we overvalue our own work when judging it against other people's.",
+    "source": "Norton, Mochon & Ariely, Journal of Consumer Psychology (2012)",
+    "visual": "a person proudly holding a slightly crooked self-assembled wooden box, flat-pack parts and a small tool on the floor"
+  },
+  {
+    "id": "econ-barter-myth",
+    "title": "There is no evidence that barter came before money",
+    "body": "Textbooks often say people first swapped goods directly and invented money to make it easier. Anthropologists have looked for such a society and not found one. In communities without money, people mostly relied on gifts, sharing and remembered debts.",
+    "takeaway": "Credit seems to be older than coins. Barter mainly appears where people who are used to money have run out of it.",
+    "source": "Caroline Humphrey, Man (1985); David Graeber, Debt: The First 5,000 Years (2011)",
+    "visual": "villagers sharing baskets of grain and fish around a fire while an elder keeps a tally with notches on a stick"
+  }
+]

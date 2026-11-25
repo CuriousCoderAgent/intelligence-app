@@ -1,0 +1,82 @@
+[
+  {
+    "id": "tech-hedy-lamarr",
+    "title": "A Hollywood star patented a forerunner of Wi-Fi and Bluetooth",
+    "body": "In 1942 the film actress Hedy Lamarr and the composer George Antheil patented a way to stop radio-guided torpedoes being jammed. The signal hopped rapidly between 88 frequencies, as many as the keys on a piano. The US Navy ignored it for years.",
+    "takeaway": "Frequency hopping is now one of the ideas that let many wireless devices share the air without drowning each other out.",
+    "source": "US Patent 2,292,387 (1942); National Inventors Hall of Fame",
+    "visual": "a 1940s woman sketching a technical diagram at a desk, a strip of punched piano roll paper curling across it"
+  },
+  {
+    "id": "tech-alphago-move-37",
+    "title": "A machine played a move no human would have, and it won",
+    "body": "In March 2016 the program AlphaGo beat Lee Sedol, one of the best Go players in history, by four games to one. Its 37th move in the second game looked like a mistake. AlphaGo itself estimated that a human would play it once in 10,000 games.",
+    "takeaway": "Lee's winning move in game four was just as unlikely. Top players say they now study the machine's ideas.",
+    "source": "Silver et al., Nature (2016); Google DeepMind",
+    "visual": "a Go board with black and white stones in mid-game, one stone glowing in an unexpected empty area"
+  },
+  {
+    "id": "tech-linux-supercomputers",
+    "title": "A student's hobby project runs every top supercomputer",
+    "body": "In 1991 Linus Torvalds, a 21-year-old student in Helsinki, posted that he was writing a free operating system, just a hobby that would not be big and professional. Linux has run all 500 of the world's fastest supercomputers since November 2017, and it is the core of Android.",
+    "takeaway": "Giving software away and letting anyone improve it built something no single company matched.",
+    "source": "TOP500 project; Linus Torvalds, comp.os.minix (25 August 1991)",
+    "visual": "a student at a cluttered desk with an early 1990s computer, behind him a faint vision of endless rows of server racks"
+  },
+  {
+    "id": "tech-arpanet-first-message",
+    "title": "The first message sent over the internet's ancestor was LO",
+    "body": "On 29 October 1969 a student at the University of California, Los Angeles, tried to log in to a computer at Stanford Research Institute over the new ARPANET. He typed L, then O, and the system crashed. The full word LOGIN went through about an hour later.",
+    "takeaway": "The network had two machines that night. By the end of 1969 it had four.",
+    "source": "Leonard Kleinrock, UCLA; Internet Society",
+    "visual": "a young man at a 1960s computer terminal beside a refrigerator-sized grey cabinet with blinking lights"
+  },
+  {
+    "id": "tech-usb-ajay-bhatt",
+    "title": "USB was made free so that everyone would use it",
+    "body": "In the early 1990s every printer, mouse and keyboard needed its own kind of port. Ajay Bhatt, an engineer born in India working at Intel, led the team that designed one plug for everything. USB appeared in 1996, and Intel charged no royalties for it.",
+    "takeaway": "A standard is worth more the more people adopt it. Billions of USB devices are now sold every year.",
+    "source": "Intel Corporation; USB Implementers Forum",
+    "visual": "a tangle of many different old computer cables on a desk with a single small rectangular plug resting on top"
+  },
+  {
+    "id": "tech-first-barcode-scan",
+    "title": "The first barcode ever scanned was on a pack of chewing gum",
+    "body": "On 26 June 1974, at a supermarket in Troy, Ohio, a cashier scanned a ten-pack of Wrigley's Juicy Fruit gum for 67 cents. The inventor, Norman Woodland, had first drawn the idea in beach sand in 1949, stretching the dots and dashes of Morse code into lines.",
+    "takeaway": "It took 25 years, and cheap lasers and computers, for the idea to become practical.",
+    "source": "Smithsonian National Museum of American History; GS1",
+    "visual": "a 1970s supermarket checkout with a red scanner beam crossing a small pack of gum on the counter"
+  },
+  {
+    "id": "tech-kodak-digital-camera",
+    "title": "Kodak invented the digital camera and put it on a shelf",
+    "body": "In 1975 Kodak engineer Steven Sasson built a camera that stored pictures electronically. It weighed 3.6 kg, took 23 seconds to record one black-and-white image of 0.01 megapixels, and saved it to a cassette tape. Managers feared it would threaten film sales.",
+    "takeaway": "Kodak filed for bankruptcy in 2012. Protecting the product you have can cost you the next one.",
+    "source": "Eastman Kodak Company; Steven Sasson, US Patent 4,131,919",
+    "visual": "a bulky box-shaped prototype camera with a lens and a cassette tape slot on a 1970s workbench"
+  },
+  {
+    "id": "tech-eliza",
+    "title": "People confided in a chatbot in 1966",
+    "body": "Joseph Weizenbaum at MIT wrote ELIZA, a program that imitated a therapist by turning a user's statements back into questions. It understood nothing. Yet his own secretary, who knew how it worked, asked him to leave the room so she could talk to it privately.",
+    "takeaway": "People readily credit machines with understanding. Weizenbaum spent the rest of his career warning about that.",
+    "source": "Joseph Weizenbaum, Communications of the ACM (1966)",
+    "visual": "a woman typing intently at a 1960s teletype machine in an office, the room empty behind her"
+  },
+  {
+    "id": "tech-nokia-1100",
+    "title": "The best-selling phone in history could only call and text",
+    "body": "Nokia launched the 1100 in 2003 for first-time buyers in countries such as India and Nigeria. It had a dust-resistant keypad, a built-in torch and a battery that lasted for days. More than 250 million were sold, more than any smartphone model.",
+    "takeaway": "For hundreds of millions of people it was their first telephone of any kind.",
+    "source": "Nokia Corporation",
+    "visual": "a small sturdy mobile phone with a tiny screen and a torch beam shining from its top, on a market stall counter"
+  },
+  {
+    "id": "tech-solar-cost",
+    "title": "Solar electricity became 89% cheaper in ten years",
+    "body": "Between 2009 and 2019 the price of electricity from new large solar farms fell from 359 dollars per megawatt-hour to 40. Every time the world's installed capacity doubled, the price of solar modules dropped by about 20%.",
+    "takeaway": "In much of the world new solar is now cheaper than new coal. Few forecasts made in 2009 saw that coming.",
+    "source": "Lazard, Levelized Cost of Energy Analysis; Our World in Data (2020)",
+    "visual": "rows of solar panels stretching across a sunlit plain toward the horizon, a steeply falling slope of hills behind"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "id": "eng-great-pyramid-precision",
+    "title": "The Great Pyramid's base is level to within two centimetres",
+    "body": "Built around 2560 BCE from about 2.3 million blocks, the pyramid has a base 230 metres along each side that is flat to within about 2 cm. Its sides face the compass points with an error of roughly a fifteenth of a degree. The builders had copper tools, ropes and wooden sledges.",
+    "takeaway": "It was the tallest structure made by people for about 3,800 years.",
+    "source": "Mark Lehner, The Complete Pyramids (1997); Glen Dash Foundation survey (2015)",
+    "visual": "ancient surveyors using stretched ropes and plumb lines to square the base of an enormous half-built pyramid"
+  },
+  {
+    "id": "eng-emily-roebling",
+    "title": "The Brooklyn Bridge was finished under a woman with no engineering degree",
+    "body": "Chief engineer Washington Roebling was crippled by decompression sickness from working in the bridge's underwater foundations. For eleven years his wife Emily carried his instructions to the site, mastered cable calculations and stress analysis, and dealt with officials and contractors.",
+    "takeaway": "When the bridge opened in 1883, she was the first person to cross it.",
+    "source": "American Society of Civil Engineers; David McCullough, The Great Bridge (1972)",
+    "visual": "a woman in 1880s dress standing on an unfinished suspension bridge deck holding rolled plans, towers and cables above her"
+  },
+  {
+    "id": "eng-velcro",
+    "title": "Velcro was copied from seeds stuck in a dog's fur",
+    "body": "After a walk in the Alps in 1941, the Swiss engineer George de Mestral looked at the burrs clinging to his dog under a microscope. Each spine ended in a tiny hook that caught on loops of hair. He spent years reproducing it in nylon and patented it in 1955.",
+    "takeaway": "The name joins the French words velours, velvet, and crochet, hook.",
+    "source": "Velcro Companies; Swiss Federal Institute of Intellectual Property",
+    "visual": "a spiky round seed burr caught in a dog's fur, shown large enough to see the tiny hooks at the tip of each spine"
+  },
+  {
+    "id": "eng-gotthard-base-tunnel",
+    "title": "The world's longest railway tunnel runs 57 km under the Alps",
+    "body": "The Gotthard Base Tunnel in Switzerland opened in 2016 after 17 years of work. At its deepest point there are 2,300 metres of mountain above the track, and the rock there reaches about 45 degrees Celsius. Crews removed 28 million tonnes of rock.",
+    "takeaway": "Because the route is nearly flat, heavy freight trains can cross the Alps without extra locomotives.",
+    "source": "AlpTransit Gotthard; Swiss Federal Railways",
+    "visual": "a gigantic tunnel boring machine with a toothed circular cutting face breaking through rock deep inside a mountain"
+  },
+  {
+    "id": "eng-three-gorges-dam",
+    "title": "A dam holds enough water to slow the Earth's spin",
+    "body": "China's Three Gorges Dam is the world's largest power station, with a capacity of 22,500 megawatts. Its reservoir holds about 39 cubic kilometres of water. A NASA scientist calculated that raising that mass lengthens the day by 0.06 millionths of a second.",
+    "takeaway": "The effect is far too small to notice, but it shows the scale. Building the dam also displaced about 1.3 million people.",
+    "source": "NASA Jet Propulsion Laboratory; China Three Gorges Corporation",
+    "visual": "an immense concrete dam spanning a misty river gorge with white water pouring from its spillways"
+  },
+  {
+    "id": "eng-suez-canal",
+    "title": "One stuck ship held up a tenth of world trade for six days",
+    "body": "The Suez Canal runs 193 km between the Mediterranean and the Red Sea at sea level, with no locks. In March 2021 the 400-metre container ship Ever Given ran aground and wedged itself across it. More than 400 ships queued, delaying goods worth an estimated 9 billion dollars a day.",
+    "takeaway": "Global trade depends on a handful of narrow passages. A single failure in one of them is felt everywhere.",
+    "source": "Suez Canal Authority; Lloyd's List (2021)",
+    "visual": "a colossal container ship jammed diagonally across a narrow desert canal, a tiny excavator digging at its bow"
+  },
+  {
+    "id": "eng-konkan-railway",
+    "title": "The Konkan Railway crosses about 2,000 bridges and 90 tunnels",
+    "body": "The 741 km line along India's west coast, between Maharashtra and Karnataka, had been thought too difficult to build for a century. It runs through the Western Ghats, across wide rivers and through soft, landslide-prone soil. It opened in 1998 after about seven years of construction.",
+    "takeaway": "It cut the rail journey between Mumbai and Mangalore by many hours.",
+    "source": "Konkan Railway Corporation Limited",
+    "visual": "a train crossing a tall viaduct between two tunnel mouths in lush green hills during the monsoon"
+  },
+  {
+    "id": "eng-kallanai-dam",
+    "title": "A dam built about 2,000 years ago still waters Tamil Nadu's fields",
+    "body": "The Kallanai, or Grand Anicut, on the Kaveri river is credited to the Chola king Karikala. Made of unhewn stone, it is 329 metres long and 20 metres wide. It diverts the river's flow into the delta for irrigation, and it has been in use ever since, with later additions.",
+    "takeaway": "It is one of the oldest water-control structures in the world that is still working.",
+    "source": "Tamil Nadu Water Resources Department; Central Water Commission of India",
+    "visual": "a long low ancient stone dam across a wide river in South India, green rice fields spreading beyond it"
+  },
+  {
+    "id": "eng-wright-first-flight",
+    "title": "The first powered flight was shorter than a jumbo jet's wingspan",
+    "body": "On 17 December 1903 at Kitty Hawk, North Carolina, Orville Wright flew for 12 seconds and covered 37 metres. A Boeing 747 measures 60 metres or more from wingtip to wingtip. The brothers made four flights that day, the longest lasting 59 seconds.",
+    "takeaway": "Sixty-six years later, people walked on the Moon.",
+    "source": "Smithsonian National Air and Space Museum",
+    "visual": "a fragile wood-and-fabric biplane lifting a few feet off a sandy beach, one man running alongside it"
+  },
+  {
+    "id": "eng-sydney-opera-house",
+    "title": "The Sydney Opera House took ten years longer and cost 14 times more than planned",
+    "body": "The Danish architect Jørn Utzon won the design competition in 1957 with sketches of soaring shells that nobody yet knew how to build. The estimate was 7 million Australian dollars and four years. It opened in 1973 at a cost of 102 million, paid for largely by a state lottery.",
+    "takeaway": "Utzon resigned in 1966 and never saw the finished building. It is now a World Heritage Site.",
+    "source": "Sydney Opera House Trust; UNESCO World Heritage Centre",
+    "visual": "white sail-like concrete shells under construction on a harbour headland, cranes and scaffolding around them"
+  }
+]
