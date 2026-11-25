@@ -1,0 +1,18 @@
+[
+  {
+    "id": "self-background-speech-order",
+    "title": "Background speech can disrupt recall of a sequence",
+    "body": "In a 2022 study, children and adults remembered visually presented items in order. Irrelevant speech hurt recall for verbal items, but the study did not find the same effect for spatial items.",
+    "takeaway": "If you need to keep a sequence of words straight, a conversation nearby may matter more than it seems.",
+    "source": "Irrelevant Speech Impairs Serial Recall of Verbal but Not Spatial Items, Scientific Reports (2022)",
+    "visual": "a person trying to recall a sequence while two figures speak in the distance"
+  },
+  {
+    "id": "self-mednick-nap-texture",
+    "title": "A nap helped people improve at a visual task in one study",
+    "body": "In a 2003 experiment, people practised distinguishing visual textures. Participants whose 60 to 90 minute naps included both deep and rapid eye movement sleep showed improved performance after the nap.",
+    "takeaway": "Some changes from practice occur after a session ends, including during daytime sleep.",
+    "source": "Mednick, Nakayama and Stickgold, Nature Neuroscience (2003)",
+    "visual": "a shaded window beside a resting chair in a sleep laboratory"
+  }
+]

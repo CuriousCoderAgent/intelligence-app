@@ -1,0 +1,26 @@
+[
+  {
+    "id": "space-webb-five-layer-shield",
+    "title": "Webb's sunshield has five layers with gaps between them",
+    "body": "The James Webb Space Telescope spreads a sunshield about the size of a tennis court between its optics and the Sun. The five thin layers are separated so heat can escape from between them.",
+    "takeaway": "Keeping stray heat away helps Webb detect faint infrared light from distant objects.",
+    "source": "NASA Science, Webb Mission Frequently Asked Questions",
+    "visual": "a space telescope with a broad layered shield open beneath its gold mirror"
+  },
+  {
+    "id": "space-apollo-visit-surveyor",
+    "title": "Apollo 12 astronauts visited a robot already on the Moon",
+    "body": "Surveyor 3 landed on the Moon in 1967. In November 1969, Apollo 12 astronauts walked to it and removed components, including its camera, to bring back to Earth.",
+    "takeaway": "The visit turned an earlier mission into a test of how equipment weathers on the lunar surface.",
+    "source": "NASA Science, Surveyor 3",
+    "visual": "a lunar astronaut beside a small uncrewed lander in a shallow crater"
+  },
+  {
+    "id": "space-viking-first-surface-photo",
+    "title": "Viking 1 photographed its own footpad on Mars",
+    "body": "On 20 July 1976, NASA's Viking 1 took the first photograph from the surface of Mars minutes after landing. The monochrome image included stones, soil and part of a lander footpad.",
+    "takeaway": "The first view gave engineers a close look at the ground where their machine had come to rest.",
+    "source": "NASA Science, First Photograph Taken on Mars Surface",
+    "visual": "a lander's low metal foot against a field of small Martian rocks"
+  }
+]

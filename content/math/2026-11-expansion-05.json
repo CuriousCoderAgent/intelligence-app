@@ -1,0 +1,10 @@
+[
+  {
+    "id": "math-potato-water-paradox",
+    "title": "Going from 99% to 98% water can halve a potato pile's mass",
+    "body": "Imagine 100 kg of potatoes that are 99% water. Their dry parts weigh 1 kg. If drying raises that unchanged 1 kg to 2% of the total, the pile now weighs just 50 kg.",
+    "takeaway": "A one-point change can be enormous when it doubles the share of the smallest component.",
+    "source": "Wolfram MathWorld, Potato Paradox",
+    "visual": "a heap of potatoes on a rustic balance scale"
+  }
+]
