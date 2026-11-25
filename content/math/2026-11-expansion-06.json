@@ -1,0 +1,34 @@
+[
+  {
+    "id": "math-brachistochrone-fastest",
+    "title": "The straight route downhill need not be the quickest",
+    "body": "Johann Bernoulli posed a challenge in 1696. Between two points at different heights, a frictionless bead can arrive sooner along a curved cycloid than along a straight ramp, because it gains speed earlier.",
+    "takeaway": "The shortest route and the quickest route can differ even when gravity is the only thing driving the motion.",
+    "source": "Wolfram MathWorld, Brachistochrone Problem",
+    "visual": "a small bead rolling down a steep curve beside a straight ramp"
+  },
+  {
+    "id": "math-monsky-square-dissection",
+    "title": "A square cannot be cut into an odd number of equal-area triangles",
+    "body": "In 1970 Paul Monsky proved that a square cannot be partitioned into an odd number of triangles all having the same area. An even number works, such as the two pieces made by cutting along a diagonal.",
+    "takeaway": "Equal pieces can be impossible even when there is no restriction on how irregular each piece looks.",
+    "source": "Wolfram MathWorld, Monsky's Theorem",
+    "visual": "a square of dark card cut into matching triangular pieces"
+  },
+  {
+    "id": "math-dominoes-chessboard-corners",
+    "title": "Dominoes cannot tile a chessboard missing opposite corners",
+    "body": "Opposite corners of an ordinary chessboard have the same colour. Remove both and the board has 32 squares of one colour and 30 of the other. Each domino would have to cover exactly one of each.",
+    "takeaway": "An impossibility can be proved by counting colours without trying possible arrangements.",
+    "source": "Wolfram MathWorld, Gomory's Theorem and Chessboard",
+    "visual": "a checkerboard with opposite corners missing and dominoes resting beside it"
+  },
+  {
+    "id": "math-twelve-coins-balance",
+    "title": "Three weighings can find an odd coin among twelve",
+    "body": "Take 12 coins with one of a different weight. By comparing carefully chosen sets on a balance, three weighings can identify the coin and tell whether it is heavier or lighter.",
+    "takeaway": "Each weighing has three outcomes, so a balance can answer a richer question than a device that only says yes or no.",
+    "source": "Wolfram MathWorld, Weighing",
+    "visual": "a balance scale with small piles of unmarked coins in its pans"
+  }
+]

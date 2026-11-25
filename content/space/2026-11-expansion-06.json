@@ -1,0 +1,18 @@
+[
+  {
+    "id": "space-philae-three-touchdowns",
+    "title": "A comet lander bounced twice before coming to rest",
+    "body": "On 12 November 2014 the European Space Agency's Philae probe reached comet 67P. Its anchoring system failed to secure it at first contact, and the probe touched down three times before settling.",
+    "takeaway": "With so little gravity, an ordinary bounce can send a lander far from its first landing site.",
+    "source": "European Space Agency, Three Touchdowns for Rosetta's Lander (2014)",
+    "visual": "a small lander floating just above the rough dark surface of a comet"
+  },
+  {
+    "id": "space-trappist-seven-planets",
+    "title": "A small star called TRAPPIST-1 has seven Earth-sized planets",
+    "body": "Observations announced in 2017 showed seven planets around the cool dwarf star TRAPPIST-1. Three orbit in the range where a rocky planet could have liquid water on its surface under suitable conditions.",
+    "takeaway": "A planet's distance from its own star matters more for potential warmth than how close that orbit looks compared with Earth's.",
+    "source": "NASA Science, NASA Telescope Reveals Earth-Size Planets Around Single Star (2017)",
+    "visual": "a compact family of small rocky planets around a dim red star"
+  }
+]

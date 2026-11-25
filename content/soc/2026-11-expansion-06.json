@@ -1,0 +1,18 @@
+[
+  {
+    "id": "soc-population-peaked-countries",
+    "title": "In 2024, 28% of people lived where population had already peaked",
+    "body": "The UN's 2024 estimates put 63 countries and areas in this group, including China and Japan. They held 28% of the global population that year even though the world total was still increasing.",
+    "takeaway": "A growing world total can conceal very different trajectories for the places within it.",
+    "source": "United Nations, World Population Prospects 2024",
+    "visual": "neighbours walking through a quiet residential area in a Japanese city"
+  },
+  {
+    "id": "soc-pew-multilingual-interviews",
+    "title": "A single survey in India used 17 interview languages",
+    "body": "For a report published in 2021, Pew Research Center conducted nearly 30,000 face-to-face interviews with adults in India. The questionnaires were delivered in 17 languages across the study.",
+    "takeaway": "Multiple interview languages let a survey reach people who would be left out if it relied on just one.",
+    "source": "Pew Research Center, Religion in India: Tolerance and Segregation (2021)",
+    "visual": "an interviewer and a participant talking at a shaded table"
+  }
+]

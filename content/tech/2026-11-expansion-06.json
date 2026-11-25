@@ -1,0 +1,18 @@
+[
+  {
+    "id": "tech-ethernet-original-memo",
+    "title": "Ethernet began as a way to connect nearby computers",
+    "body": "On 22 May 1973, Robert Metcalfe wrote a memo at Xerox's research centre proposing Ethernet. Its early use was to connect computers and other devices such as printers on a local network.",
+    "takeaway": "A network inside one building can serve a different purpose from a network that links cities.",
+    "source": "Computer History Museum, Xerox Researcher Proposes Ethernet",
+    "visual": "a cable connecting neighbouring early office computers on wooden desks"
+  },
+  {
+    "id": "tech-unix-c-rewrite",
+    "title": "Rewriting Unix in C helped it travel between machines",
+    "body": "At Bell Labs, Dennis Ritchie and colleagues developed C in the early 1970s and rewrote much of Unix in the language. The operating system relied less on instructions written for a particular processor.",
+    "takeaway": "A language can make software easier to carry to new hardware without rebuilding it from the ground up.",
+    "source": "Computer History Museum, Timeline of Computer History (1972)",
+    "visual": "two differently shaped early computers linked by an unmarked reel of tape"
+  }
+]
