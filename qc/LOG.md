@@ -2,6 +2,13 @@
 
 Newest first. Each entry is written by the run described in `qc/NIGHTLY.md`.
 
+## 2026-11-25 (second run, scheduled)
+
+- Scanned 697 cards. No pairs to rule on. Read 60 cards closely. No card text was changed and none was retired.
+- Looked at the 33 cards the scan listed as possibly misfiled. None is plainly in the wrong topic.
+- **Needs the owner's eye**
+  - `soc-towel-social-proof`: the figures match Goldstein, Cialdini and Griskevicius (2008), but they come from two experiments with different baselines (35% and 37%), and the body reads as one. A 2014 replication in German hotels (Bohner and Schluter, PLOS ONE) found the general "most guests" message worked but the "this very room" message did not beat the control. The card does not mention that. Left unchanged.
+
 ## 2026-11-25 (first nightly run)
 
 - Scanned 697 cards. Ruled on 86 pairs (86 distinct, 0 duplicate). Read 60 cards closely. No card text was changed and none was retired.
