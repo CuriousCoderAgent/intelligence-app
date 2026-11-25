@@ -1,0 +1,74 @@
+import type { FactDraft } from '../../types.ts'
+
+export const hist: FactDraft[] = [
+  {
+    title: 'Cleopatra lived closer to the Moon landing than to the pyramids',
+    body: 'The Great Pyramid of Giza was finished around 2560 BCE. Cleopatra died in 30 BCE, about 2,500 years later. The Moon landing came only about 2,000 years after her.',
+    takeaway: 'Ancient Egypt lasted so long that it had its own ancient history.',
+    source: 'Encyclopaedia Britannica',
+    visual: 'an Egyptian queen on a palace terrace with weathered pyramids on the horizon and a large full Moon above',
+  },
+  {
+    title: 'The shortest war in history lasted about 38 minutes',
+    body: 'On 27 August 1896 Britain and the Sultanate of Zanzibar went to war over who should take the throne. British warships opened fire at 9:02 am. By about 9:40 the palace was in ruins and the fighting was over.',
+    takeaway: 'Around 500 Zanzibari defenders were killed or wounded. One British sailor was injured.',
+    source: 'Guinness World Records; UK National Archives',
+    visual: 'nineteenth-century warships firing on a waterfront palace under a hazy tropical morning sky',
+  },
+  {
+    title: 'In fifty years the printing press made 20 million books',
+    body: 'Johannes Gutenberg began printing with movable metal type in Mainz around 1450. By 1500, presses in hundreds of European towns had produced an estimated 20 million volumes. Before that, every book in Europe was copied out by hand.',
+    takeaway: 'When copying an idea becomes cheap, who gets to read and argue changes with it.',
+    source: 'Febvre & Martin, The Coming of the Book (1958)',
+    visual: 'a wooden printing press in a candlelit workshop with printed sheets flying out of the window over a medieval town',
+  },
+  {
+    title: 'A city had covered drains 4,500 years ago',
+    body: 'Mohenjo-daro, in the Indus Valley, was laid out on a grid around 2500 BCE. Many houses had bathing areas and toilets connected to covered street drains, and bricks across the civilisation followed one standard ratio.',
+    takeaway: 'Its script is still undeciphered, so we know its plumbing better than its kings.',
+    source: 'UNESCO World Heritage Centre; Archaeological Survey of India',
+    visual: 'an ancient brick city with straight streets, a large stepped public bath and neat covered drains at golden hour',
+  },
+  {
+    title: 'One man gave away so much gold that he crashed its price',
+    body: 'Mansa Musa, ruler of the Mali Empire, travelled to Mecca in 1324 with a caravan carrying tonnes of gold. He spent and gave away so much in Cairo that, by one contemporary account, the value of gold there stayed low for about twelve years.',
+    takeaway: 'Even gold loses value when a lot of it shows up at once.',
+    source: 'al-Umari, 14th-century chronicle; British Museum',
+    visual: 'a vast desert caravan of camels laden with gold led by a richly robed king beneath a blazing sun',
+  },
+  {
+    title: 'Mammoths were still alive when the pyramids were built',
+    body: 'A small population of woolly mammoths survived on Wrangel Island in the Arctic until about 4,000 years ago. The Great Pyramid had already been standing for roughly five centuries.',
+    takeaway: 'The "prehistoric" world and the start of written history overlapped.',
+    source: 'Vartanyan et al., Nature (1993)',
+    visual: 'a woolly mammoth on a windswept arctic island, with a faint mirage of pyramids in the sky far away',
+  },
+  {
+    title: 'The fax machine is older than the telephone',
+    body: 'Scottish clockmaker Alexander Bain patented a way to send images over telegraph wires in 1843. A commercial fax service linked Paris and Lyon in 1865. The telephone was patented in 1876.',
+    takeaway: 'Technologies do not arrive in the order we imagine.',
+    source: 'Science Museum, London',
+    visual: 'a brass Victorian apparatus with a swinging pendulum tracing an image onto paper, telegraph wires leading out of the room',
+  },
+  {
+    title: 'A volcano cancelled summer and inspired Frankenstein',
+    body: 'Mount Tambora in Indonesia erupted in 1815, the largest eruption in recorded history. Its ash dimmed the Sun worldwide, and 1816 brought summer frosts and failed harvests. Kept indoors by the gloom at Lake Geneva, Mary Shelley began writing Frankenstein.',
+    takeaway: 'One event on one island changed weather, food prices and literature across the world.',
+    source: 'US Geological Survey; British Library',
+    visual: 'a dark ash-filled sky over a cold summer lake, a candlelit villa window with a figure writing inside',
+  },
+  {
+    title: 'Nalanda taught students from across Asia for 700 years',
+    body: 'Founded in the fifth century CE in what is now Bihar, Nalanda was a residential centre of learning with libraries, lecture halls and dormitories. The Chinese monk Xuanzang, who studied there in the 600s, described thousands of scholars and a demanding entrance examination.',
+    takeaway: 'It was drawing international students centuries before Europe\'s first universities.',
+    source: 'UNESCO World Heritage Centre',
+    visual: 'red-brick monastery courtyards with robed scholars from many lands debating under trees, tall library towers behind',
+  },
+  {
+    title: 'The 1918 flu infected a third of humanity',
+    body: 'About 500 million people caught it and at least 50 million died. It was called the Spanish flu only because neutral Spain reported on it freely while countries at war censored the news.',
+    takeaway: 'Unusually, it was deadliest for healthy adults in their twenties and thirties.',
+    source: 'US Centers for Disease Control and Prevention',
+    visual: 'a 1918 hospital ward with long rows of beds and masked nurses, pale daylight coming through tall windows',
+  },
+]

@@ -1,0 +1,74 @@
+import type { FactDraft } from '../../types.ts'
+
+export const eng: FactDraft[] = [
+  {
+    title: 'Roman concrete heals its own cracks',
+    body: 'The Pantheon\'s dome has stood for about 1,900 years and is still the largest unreinforced concrete dome in the world. In 2023 researchers showed why Roman concrete lasts: small lumps of lime in the mix dissolve when water enters a crack and re-form as mineral that seals it.',
+    takeaway: 'Engineers are now testing the same recipe to make modern concrete last longer.',
+    source: 'Seymour et al., Science Advances (2023)',
+    visual: 'the inside of a vast coffered concrete dome with a beam of sunlight falling through the round opening at its top',
+  },
+  {
+    title: 'The Eiffel Tower is taller in summer',
+    body: 'Iron expands when heated. On a hot day the 330-metre tower grows by up to 15 cm, and its top leans a few centimetres away from the Sun because the sunlit side expands more.',
+    takeaway: 'Every large structure moves. Bridges, rails and towers are built with room to breathe.',
+    source: 'Société d\'Exploitation de la Tour Eiffel',
+    visual: 'an iron lattice tower shimmering in summer heat haze with a faint outline showing it slightly taller',
+  },
+  {
+    title: 'The Burj Khalifa stays up by confusing the wind',
+    body: 'Wind flowing past a tall tower sheds swirling vortices that can make it sway dangerously. The 828-metre Burj Khalifa has a Y-shaped plan and steps back at a different point on each level, so the vortices never fall into rhythm.',
+    takeaway: 'At that height the biggest structural problem is wind, not weight.',
+    source: 'Skidmore, Owings & Merrill; Bill Baker, structural engineer',
+    visual: 'a very tall stepped spire rising through clouds with ribbons of wind curling and breaking apart around it',
+  },
+  {
+    title: 'A bridge that twisted itself apart in a 64 km/h wind',
+    body: 'The Tacoma Narrows Bridge opened in July 1940 and collapsed four months later. A steady wind set its slender deck twisting, and each twist fed the next until it tore apart. The only casualty was a dog.',
+    takeaway: 'Since then, long bridges have been tested in wind tunnels before they are built.',
+    source: 'Washington State Department of Transportation',
+    visual: 'a 1940s suspension bridge with its roadway twisting like a ribbon above a grey strait, an abandoned car on the deck',
+  },
+  {
+    title: 'The Golden Gate\'s cables could wrap the Earth three times',
+    body: 'Each of the bridge\'s two main cables is nearly a metre thick and contains 27,572 separate steel wires. Laid end to end, the wire would run about 129,000 km.',
+    takeaway: 'Many thin strands are stronger and safer than one thick rod: if one fails the rest still hold.',
+    source: 'Golden Gate Bridge, Highway and Transportation District',
+    visual: 'a cross-section of a huge suspension cable revealing thousands of tightly packed wires, a red bridge tower in fog behind',
+  },
+  {
+    title: 'Jet engine blades work in gas hotter than their melting point',
+    body: 'Gas leaving a jet engine\'s combustor can be several hundred degrees hotter than the melting point of the turbine blades. Each blade is grown as a single metal crystal, coated in ceramic, and kept alive by cool air bled through tiny holes in its surface.',
+    takeaway: 'Much of modern flight\'s efficiency comes from materials science you never see.',
+    source: 'Rolls-Royce, The Jet Engine',
+    visual: 'a single turbine blade glowing orange inside an engine with a thin protective film of cool air streaming over its surface',
+  },
+  {
+    title: 'India\'s Chenab Bridge stands higher than the Eiffel Tower',
+    body: 'The railway bridge over the Chenab river in Jammu and Kashmir carries trains 359 metres above the water, the highest rail bridge in the world. Its steel arch spans 467 metres and is built to withstand winds of about 260 km/h.',
+    takeaway: 'It opened in 2025 and gives the Kashmir valley an all-weather rail link.',
+    source: 'Indian Railways; Konkan Railway Corporation',
+    visual: 'a slender steel arch railway bridge spanning a deep Himalayan gorge with a train crossing and clouds below the deck',
+  },
+  {
+    title: 'A bird fixed Japan\'s bullet train',
+    body: 'Early Shinkansen trains made a loud boom when leaving tunnels. Engineer and birdwatcher Eiji Nakatsu reshaped the nose after the beak of a kingfisher, which dives into water with barely a splash. The train became quieter, faster and used about 15% less electricity.',
+    takeaway: 'Nature has had millions of years to test designs. Borrowing from it is called biomimicry.',
+    source: 'Eiji Nakatsu, JR West; Japan for Sustainability interview',
+    visual: 'a kingfisher diving beak-first toward water beside a sleek long-nosed bullet train emerging from a tunnel',
+  },
+  {
+    title: 'The Panama Canal lifts ships 26 metres with no pumps',
+    body: 'Ships climb a staircase of locks to a lake and step back down on the other side. The original locks fill and drain by gravity alone, each crossing releasing about 200 million litres of fresh water to the sea.',
+    takeaway: 'The canal depends on rainfall. In dry years it has to limit how many ships can cross.',
+    source: 'Panama Canal Authority',
+    visual: 'an enormous container ship rising inside a concrete lock chamber surrounded by tropical forest',
+  },
+  {
+    title: 'An iron pillar in Delhi has resisted rust for 1,600 years',
+    body: 'The seven-metre Iron Pillar in the Qutb complex was forged around 400 CE. Its iron is rich in phosphorus, which helped form a thin, stable film on the surface that protects the metal beneath.',
+    takeaway: 'Its makers reached this through craft, long before anyone could explain the chemistry.',
+    source: 'R. Balasubramaniam, Corrosion Science (2000)',
+    visual: 'a tall dark iron pillar standing in a sandstone courtyard among carved ruins in warm morning light',
+  },
+]
