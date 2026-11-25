@@ -1,0 +1,82 @@
+[
+  {
+    "id": "econ-comparative-advantage",
+    "title": "Trade pays even when one side is better at everything",
+    "body": "David Ricardo showed in 1817 that even if Portugal makes both wine and cloth more efficiently than England, both countries gain when each concentrates on what it gives up least to produce, and they trade. He called it comparative advantage.",
+    "takeaway": "It applies to people too. A surgeon who types faster than her assistant should still leave the typing to the assistant.",
+    "source": "David Ricardo, On the Principles of Political Economy and Taxation (1817)",
+    "visual": "two sailing ships passing each other at sea, one loaded with wine barrels and the other with bolts of cloth"
+  },
+  {
+    "id": "econ-jevons-paradox",
+    "title": "More efficient engines made Britain burn more coal",
+    "body": "In 1865 William Stanley Jevons noticed that as steam engines needed less coal for the same work, total coal use rose. Cheaper power found new uses faster than efficiency saved fuel. Economists call it the Jevons paradox, or the rebound effect.",
+    "takeaway": "Efficiency alone may not cut total use. Lighting, driving and computing have all been used more as they got cheaper.",
+    "source": "W. S. Jevons, The Coal Question (1865)",
+    "visual": "a Victorian industrial town with ever more factory chimneys multiplying toward the horizon, a gleaming new steam engine in front"
+  },
+  {
+    "id": "econ-anchoring",
+    "title": "A random number can change what you think something is worth",
+    "body": "In a 1974 experiment a rigged wheel of fortune stopped at 10 or at 65. People were then asked what share of African countries belonged to the United Nations. Those who saw 10 guessed 25% on average. Those who saw 65 guessed 45%.",
+    "takeaway": "The first number mentioned in a negotiation pulls everything after it. Be careful who sets it.",
+    "source": "Tversky & Kahneman, Science (1974)",
+    "visual": "a heavy ship's anchor resting on the seabed with a small boat above it tugged off course by the chain"
+  },
+  {
+    "id": "econ-endowment-effect",
+    "title": "Owning something makes you value it about twice as much",
+    "body": "Researchers gave coffee mugs to half the students in a class and let everyone trade. Owners would not sell for less than about 7 dollars. Those without mugs would pay only about 3. The mugs were identical. Only ownership differed.",
+    "takeaway": "It is why free trials and test drives work, and why clearing out a cupboard is hard.",
+    "source": "Kahneman, Knetsch & Thaler, Journal of Political Economy (1990)",
+    "visual": "two hands across a table, one clutching a plain coffee mug protectively and the other offering a few coins for it"
+  },
+  {
+    "id": "econ-ultimatum-game",
+    "title": "People will pay to punish an unfair offer",
+    "body": "One player is given money and proposes how to split it with a second. If the second refuses, both get nothing. Pure self-interest says accept any amount. In practice offers below about 20% are usually rejected, and most proposers offer 40 to 50%.",
+    "takeaway": "A sense of fairness shapes real bargaining. An offer that insults can lose the whole deal.",
+    "source": "Güth, Schmittberger & Schwarze, Journal of Economic Behavior & Organization (1982)",
+    "visual": "a pile of coins on a table divided into one large heap and one tiny heap, a hand pushing the whole table away"
+  },
+  {
+    "id": "econ-gdp-warning",
+    "title": "The inventor of GDP warned against using it to measure wellbeing",
+    "body": "Simon Kuznets built the first national income accounts for the United States in 1934, to gauge the damage of the Great Depression. In his report to Congress he wrote that the welfare of a nation can scarcely be inferred from a measure of national income.",
+    "takeaway": "GDP counts what is bought and sold. It leaves out unpaid care, leisure, inequality and damage to nature.",
+    "source": "Simon Kuznets, National Income 1929-1932, report to the US Senate (1934)",
+    "visual": "a tall stack of ledgers and an adding machine on a 1930s desk, and outside the window a family in a garden unnoticed"
+  },
+  {
+    "id": "econ-first-public-shares",
+    "title": "The first company to sell shares to the public began in 1602",
+    "body": "The Dutch East India Company raised money for its voyages by letting any resident of the Netherlands buy a share. More than 1,100 people in Amsterdam subscribed, among them servants and craftsmen. The shares could be resold, and a market for them grew up in the city.",
+    "takeaway": "Spreading the cost of a risky venture across many small investors is the idea behind every stock market since.",
+    "source": "Lodewijk Petram, The World's First Stock Exchange (2014)",
+    "visual": "merchants in dark seventeenth-century dress trading papers in a crowded Amsterdam courtyard, tall ships visible beyond"
+  },
+  {
+    "id": "econ-india-gdp-share",
+    "title": "India once produced about a quarter of the world's output",
+    "body": "The economic historian Angus Maddison estimated that in 1700 India accounted for roughly 24% of world GDP, about the same as all of western Europe. By 1950, after other regions had industrialised and India had spent two centuries under colonial rule, its share was about 4%.",
+    "takeaway": "These are estimates built from sparse records, but the scale of the shift is not in doubt.",
+    "source": "Angus Maddison, The World Economy: Historical Statistics (2003)",
+    "visual": "a bustling Mughal-era port with bales of textiles and spices being loaded onto ships at golden hour"
+  },
+  {
+    "id": "econ-big-mac-index",
+    "title": "A burger is used to compare currencies",
+    "body": "Since 1986 The Economist has published the price of a McDonald's Big Mac in dozens of countries. In theory the same burger should cost the same everywhere once currencies are converted. Where it is cheaper, the local currency may be undervalued against the dollar.",
+    "takeaway": "It began as a joke and is now cited in textbooks. Everyday prices can reveal what exchange rates hide.",
+    "source": "The Economist, Big Mac Index (since 1986)",
+    "visual": "a single hamburger on a plate surrounded by small stacks of coins and banknotes from many different countries"
+  },
+  {
+    "id": "econ-microfinance-evidence",
+    "title": "Small loans to the poor helped less than hoped",
+    "body": "Microcredit won its pioneer Muhammad Yunus the Nobel Peace Prize in 2006. Six randomised studies in six countries, published together in 2015, found that it helped some borrowers expand businesses but did not raise average income or lift households out of poverty.",
+    "takeaway": "A good story is not evidence. Testing aid programmes the way medicines are tested changed which ones get funded.",
+    "source": "Banerjee, Karlan & Zinman, American Economic Journal: Applied Economics (2015)",
+    "visual": "a woman at a small market stall counting a few banknotes beside a sewing machine, other stalls stretching behind her"
+  }
+]

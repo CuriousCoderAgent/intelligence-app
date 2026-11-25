@@ -1,0 +1,82 @@
+[
+  {
+    "id": "math-gods-number",
+    "title": "Any Rubik's Cube can be solved in 20 moves or fewer",
+    "body": "The cube has about 43 quintillion possible positions. In 2010 a team used the equivalent of 35 years of computer time, donated by Google, to prove that none of them needs more than 20 moves. Mathematicians call 20 God's number.",
+    "takeaway": "Knowing a short solution exists is very different from finding it. Human solvers typically use 50 to 60 moves.",
+    "source": "Rokicki, Kociemba, Davidson & Dethridge, SIAM Journal on Discrete Mathematics (2013)",
+    "visual": "a scrambled colourful puzzle cube floating in darkness with faint glowing paths of rotation tracing around it"
+  },
+  {
+    "id": "math-konigsberg-bridges",
+    "title": "A puzzle about seven bridges created a new branch of maths",
+    "body": "People in Königsberg wondered whether they could walk through the city crossing each of its seven bridges exactly once. In 1736 Leonhard Euler proved it impossible by reducing the city to dots joined by lines. Only the connections mattered, not the distances.",
+    "takeaway": "That idea became graph theory, which now runs route planners, social networks and the internet.",
+    "source": "Leonhard Euler, Commentarii academiae scientiarum Petropolitanae (1736)",
+    "visual": "an eighteenth-century river city with two islands linked to the banks by seven stone bridges, seen from above"
+  },
+  {
+    "id": "math-fermat-last-theorem",
+    "title": "A note in a margin took 358 years to prove",
+    "body": "Around 1637 Pierre de Fermat wrote that a cube cannot be split into two cubes, nor any higher power into two like powers, using whole numbers. He added that the margin was too small for his proof. Andrew Wiles proved it in 1994 after seven years of secret work.",
+    "takeaway": "The proof used mathematics invented long after Fermat. Whatever he had in mind, it was not this.",
+    "source": "Andrew Wiles, Annals of Mathematics (1995)",
+    "visual": "an old open book with a handwritten note squeezed into its narrow margin, lit by a single candle"
+  },
+  {
+    "id": "math-sizes-of-infinity",
+    "title": "Some infinities are bigger than others",
+    "body": "Georg Cantor proved in the 1870s that the whole numbers and the fractions can be paired off one to one, so those two infinities are the same size. But the decimal numbers between 0 and 1 cannot be listed at all. There are strictly more of them.",
+    "takeaway": "Many of his peers attacked the idea. It is now part of the foundation of modern mathematics.",
+    "source": "Georg Cantor, Journal für die reine und angewandte Mathematik (1874)",
+    "visual": "two endless staircases rising into the clouds side by side, one visibly wider and denser than the other"
+  },
+  {
+    "id": "math-fibonacci-india",
+    "title": "Fibonacci numbers were described in India centuries before Fibonacci",
+    "body": "The sequence 1, 1, 2, 3, 5, 8, 13, in which each number is the sum of the two before it, appears in the work of Indian scholars such as Virahanka and Hemachandra, who used it to count rhythms in Sanskrit poetry. Fibonacci introduced it to Europe in 1202.",
+    "takeaway": "Sunflower heads and pine cones often show spirals in neighbouring numbers of the sequence, such as 34 and 55.",
+    "source": "Parmanand Singh, Historia Mathematica (1985)",
+    "visual": "a sunflower head in close view with its seeds forming two sets of interlocking spirals, beside a palm-leaf manuscript"
+  },
+  {
+    "id": "math-simpsons-paradox",
+    "title": "A trend can reverse when you combine the groups",
+    "body": "In 1973 the University of California, Berkeley admitted 44% of the men who applied to graduate school and 35% of the women. Yet department by department, women were admitted at similar or higher rates. Women had applied more often to departments that rejected most applicants.",
+    "takeaway": "Before trusting an overall average, check what happens inside each group. The combined figure can mislead.",
+    "source": "Bickel, Hammel & O'Connell, Science (1975)",
+    "visual": "several small balance scales each tipping one way, and a single large scale above them tipping the opposite way"
+  },
+  {
+    "id": "math-gamblers-fallacy",
+    "title": "The roulette wheel does not remember",
+    "body": "On 18 August 1913 at the Monte Carlo Casino the ball landed on black 26 times in a row. Gamblers lost millions betting ever larger sums on red, convinced that it was due. Each spin had exactly the same odds as the first.",
+    "takeaway": "Independent events have no memory. A run of bad luck does not make good luck any more likely.",
+    "source": "Darrell Huff, How to Take a Chance (1959)",
+    "visual": "an ornate casino roulette wheel in motion with a crowd in evening dress leaning in around the table"
+  },
+  {
+    "id": "math-false-positives",
+    "title": "A 99% accurate test can be wrong most of the time",
+    "body": "Suppose 1 person in 1,000 has a disease and a test is right 99% of the time. Test 100,000 people. The 100 who are ill give 99 true positives, but the 99,900 who are healthy give 999 false ones. A positive result means only about a 9% chance of illness.",
+    "takeaway": "For rare conditions, ask how common the condition is before you read anything into a test result.",
+    "source": "Gerd Gigerenzer, Reckoning with Risk (2002)",
+    "visual": "a vast crowd of grey figures with a scattering of highlighted ones, only a few of the highlighted figures glowing red"
+  },
+  {
+    "id": "math-a4-paper",
+    "title": "A4 paper is built on the square root of 2",
+    "body": "The sides of every A-series sheet are in the ratio 1 to the square root of 2, about 1.414. It is the only ratio at which cutting a sheet in half gives two sheets of the same shape. A0 has an area of exactly one square metre, and A4 is A0 halved four times.",
+    "takeaway": "That is why you can enlarge A4 to A3 on a photocopier with nothing cut off.",
+    "source": "ISO 216; Georg Christoph Lichtenberg, letter of 1786",
+    "visual": "a large sheet of paper folded in half again and again into a neat spiral of smaller sheets of identical shape"
+  },
+  {
+    "id": "math-kaprekar-6174",
+    "title": "Almost any four-digit number leads to 6174",
+    "body": "Take a four-digit number with at least two different digits. Arrange the digits from largest to smallest and from smallest to largest, then subtract. Repeat. Within seven steps you always arrive at 6174 and stay there. The Indian schoolteacher D. R. Kaprekar found this in 1949.",
+    "takeaway": "Try 3524: 5432 minus 2345 is 3087, then 8730 minus 0378 is 8352, then 8532 minus 2358 is 6174.",
+    "source": "D. R. Kaprekar, Scripta Mathematica (1955)",
+    "visual": "many winding paths across a dark landscape all converging on a single glowing doorway"
+  }
+]

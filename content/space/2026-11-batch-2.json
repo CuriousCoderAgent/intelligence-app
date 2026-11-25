@@ -1,0 +1,82 @@
+[
+  {
+    "id": "space-mercury-ice",
+    "title": "The planet closest to the Sun has ice",
+    "body": "Mercury's daytime surface reaches about 430 degrees Celsius. But the planet barely tilts, so craters at its poles never see sunlight and stay below minus 170. NASA's MESSENGER probe confirmed water ice inside them in 2012.",
+    "takeaway": "In space, temperature is a matter of sunlight and shadow. With no air to carry heat, a few metres separate furnace from freezer.",
+    "source": "NASA MESSENGER mission (2012)",
+    "visual": "a deep crater on a grey sun-scorched planet, its floor in permanent black shadow with a faint glint of ice"
+  },
+  {
+    "id": "space-great-red-spot",
+    "title": "A storm on Jupiter has raged for at least 190 years",
+    "body": "The Great Red Spot is a high-pressure storm wider than Earth, with winds of more than 400 km/h. Astronomers have recorded it since 1831. It is shrinking: in the 1800s it could have held three Earths side by side, and now barely one.",
+    "takeaway": "Jupiter has no solid surface to slow a storm down, which is why one can last for centuries.",
+    "source": "NASA Juno mission; NASA Goddard Space Flight Center",
+    "visual": "an enormous swirling red-orange oval storm among cream and brown cloud bands, a tiny Earth floating beside it for scale"
+  },
+  {
+    "id": "space-neptune-by-maths",
+    "title": "Neptune was found with a pen before a telescope",
+    "body": "Uranus kept straying from its predicted path. In 1846 the French mathematician Urbain Le Verrier calculated where an unseen planet must be to cause that, and sent the position to the Berlin Observatory. Johann Galle found Neptune that same night, within one degree of it.",
+    "takeaway": "It was a striking test of Newton's gravity: the theory predicted a whole world that nobody had seen.",
+    "source": "NASA Solar System Exploration",
+    "visual": "a candlelit desk covered with handwritten orbital diagrams, and through the window a small blue planet shining in the night sky"
+  },
+  {
+    "id": "space-andromeda-approach",
+    "title": "The Andromeda galaxy is heading towards us at 110 km a second",
+    "body": "Andromeda is 2.5 million light-years away and closing. For years astronomers expected it to collide with the Milky Way in 4 to 5 billion years. A 2025 study using newer measurements put the chance of a merger within 10 billion years at only about 50%.",
+    "takeaway": "Even if the galaxies do merge, stars are so far apart that almost none would actually hit each other.",
+    "source": "Sawala et al., Nature Astronomy (2025)",
+    "visual": "two great spiral galaxies tilted toward each other in a night sky above a dark mountain horizon"
+  },
+  {
+    "id": "space-black-hole-image",
+    "title": "The first picture of a black hole needed a telescope as wide as Earth",
+    "body": "In 2019 the Event Horizon Telescope linked eight radio observatories, from Hawaii to the South Pole, so that they worked as one dish the size of the planet. It imaged the shadow of a black hole 55 million light-years away that has the mass of 6.5 billion Suns.",
+    "takeaway": "The data filled so many hard drives that they were sent by plane. It was faster than the internet.",
+    "source": "Event Horizon Telescope Collaboration, Astrophysical Journal Letters (2019)",
+    "visual": "a glowing orange ring of light around a perfectly black centre, with radio telescope dishes silhouetted in the foreground"
+  },
+  {
+    "id": "space-trees-vs-stars",
+    "title": "Earth has more trees than the Milky Way has stars",
+    "body": "A 2015 count that combined satellite images with ground surveys estimated about 3 trillion trees on Earth, close to 400 for every person. The Milky Way is thought to hold between 100 and 400 billion stars.",
+    "takeaway": "The same study estimated that the number of trees has fallen by almost half since farming began.",
+    "source": "Crowther et al., Nature (2015)",
+    "visual": "a dense forest canopy at night stretching to the horizon beneath the bright band of the Milky Way"
+  },
+  {
+    "id": "space-taller-in-orbit",
+    "title": "Astronauts grow up to 3% taller in space",
+    "body": "Without gravity pressing down, the discs between the bones of the spine expand. An astronaut 180 cm tall can gain about 5 cm in orbit. They return to their usual height within a few months of landing.",
+    "takeaway": "Spacesuits and seats are designed with the extra height in mind. Gravity shapes the body more than we notice.",
+    "source": "NASA Human Research Program",
+    "visual": "an astronaut floating upright inside a space station module beside a height chart, stretched slightly taller than the marks"
+  },
+  {
+    "id": "space-proxima-travel-time",
+    "title": "The nearest star is 75,000 years away at spacecraft speed",
+    "body": "Proxima Centauri is 4.24 light-years from the Sun, about 40 trillion km. Voyager 1, the fastest object to have left the solar system, covers 17 km every second. At that speed the journey would take roughly 75,000 years.",
+    "takeaway": "Light makes the same trip in just over four years. The gaps between stars are the real barrier to interstellar travel.",
+    "source": "NASA Jet Propulsion Laboratory",
+    "visual": "a tiny spacecraft at the start of a long dotted path stretching across darkness toward one small red star"
+  },
+  {
+    "id": "space-europa-ocean",
+    "title": "A moon of Jupiter holds more water than Earth",
+    "body": "Europa is slightly smaller than our Moon, but beneath its shell of ice lies a salty ocean thought to be 60 to 150 km deep. That is about twice the volume of all Earth's oceans. Jupiter's gravity flexes the moon and keeps the water liquid.",
+    "takeaway": "Liquid water, energy and chemistry make it one of the best places to look for life. NASA's Europa Clipper is due there in 2030.",
+    "source": "NASA Europa Clipper mission",
+    "visual": "a cutaway of an icy moon showing a cracked white shell over a deep glowing blue ocean, a giant striped planet behind it"
+  },
+  {
+    "id": "space-gravitational-waves",
+    "title": "In 2015 we felt two black holes collide",
+    "body": "The LIGO detectors in the United States measured a ripple in space itself, made when two black holes merged 1.3 billion light-years away. As it passed, the ripple changed the length of LIGO's 4 km arms by far less than the width of a proton.",
+    "takeaway": "Einstein predicted these waves in 1916 and doubted they could ever be detected. It took a century.",
+    "source": "LIGO Scientific Collaboration, Physical Review Letters (2016)",
+    "visual": "two black spheres spiralling together and sending rings of ripples outward across a grid of space"
+  }
+]

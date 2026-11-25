@@ -1,0 +1,82 @@
+[
+  {
+    "id": "pol-magna-carta",
+    "title": "Only a few lines of Magna Carta are still law",
+    "body": "The charter that English barons forced on King John in 1215 had 63 clauses, mostly about feudal taxes, forests and fish traps. Three remain in force in England. The most famous promises that no free man will be imprisoned except by lawful judgment.",
+    "takeaway": "Its lasting power is the principle it established: the ruler is under the law too.",
+    "source": "UK Parliament; British Library",
+    "visual": "a medieval parchment with a heavy wax seal on a wooden table, armoured barons standing in shadow around a seated king"
+  },
+  {
+    "id": "pol-constitution-lifespan",
+    "title": "The typical national constitution lasts about 19 years",
+    "body": "A study of every national constitution written since 1789 found that half had been replaced within 19 years. The United States constitution, in force since 1789, is the great exception. India's, in force since 1950, has outlived most of its generation.",
+    "takeaway": "Constitutions that were widely debated when written and can be amended without a crisis tend to survive longer.",
+    "source": "Elkins, Ginsburg & Melton, The Endurance of National Constitutions (2009)",
+    "visual": "a row of stone tablets stretching into the distance, most cracked or fallen, a few still standing upright"
+  },
+  {
+    "id": "pol-india-first-election",
+    "title": "India's first election gave 173 million people the vote at once",
+    "body": "In 1951 and 1952 every adult citizen could vote, at a time when more than 80% could not read. Each party was given a picture symbol, and each candidate had a separate ballot box marked with it. Polling took four months.",
+    "takeaway": "Older democracies widened the vote in stages over a century. India did it in one step, and party symbols are still on every ballot.",
+    "source": "Election Commission of India; Ramachandra Guha, India After Gandhi (2007)",
+    "visual": "a 1950s Indian village polling station with a row of steel ballot boxes each painted with a simple picture symbol"
+  },
+  {
+    "id": "pol-secret-ballot",
+    "title": "The secret ballot was once called the Australian ballot",
+    "body": "Until the 1850s most voting was public. You announced your choice or handed over a marked paper in view of others, which invited bribery and threats. In 1856 the Australian colonies of Victoria and South Australia introduced government-printed ballots marked in private.",
+    "takeaway": "A vote that nobody can check is a vote that nobody can buy or punish.",
+    "source": "Museum of Australian Democracy",
+    "visual": "a nineteenth-century wooden voting booth with a curtain, a single hand slipping a folded paper into a box"
+  },
+  {
+    "id": "pol-swiss-referendums",
+    "title": "Swiss citizens vote on national laws about four times a year",
+    "body": "In Switzerland, 50,000 signatures gathered within 100 days force a national vote on a law that parliament has passed. With 100,000 signatures, citizens can propose a change to the constitution themselves. Voters have decided more than 600 national questions since 1848.",
+    "takeaway": "Parliament writes laws knowing that voters can overturn them, which pushes it towards compromise.",
+    "source": "Swiss Federal Chancellery",
+    "visual": "citizens in an alpine town square raising their hands to vote under a clear sky, snowy peaks behind"
+  },
+  {
+    "id": "pol-athens-lottery",
+    "title": "Ancient Athens chose most officials by lottery",
+    "body": "Athenians thought elections favoured the rich and famous. So most public offices and all juries were filled by drawing lots among citizens, using a stone slotted device called a kleroterion. Elections were kept for a few posts, such as generals.",
+    "takeaway": "The idea is back: Ireland used assemblies of randomly chosen citizens to prepare its 2015 and 2018 referendums.",
+    "source": "Aristotle, Constitution of the Athenians; Citizens' Assembly of Ireland",
+    "visual": "an ancient Greek marble slab with rows of slots holding bronze tokens, robed citizens gathered around it in a sunlit agora"
+  },
+  {
+    "id": "pol-austria-voting-age",
+    "title": "In Austria you can vote at 16",
+    "body": "In 2007 Austria became the first country in the European Union to lower the voting age to 16 for all elections. Studies there found that 16 and 17 year olds were about as informed and as able to pick a party matching their views as older first-time voters.",
+    "takeaway": "Most countries settled on 18 only around the 1970s. Before that the usual age was 21.",
+    "source": "Wagner, Johann & Kritzinger, Electoral Studies (2012)",
+    "visual": "a teenager with a school backpack dropping a ballot into a box in a bright polling room, older voters queuing behind"
+  },
+  {
+    "id": "pol-third-world-origin",
+    "title": "The Third World originally had nothing to do with poverty",
+    "body": "The French demographer Alfred Sauvy coined the phrase in 1952 for countries aligned with neither the capitalist First World nor the communist Second World in the Cold War. He was echoing the Third Estate, the commoners of the French Revolution.",
+    "takeaway": "Labels outlive the world that made them. Ask what a political term meant when it was coined.",
+    "source": "Alfred Sauvy, L'Observateur (14 August 1952)",
+    "visual": "a globe on a desk divided into three softly coloured regions, with two large chess pieces looming on either side of it"
+  },
+  {
+    "id": "pol-condorcet-paradox",
+    "title": "A majority can prefer A to B, B to C and C to A",
+    "body": "The Marquis de Condorcet showed in 1785 that when three groups of voters rank three options differently, majority preferences can run in a circle. Each option loses a head-to-head vote to one of the others, so there is no clear winner.",
+    "takeaway": "The result then depends on the order of the votes, which hands real power to whoever sets the agenda.",
+    "source": "Marquis de Condorcet, Essay on the Application of Analysis (1785)",
+    "visual": "three figures seated in a triangle, each pointing at the next, joined by a loop of glowing arrows of light on the floor"
+  },
+  {
+    "id": "pol-panchayat-women",
+    "title": "India has more than a million elected women in local government",
+    "body": "A 1992 constitutional amendment created village, block and district councils across India and reserved at least one third of their seats for women. Many states have since raised that to half. About 1.4 million women now hold these seats.",
+    "takeaway": "A study of villages with reserved seats found that councils led by women invested more in drinking water.",
+    "source": "Ministry of Panchayati Raj; Chattopadhyay & Duflo, Econometrica (2004)",
+    "visual": "a woman in a sari chairing a village council meeting under a large banyan tree, villagers seated in a circle"
+  }
+]
