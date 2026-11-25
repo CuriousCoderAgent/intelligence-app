@@ -204,7 +204,9 @@ A new topic (for example Psychology, Health, Philosophy, Art or Nature) is possi
 
 A card is a duplicate if it teaches the same fact, even with a different title or angle. "The Moon is drifting away" and "The Moon moves 3.8 cm farther each year" are the same card. A different fact about the same subject is fine: the deck can hold ten cards about the Moon as long as each teaches something different.
 
-The build rejects two cards with the same id or the same title. It cannot detect the same fact reworded, so that check is yours.
+The build rejects two cards with the same id or the same title. It cannot detect the same fact reworded, so that check is yours. If you can run commands, `npm run qc` lists new cards that resemble existing ones.
+
+Every night a quality-control run reads newly added cards closely, checks their facts against sources, and corrects or retires cards that fail. A card retired as a duplicate or as untrue is wasted work, so check first.
 
 ---
 
@@ -330,7 +332,7 @@ The palette words for each topic:
 1. Read `AGENTS.md` and `docs/CARD_INDEX.md`.
 2. Create a branch.
 3. Add your new pack file or files under `content/<topic>/`.
-4. Run `npm install` once, then `npm run sync`. This validates every card and refreshes `docs/CARD_INDEX.md` and `docs/IMAGE_PROMPTS.md`. Fix anything it reports and run it again until it says the deck is OK.
+4. Run `npm install` once, then `npm run sync`. This validates every card and refreshes `docs/CARD_INDEX.md` and `docs/IMAGE_PROMPTS.md`. Fix anything it reports and run it again until it says the deck is OK. Then run `npm run qc` and look at the possible duplicates it lists in `qc/report.md`: rewrite or drop any of your cards that repeats an existing one.
 5. Run `npm run build` to confirm the app still builds.
 6. Commit the pack files and the two refreshed files in `docs/`. Open a pull request against `main`. Do not push to `main` directly: `main` deploys to the live app.
 7. In the pull request description, state how many cards you added to each topic.

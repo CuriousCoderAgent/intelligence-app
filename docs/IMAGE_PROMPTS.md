@@ -2316,7 +2316,7 @@ Illustration of a twisted loop of pale paper floating in darkness with a small a
 Save as `math-largest-known-prime.png`
 
 ```text
-Illustration of an endless scroll of digits unrolling from a desk out through a window and away to the horizon. Colour palette: dark moss green and lime, on a dark background. Style: rich editorial illustration, painterly digital art with bold simplified shapes, dramatic cinematic lighting and a subtle film grain. No text, letters, numbers, logos, borders or watermarks anywhere in the image. Format: vertical 2:3 portrait, 1024 x 1536 pixels. Centre the main subject and place it about one third of the way down. Leave a little plain background above it. Keep the bottom 40% of the image dark, simple and free of detail, because it fades into a text panel.
+Illustration of an endless paper scroll unrolling from a desk out through a window and away to the horizon. Colour palette: dark moss green and lime, on a dark background. Style: rich editorial illustration, painterly digital art with bold simplified shapes, dramatic cinematic lighting and a subtle film grain. No text, letters, numbers, logos, borders or watermarks anywhere in the image. Format: vertical 2:3 portrait, 1024 x 1536 pixels. Centre the main subject and place it about one third of the way down. Leave a little plain background above it. Keep the bottom 40% of the image dark, simple and free of detail, because it fades into a text panel.
 ```
 
 ### math-pythagoras-before-pythagoras · Pythagoras' theorem was known long before Pythagoras

@@ -47,6 +47,8 @@ The exact rules are in `content/pack.schema.json`. The length limits exist so a 
 
 An id is how a reader's phone remembers that a card was read or saved, and it is the image file name. Once a card is merged, never change its id, never reuse an id for a different fact, and do not delete cards. Fixing a card's wording or a factual error in place is fine and welcome.
 
+A card that should no longer be shown, because it duplicates another or cannot be made true, is **retired**: add `{ "id": ..., "reason": ..., "replacedBy": ... }` to `content/retired.json`. It stays in its pack, its id stays reserved, and the app stops dealing it.
+
 The first 120 cards use numbered ids (`sci-01`). New cards use descriptive slugs, which cannot collide when two people add cards at the same time.
 
 ## What makes a good card
@@ -100,9 +102,14 @@ Optional. A card without a picture shows generated line art.
 | `npm run sync` | Validates `content/` and refreshes the card index and image prompts. Run after adding cards. |
 | `npm run check` | Validates `content/` only. Runs before every build. |
 | `npm run list [-- topic]` | Shows what is already in the deck. |
+| `npm run qc` | Scans the deck for likely duplicates, misfiled cards and style slips. Writes `qc/report.md`. |
 | `npm run images` | Optimises pictures from `image-inbox/`. |
 | `npm run dev` | Runs the app locally. Content edits reload the page. |
 | `npm run build` | Check, type-check and production build. This is what the host runs. |
+
+## Quality control
+
+A scheduled session checks the deck every night, following `qc/NIGHTLY.md`. It rules on likely duplicates, reads new cards closely, verifies their facts, corrects or retires what fails, and records what it did in `qc/LOG.md`. Run `npm run qc` yourself before submitting a batch: it will tell you if a new card looks like an existing one.
 
 ## How the app uses content
 
