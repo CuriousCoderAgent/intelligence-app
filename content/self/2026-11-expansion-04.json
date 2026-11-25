@@ -1,0 +1,26 @@
+[
+  {
+    "id": "self-study-cue-visibility",
+    "title": "Seeing the answer can make a study cue feel deceptively easy",
+    "body": "In experiments reported in 2005, Asher Koriat and Robert Bjork found that people overestimated their future recall when judging a cue while the answer was visible. At test time, that extra information was gone.",
+    "takeaway": "Estimate what you know from the prompt alone, in the same conditions you will face later.",
+    "source": "Koriat and Bjork, Journal of Experimental Psychology (2005)",
+    "visual": "a hand covering one half of an open page while reviewing"
+  },
+  {
+    "id": "self-four-minute-classroom-activity",
+    "title": "Four minutes of movement improved attention in one school study",
+    "body": "A 2015 study tested short classroom activity breaks with children aged 9 to 11. On a measure of selective attention, pupils performed better after four minutes of interval activity than after a sedentary break.",
+    "takeaway": "A break can occupy very little class time and still change how the next task begins.",
+    "source": "Ma, Le Mare and Gurd, Applied Physiology, Nutrition, and Metabolism (2015)",
+    "visual": "school pupils moving between desks during a short classroom break"
+  },
+  {
+    "id": "self-write-exam-worries",
+    "title": "Writing about exam worries helped in a 2011 study",
+    "body": "Gerardo Ramirez and Sian Beilock asked students to write about worries just before taking a test. In their experiments, scores rose most clearly among students who usually felt anxious about exams.",
+    "takeaway": "A short note can turn a diffuse worry into something you can name before returning to the task.",
+    "source": "Ramirez and Beilock, Science (2011)",
+    "visual": "a student writing privately at a desk before a test"
+  }
+]

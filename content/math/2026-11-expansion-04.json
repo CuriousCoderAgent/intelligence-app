@@ -1,0 +1,26 @@
+[
+  {
+    "id": "math-koch-perimeter-area",
+    "title": "The Koch snowflake fits infinite perimeter inside finite area",
+    "body": "Start with an equilateral triangle and replace the middle third of each edge with two sides of a smaller triangle. Repeat forever. Each step lengthens the edge, but the final area is only 1.6 times the original triangle's area.",
+    "takeaway": "A boundary can get longer indefinitely even while the extra area at each step shrinks quickly.",
+    "source": "Wolfram MathWorld, Koch Snowflake",
+    "visual": "a delicate snowflake outline assembled from tiny triangular points"
+  },
+  {
+    "id": "math-hanoi-doubling-moves",
+    "title": "One extra Hanoi disc more than doubles the work",
+    "body": "In the three-peg Tower of Hanoi, a larger disc cannot sit on a smaller one. With three discs the shortest solution takes seven moves. With four discs it takes 15, because the smaller stack must be moved twice around the largest disc's one move.",
+    "takeaway": "A simple change in input can make a problem grow exponentially.",
+    "source": "Wolfram MathWorld, Tower of Hanoi",
+    "visual": "a short stack of graduated wooden discs on one of three pegs"
+  },
+  {
+    "id": "math-pascal-sierpinski",
+    "title": "Odd numbers in Pascal's triangle form a fractal",
+    "body": "Build Pascal's triangle by adding the two entries directly above each position. Shade just the odd entries. As the triangle grows, the pattern repeats at smaller scales, forming the Sierpinski triangle.",
+    "takeaway": "A rule about whether a number is even or odd can uncover geometry hidden in arithmetic.",
+    "source": "Wolfram MathWorld, Pascal's Triangle and Sierpinski Sieve",
+    "visual": "a triangular arrangement of alternating light and dark pebbles with gaps repeating at several scales"
+  }
+]

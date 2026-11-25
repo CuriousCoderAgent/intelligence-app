@@ -1,0 +1,26 @@
+[
+  {
+    "id": "tech-osborne-portable-weight",
+    "title": "An early portable computer weighed about 11 kg",
+    "body": "The Osborne 1 went on sale in 1981. At about 11 kg, it packed a 13 cm display, two floppy drives and a keyboard into a case people could take from one desk to another.",
+    "takeaway": "Portable once meant you could carry the whole setup, even if you needed a table to use it.",
+    "source": "Computer History Museum, Timeline of Computer History (1981)",
+    "visual": "an open suitcase-style early computer with a small blank display"
+  },
+  {
+    "id": "tech-odyssey-no-software",
+    "title": "A 1972 home games console ran without stored software",
+    "body": "The Magnavox Odyssey connected to a television and could play several games, including a form of table tennis. It used electronic circuitry to make the screen images without a microprocessor or stored software.",
+    "takeaway": "The same kind of screen play can be built with dedicated circuits or with instructions for a general-purpose chip.",
+    "source": "Computer History Museum, Playing at Home",
+    "visual": "an unbranded early games console next to a television with simple dots of light"
+  },
+  {
+    "id": "tech-altair-switches",
+    "title": "The basic Altair computer took input through toggle switches",
+    "body": "The Altair 8800, introduced in 1975, had front-panel switches and lights in its basic configuration. A user could set bits with the switches and read values back from patterns of lights.",
+    "takeaway": "A keyboard and screen make the machine's electrical state easier to work with, but neither is essential for computing.",
+    "source": "Computer History Museum, Altair 8800 Front Panel",
+    "visual": "a vintage computer front panel with a row of small switches and lamps"
+  }
+]

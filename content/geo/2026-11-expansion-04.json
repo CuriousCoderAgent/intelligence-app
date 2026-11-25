@@ -1,0 +1,34 @@
+[
+  {
+    "id": "geo-namib-fog-dunes",
+    "title": "Fog supplies much of the water in Namibia's coastal dunes",
+    "body": "In the Namib Sand Sea, fog is the main source of water. It reaches extensive dune fields beside the Atlantic, where animals and plants live with very little rainfall.",
+    "takeaway": "A place can receive little rain and still have a recurring supply of moisture from the sea.",
+    "source": "UNESCO World Heritage Centre, Namib Sand Sea (2013)",
+    "visual": "fog rolling in from the Atlantic across tall desert dunes"
+  },
+  {
+    "id": "geo-kgari-rainforest-sand",
+    "title": "Rainforest grows on sand on Australia's largest sand island",
+    "body": "Off Queensland, K'gari is about 122 km long. Tall rainforest grows on its coastal dunes, and the island has freshwater lakes perched above the surrounding water table.",
+    "takeaway": "Sand can support a forest where water and nutrients accumulate long enough for trees to take hold.",
+    "source": "UNESCO World Heritage Centre, K'gari",
+    "visual": "a tall rainforest canopy just beyond a crest of pale coastal sand"
+  },
+  {
+    "id": "geo-iguazu-border-waterfall",
+    "title": "Iguazu Falls straddles two countries across about 2.7 km",
+    "body": "The Iguazu River drops about 80 metres over a basalt edge between Argentina and Brazil. Its semicircular brink divides into many cascades as the water passes around islands and ledges.",
+    "takeaway": "The shared falls make the same river landscape a conservation responsibility on both sides of the border.",
+    "source": "UNESCO World Heritage Centre, Iguazu and Iguacu National Parks",
+    "visual": "a broad curving line of cascades pouring into a misty gorge"
+  },
+  {
+    "id": "geo-ha-long-tower-karst",
+    "title": "The sea flooded a landscape of limestone towers in Vietnam",
+    "body": "Ha Long Bay and the neighbouring Cat Ba Archipelago include 1,133 islands and islets within their World Heritage boundary. Their steep limestone towers are part of a landscape shaped by the erosion of soluble rock and later invaded by the sea.",
+    "takeaway": "Some features that look like islands from a boat began as part of a landscape on land.",
+    "source": "UNESCO World Heritage Centre, Ha Long Bay and Cat Ba Archipelago",
+    "visual": "steep limestone pillars rising from still water in Ha Long Bay"
+  }
+]
