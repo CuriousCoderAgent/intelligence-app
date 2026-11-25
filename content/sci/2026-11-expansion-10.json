@@ -1,0 +1,26 @@
+[
+  {
+    "id": "sci-burgess-soft-fossils",
+    "title": "The Burgess Shale preserves parts that usually decay",
+    "body": "The Burgess Shale in the Canadian Rockies is known for fossils of soft-bodied marine animals. Impressions preserve details that a record made only of shells and bones would leave out.",
+    "takeaway": "What survives as a fossil can determine which creatures we even know existed.",
+    "source": "UNESCO World Heritage Centre, Canadian Rocky Mountain Parks",
+    "visual": "a soft-bodied marine fossil picked out by light on a dark shale slab"
+  },
+  {
+    "id": "sci-coral-tiny-skeletons",
+    "title": "A stony reef can be built by animals a few millimetres wide",
+    "body": "NOAA puts the typical width of many stony coral polyps at about 1 to 3 millimetres. The polyps secrete calcium carbonate skeletons, which accumulate into the hard structure of the reef.",
+    "takeaway": "A reef's size comes from small contributions repeated across many generations.",
+    "source": "NOAA Ocean Service, What Is a Coral Reef Made Of?",
+    "visual": "a close view of tiny coral polyps spread over a limestone reef"
+  },
+  {
+    "id": "sci-greenland-shark-lens-age",
+    "title": "Eye lenses helped date Greenland sharks that lived for centuries",
+    "body": "In 2016 researchers radiocarbon-dated the centres of eye lenses from 28 female Greenland sharks. The biggest shark, about 5 metres long, was estimated to be at least 272 years old at the lower end of the study's range.",
+    "takeaway": "A tissue formed early in life can retain a chemical clue to when an animal was born.",
+    "source": "Nielsen et al., Science (2016)",
+    "visual": "a Greenland shark swimming through dark cold water under a faint light"
+  }
+]

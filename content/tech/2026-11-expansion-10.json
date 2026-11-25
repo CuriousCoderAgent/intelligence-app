@@ -1,0 +1,26 @@
+[
+  {
+    "id": "tech-minitel-telephone-directory",
+    "title": "France offered an electronic phone directory before the Web",
+    "body": "France Telecom's Minitel service began trials in 1981. Subscribers used small terminals over telephone lines to search the directory and reach other services. Some services were charged through the phone bill.",
+    "takeaway": "A familiar telephone network could support public digital services before most homes had internet access.",
+    "source": "Computer History Museum, Minitel and Teletext: Long-Running Successes",
+    "visual": "a small Minitel terminal with an unmarked screen beside a telephone"
+  },
+  {
+    "id": "tech-codd-relational-data",
+    "title": "A proposal in 1970 freed database users from the storage layout",
+    "body": "Edgar F. Codd proposed the relational model at IBM in 1970. It represents data through relations, commonly shown as tables. A user can ask for rows meeting a condition without knowing where those records sit on a disk.",
+    "takeaway": "A database can change how it stores information while leaving the same questions available to users.",
+    "source": "Edgar F. Codd, A Relational Model of Data for Large Shared Data Banks (1970)",
+    "visual": "two grids of wooden tiles connected by matching coloured pieces"
+  },
+  {
+    "id": "tech-cooper-handheld-call",
+    "title": "A handheld mobile phone made a public call in 1973",
+    "body": "On 3 April 1973, Motorola engineer Martin Cooper demonstrated a prototype handheld mobile phone in New York. The device let him place a call while standing in the street.",
+    "takeaway": "The demonstration moved a call from a location, such as a house or car, to a device a person could carry.",
+    "source": "Computer History Museum, Oral History of Martin Cooper (2008)",
+    "visual": "a hand lifting a bulky early mobile telephone on a city pavement"
+  }
+]

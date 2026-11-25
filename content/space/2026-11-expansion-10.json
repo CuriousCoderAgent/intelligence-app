@@ -1,0 +1,18 @@
+[
+  {
+    "id": "space-gaia-three-trillion-observations",
+    "title": "Gaia recorded more than three trillion observations",
+    "body": "Between July 2014 and January 2025, the European Space Agency's Gaia mission gathered more than three trillion observations of about two billion stars and other objects. Repeated measurements let it track where stars were moving as well as where they were.",
+    "takeaway": "A sky map can record motion when the same objects are measured many times.",
+    "source": "European Space Agency, Gaia Mission",
+    "visual": "a small survey telescope set against a dense field of stars"
+  },
+  {
+    "id": "space-mariner-nine-dust-storm",
+    "title": "The first Mars orbiter arrived to a planet-wide dust storm",
+    "body": "NASA's Mariner 9 entered orbit around Mars in November 1971. A vast dust storm obscured much of the planet at first. The spacecraft could wait in orbit and then photograph the surface as the weather cleared.",
+    "takeaway": "An orbiter can revisit a place after conditions change, something a one-pass flyby cannot do.",
+    "source": "NASA Science, Mariner 9",
+    "visual": "the dusty disc of Mars with the tips of large volcanoes just visible"
+  }
+]
