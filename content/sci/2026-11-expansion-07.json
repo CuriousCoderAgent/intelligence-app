@@ -1,0 +1,34 @@
+[
+  {
+    "id": "sci-mistaken-point-fossils",
+    "title": "Newfoundland preserves large fossils about 560 million years old",
+    "body": "At Mistaken Point, on Newfoundland's coast, rocks dating from roughly 580 to 560 million years ago preserve large organisms from the Ediacaran Period. The rocks formed under deep marine conditions.",
+    "takeaway": "The fossils record large life appearing after an immense span of Earth's history dominated by microbes.",
+    "source": "UNESCO World Heritage Centre, Mistaken Point (2016)",
+    "visual": "fern-like Ediacaran fossils in a slab of coastal rock"
+  },
+  {
+    "id": "sci-joggins-three-ecosystems",
+    "title": "One coast preserves a coal-age forest and its neighbours",
+    "body": "The Joggins cliffs in Nova Scotia contain fossils from about 318 to 303 million years ago. Layers preserve traces of an estuarine bay, a floodplain rainforest and a fire-prone plain with freshwater pools.",
+    "takeaway": "Fossils can show how habitats were arranged near each other, rather than merely which species lived at the time.",
+    "source": "UNESCO World Heritage Centre, Joggins Fossil Cliffs (2008)",
+    "visual": "a fossil tree trunk embedded upright in layered coastal cliffs"
+  },
+  {
+    "id": "sci-shrimp-discharges-light",
+    "title": "A deep-sea shrimp can release a cloud of light",
+    "body": "NOAA has documented the deep-sea shrimp Heterocarpus ensifer emitting luminous material from glands near its mouth. A chemical reaction produces the light in the surrounding water.",
+    "takeaway": "Bioluminescence can move away from an animal, unlike colouring that stays on its body.",
+    "source": "NOAA Ocean Exploration, What Is Bioluminescence?",
+    "visual": "a deep-sea shrimp releasing a small glowing cloud into dark water"
+  },
+  {
+    "id": "sci-candela-eye-sensitivity",
+    "title": "The candela measures light in a way that accounts for human vision",
+    "body": "The candela measures brightness in a particular direction. Its international definition uses light at 540 terahertz, in the green part of the spectrum where the eye is highly sensitive in bright conditions.",
+    "takeaway": "Two lights with the same physical power can seem to have different brightness if their colours differ.",
+    "source": "US National Institute of Standards and Technology, Candela",
+    "visual": "a narrow green beam and a dimmer red beam emerging from a dark optical bench"
+  }
+]

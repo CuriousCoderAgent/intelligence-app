@@ -1,0 +1,18 @@
+[
+  {
+    "id": "math-six-people-ramsey",
+    "title": "Six people force a trio of mutual acquaintances or strangers",
+    "body": "Suppose each pair in a group of six has either met or never met. Pick one person. At least three others have the same relationship to them. Either two of those three form a matching trio with that person, or the three themselves form the opposite kind of trio.",
+    "takeaway": "A large enough group forces a pattern even when nobody planned the relationships.",
+    "source": "Wolfram MathWorld, Ramsey Number and Ramsey Graph",
+    "visual": "six small nodes connected by threads of two colours"
+  },
+  {
+    "id": "math-efron-dice-cycle",
+    "title": "Four dice can each be favoured against one of the others",
+    "body": "Bradley Efron's four dice have different sets of numbers on their faces. The first beats the second two-thirds of the time, and the same odds apply from the second to the third, the third to the fourth and the fourth back to the first.",
+    "takeaway": "The best die to choose depends on the one your opponent chooses.",
+    "source": "Wolfram MathWorld, Efron's Dice",
+    "visual": "four different-coloured dice arranged in a loose circle"
+  }
+]

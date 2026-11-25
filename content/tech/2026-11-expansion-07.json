@@ -1,0 +1,18 @@
+[
+  {
+    "id": "tech-germanium-point-contact",
+    "title": "The first transistor used two contacts on a sliver of germanium",
+    "body": "In 1947 John Bardeen and Walter Brattain demonstrated a semiconductor amplifier at Bell Labs. Their point-contact transistor used two metal contacts touching a small piece of germanium.",
+    "takeaway": "The device showed that a solid semiconductor could amplify a signal, work previously done by vacuum tubes.",
+    "source": "Computer History Museum, Invention of the Point-Contact Transistor (1947)",
+    "visual": "two fine metal contacts touching a tiny piece of germanium on a laboratory bench"
+  },
+  {
+    "id": "tech-daguerreotype-no-negative",
+    "title": "A daguerreotype is a photograph with no original negative",
+    "body": "Announced in 1839, Louis Daguerre's process made an image directly on a silver-coated copper plate. Each plate was a unique photograph, without a separate negative for printing duplicates.",
+    "takeaway": "Copies needed another act of photography, rather than another print from the same negative.",
+    "source": "Smithsonian National Museum of American History, Photograph of Louis Daguerre",
+    "visual": "a reflective photographic plate inside the open case of an early camera"
+  }
+]
