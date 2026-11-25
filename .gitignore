@@ -1,0 +1,10 @@
+node_modules/
+dist/
+dev-dist/
+*.log
+.DS_Store
+
+# Raw pictures waiting to be optimised. The optimised copies in
+# src/assets/cards/ are what the app ships, so only those are committed.
+image-inbox/*
+!image-inbox/.gitkeep
