@@ -1,0 +1,10 @@
+[
+  {
+    "id": "math-borromean-rings",
+    "title": "Three rings can be linked with no two linked on their own",
+    "body": "In a Borromean link, none of the three pairs of rings is linked. Yet all three together cannot be separated without breaking one. Remove any ring and the remaining two come apart.",
+    "takeaway": "Some properties belong to a whole arrangement and disappear when you look at its parts in pairs.",
+    "source": "Wolfram MathWorld, Borromean Rings",
+    "visual": "three flexible wire rings interlaced into a single small cluster"
+  }
+]

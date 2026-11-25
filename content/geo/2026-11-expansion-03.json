@@ -1,0 +1,26 @@
+[
+  {
+    "id": "geo-sundarbans-tidal-forest",
+    "title": "A single mangrove landscape spans India and Bangladesh",
+    "body": "The Sundarbans covers about 10,000 square kilometres of land and water on the Bay of Bengal. The tides reach into the forest through a network of channels across both countries.",
+    "takeaway": "The habitat follows the reach of tides and rivers across a national border.",
+    "source": "UNESCO World Heritage Centre, Sundarbans National Park and The Sundarbans",
+    "visual": "a broad tidal channel curling through dense mangrove forest"
+  },
+  {
+    "id": "geo-wadden-intertidal-flats",
+    "title": "The Wadden Sea exposes vast mudflats at low tide",
+    "body": "The Wadden Sea World Heritage property covers about 11,400 square kilometres along the coasts of Denmark, Germany and the Netherlands. Much of the landscape alternates between shallow water and exposed sand or mud as the tide moves.",
+    "takeaway": "For migrating shorebirds, the receding tide opens a feeding ground that disappears twice a day in many places.",
+    "source": "UNESCO World Heritage Centre, Wadden Sea",
+    "visual": "shallow channels winding across broad tidal flats beneath wheeling shorebirds"
+  },
+  {
+    "id": "geo-freshwater-stored-in-ice",
+    "title": "More than two-thirds of Earth's fresh water is frozen",
+    "body": "The US Geological Survey estimates that ice caps, glaciers and permanent snow hold about 69% of all Earth's fresh water. Groundwater accounts for most of the rest, while lakes and rivers hold much smaller shares.",
+    "takeaway": "Fresh water on a map tells you very little about how much of it is available at the surface.",
+    "source": "US Geological Survey, Water Science School, Where Is Earth's Water?",
+    "visual": "a broad glacier with a narrow stream emerging below it"
+  }
+]

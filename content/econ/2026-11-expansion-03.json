@@ -1,0 +1,34 @@
+[
+  {
+    "id": "econ-findex-account-gap",
+    "title": "The bank account gender gap narrowed in a 2021 survey",
+    "body": "In the World Bank's 2021 Global Findex, women in developing economies were 6 percentage points less likely than men to have a financial account. The gap had stood at around 9 points for many years.",
+    "takeaway": "Access can expand for both groups while the difference between them changes at a different pace.",
+    "source": "World Bank, Global Findex 2021",
+    "visual": "two plain bank passbooks resting next to a counter window"
+  },
+  {
+    "id": "econ-raj-railways-price-gaps",
+    "title": "India's early railways narrowed price gaps between regions",
+    "body": "Dave Donaldson used data from colonial India to study what happened as railway lines opened. His analysis found that trading became cheaper and prices for the same goods in different regions grew closer.",
+    "takeaway": "The effects of a railway can show up in a market stall as well as in passenger numbers.",
+    "source": "Dave Donaldson, American Economic Review (2018)",
+    "visual": "a freight train beside sacks of produce at a colonial-era Indian station"
+  },
+  {
+    "id": "econ-kenya-vendor-savings",
+    "title": "A savings account helped market vendors invest in one Kenyan trial",
+    "body": "In a study published in 2013, researchers offered some rural Kenyan traders help opening a savings account. Women selling goods at markets used the accounts and invested more in their businesses than comparable women without the offer.",
+    "takeaway": "A place to keep earnings can matter for a small business even when no one supplies a loan.",
+    "source": "Dupas and Robinson, American Economic Journal: Applied Economics (2013)",
+    "visual": "a Kenyan market stall holder counting earnings beside baskets of vegetables"
+  },
+  {
+    "id": "econ-remittances-external-finance",
+    "title": "Remittances topped foreign investment across developing economies in 2023",
+    "body": "The World Bank found that remittances to low- and middle-income economies exceeded foreign direct investment as a source of external finance in 2023. Remittances are transfers such as money workers abroad send home.",
+    "takeaway": "Households moving money across borders can be as consequential in aggregate as companies investing abroad.",
+    "source": "World Bank, Migration and Development Brief 40 (2024)",
+    "visual": "a hand passing an unmarked envelope across a small counter"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "sci-hydrothermal-vent-temperature",
+    "title": "Some deep-sea vents emit water above 400 degrees Celsius",
+    "body": "Water circulates down into the ocean floor and is heated by hot rock. At some hydrothermal vents it reaches more than 400 degrees Celsius, yet the pressure at depth prevents it from boiling as it would at the surface.",
+    "takeaway": "Whether water boils depends on its pressure as well as its temperature.",
+    "source": "NOAA Ocean Exploration, Hydrothermal Vents Fact Sheet",
+    "visual": "a dark plume rising from a chimney on the ocean floor"
+  },
+  {
+    "id": "sci-spring-tides-moon-aligns",
+    "title": "Spring tides can happen in any season",
+    "body": "Near a new moon or full moon, the Sun, Earth and Moon roughly line up. The Sun and Moon then reinforce each other's tidal effects, producing a larger range between high and low water, called a spring tide.",
+    "takeaway": "The name describes water springing higher, rather than the time of year.",
+    "source": "NOAA Ocean Service, What Are Spring and Neap Tides?",
+    "visual": "a very high tide washing around rocks beneath a full moon"
+  },
+  {
+    "id": "sci-lunar-day-tides",
+    "title": "A lunar day is about 50 minutes longer than a solar day",
+    "body": "Earth spins as the Moon moves around it in the same direction. A spot on Earth therefore takes an average of 24 hours and 50 minutes to line up with the Moon again.",
+    "takeaway": "This extra time helps explain why a coast's high tide generally comes later by the clock on successive days.",
+    "source": "NOAA Ocean Service, How Frequent Are Tides?",
+    "visual": "a still shoreline in moonlight with the Moon reflected on the water"
+  }
+]

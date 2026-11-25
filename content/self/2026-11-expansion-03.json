@@ -1,0 +1,26 @@
+[
+  {
+    "id": "self-reading-words-aloud",
+    "title": "Reading selected words aloud made them easier to recognise",
+    "body": "In eight experiments published in 2010, people read some words aloud and others silently. On later recognition tests, the words they had said aloud were more likely to stand out.",
+    "takeaway": "Say a few key terms aloud during a quiet review to give them a distinctive cue.",
+    "source": "MacLeod et al., Journal of Experimental Psychology: Learning, Memory, and Cognition (2010)",
+    "visual": "a person reading softly beside an open notebook at a desk"
+  },
+  {
+    "id": "self-high-confidence-correction",
+    "title": "Being sure of a wrong answer can make it easier to correct",
+    "body": "In a 2001 experiment, people answered general knowledge questions and rated their confidence. After seeing the correct answers, they were more likely to fix errors they had made with high confidence than errors they had guessed at.",
+    "takeaway": "Write down how sure you are before checking an answer. A confident mistake is worth revisiting.",
+    "source": "Butterfield and Metcalfe, Journal of Experimental Psychology (2001)",
+    "visual": "a hand turning over a blank answer card during a study session"
+  },
+  {
+    "id": "self-sleep-odour-cue",
+    "title": "A smell helped sleeping volunteers retain a spatial task",
+    "body": "In a 2007 study, volunteers learnt the positions of cards while smelling roses. When the odour returned during deep sleep, they remembered more of the locations than after sleep without that reminder.",
+    "takeaway": "The experiment gives researchers one way to probe which memories the sleeping brain is processing.",
+    "source": "Rasch et al., Science (2007)",
+    "visual": "a small rose on a bedside table in a dark sleep laboratory"
+  }
+]
