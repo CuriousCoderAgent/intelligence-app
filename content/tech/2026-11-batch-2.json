@@ -1,0 +1,82 @@
+[
+  {
+    "id": "tech-email-at-sign",
+    "title": "The @ in your email address was chosen in 1971",
+    "body": "Programmer Ray Tomlinson sent the first message between two computers on the ARPANET in 1971. He needed a symbol to separate the user's name from the machine's name and picked @ because it never appears in a person's name. He could not later remember what the message said.",
+    "takeaway": "A small choice made in an afternoon is now typed billions of times a day.",
+    "source": "Internet Hall of Fame",
+    "visual": "a bearded engineer at a 1970s teletype terminal between two room-sized computers joined by a single cable"
+  },
+  {
+    "id": "tech-coffee-pot-webcam",
+    "title": "The first webcam watched a coffee pot",
+    "body": "In 1991 researchers at the University of Cambridge pointed a camera at their shared coffee machine so that they could check from their desks whether the pot was full. In 1993 the picture went onto the web, where millions looked at it until it was switched off in 2001.",
+    "takeaway": "Many technologies begin as a fix for a small, local annoyance.",
+    "source": "University of Cambridge Computer Laboratory",
+    "visual": "an early 1990s video camera on a tripod pointed at a glass coffee pot in a cluttered computer lab corridor"
+  },
+  {
+    "id": "tech-wifi-name",
+    "title": "Wi-Fi does not stand for anything",
+    "body": "The technology's formal name was IEEE 802.11b Direct Sequence. In 1999 the industry group hired the brand agency Interbrand, which proposed Wi-Fi as a catchy echo of hi-fi. The phrase wireless fidelity was added to adverts afterwards and has no technical meaning.",
+    "takeaway": "A good name can matter as much as the engineering in getting a technology adopted.",
+    "source": "Wi-Fi Alliance; founding member Phil Belanger (2005)",
+    "visual": "concentric arcs of soft light radiating from a small box on a shelf through the rooms of a house at night"
+  },
+  {
+    "id": "tech-ada-lovelace",
+    "title": "The first computer program was published in 1843",
+    "body": "Ada Lovelace translated a paper on Charles Babbage's planned Analytical Engine and added notes three times its length. One set out, step by step, how the machine could calculate Bernoulli numbers. The engine was never built, so the program never ran.",
+    "takeaway": "She also saw that such a machine could handle music and symbols as well as numbers, a century before computers existed.",
+    "source": "Ada Lovelace, Notes on the Analytical Engine, Scientific Memoirs (1843)",
+    "visual": "a Victorian woman writing at a desk by lamplight beside an intricate brass machine of gears and columns"
+  },
+  {
+    "id": "tech-spam-origin",
+    "title": "Junk email is named after a comedy sketch about tinned meat",
+    "body": "In a 1970 Monty Python sketch, a cafe's customers are drowned out by a chorus chanting Spam, the tinned pork. Early internet users borrowed the word for messages that swamp everything else. The first mass email advert went to about 400 ARPANET users in 1978.",
+    "takeaway": "Roughly half of all email sent today is spam. Most of it is filtered out before you see it.",
+    "source": "Internet Society; Computer History Museum",
+    "visual": "an overflowing letterbox bursting with identical envelopes that pile up and bury a single handwritten letter"
+  },
+  {
+    "id": "tech-battery-cost",
+    "title": "Lithium-ion batteries are 97% cheaper than in 1991",
+    "body": "When Sony sold the first lithium-ion cells in 1991 they cost thousands of dollars for each kilowatt-hour of storage. By 2018 the price had fallen by about 97%, allowing for inflation. Three scientists behind the battery shared the 2019 Nobel Prize in Chemistry.",
+    "takeaway": "That price collapse is what made smartphones, electric cars and grid storage practical.",
+    "source": "Ziegler & Trancik, Energy & Environmental Science (2021)",
+    "visual": "a row of battery cells shrinking in size from a bulky early pack to a slim modern cell, with a steep descending slope behind"
+  },
+  {
+    "id": "tech-first-mouse",
+    "title": "The first computer mouse was a block of wood",
+    "body": "Douglas Engelbart's team built it at the Stanford Research Institute in 1964: a wooden shell with two metal wheels and one button. He showed it in public in 1968, in a demonstration that also introduced hypertext links, video calls and shared document editing.",
+    "takeaway": "The lab called it a mouse because the cable looked like a tail. Engelbart never earned royalties from it.",
+    "source": "SRI International; Doug Engelbart Institute",
+    "visual": "a small carved wooden box with a single red button and a trailing cord resting on a 1960s desk beside a round screen"
+  },
+  {
+    "id": "tech-qr-code",
+    "title": "The QR code was invented to track car parts",
+    "body": "Masahiro Hara designed it in 1994 at Denso Wave, a Toyota supplier, because barcodes held too little and scanned too slowly. The three corner squares let a scanner find it at any angle. Built-in error correction means a code can still be read with up to 30% of it damaged.",
+    "takeaway": "Denso chose not to enforce its patent, which is why QR codes are free to use everywhere.",
+    "source": "Denso Wave Incorporated",
+    "visual": "a factory conveyor of car components each tagged with a small square mosaic label, a scanner beam sweeping over them"
+  },
+  {
+    "id": "tech-year-2038",
+    "title": "Some computers will run out of time on 19 January 2038",
+    "body": "Unix systems count time as the number of seconds since 1 January 1970. Stored as a signed 32-bit number, that count reaches its maximum of 2,147,483,647 at 03:14:07 UTC on 19 January 2038, then wraps around to a date in 1901.",
+    "takeaway": "Modern systems use 64-bit time, which lasts 292 billion years. The risk lies in old embedded devices that are hard to update.",
+    "source": "The Open Group, POSIX standard; Linux kernel documentation",
+    "visual": "an old mechanical counter with its wheels about to roll over from all nines, mounted on a dusty circuit board"
+  },
+  {
+    "id": "tech-euv-lithography",
+    "title": "The most advanced chips are printed with light from exploding tin",
+    "body": "Inside an EUV lithography machine, a laser strikes 50,000 droplets of molten tin every second. Each becomes a plasma that gives off light with a wavelength of 13.5 nanometres. Mirrors polished almost to the level of single atoms focus it onto silicon.",
+    "takeaway": "Only one company, ASML in the Netherlands, makes these machines. Each costs well over 150 million dollars.",
+    "source": "ASML Holding; Carl Zeiss SMT",
+    "visual": "a laser beam striking a tiny falling droplet of molten metal inside a vacuum chamber, producing a violet flash"
+  }
+]

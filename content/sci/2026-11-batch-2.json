@@ -1,0 +1,82 @@
+[
+  {
+    "id": "sci-ocean-oxygen",
+    "title": "About half the oxygen you breathe comes from the sea",
+    "body": "Microscopic floating organisms called phytoplankton carry out photosynthesis in sunlit ocean water. Scientists estimate that they produce at least half of the oxygen made on Earth each year. One kind, Prochlorococcus, is the most abundant photosynthesiser on the planet.",
+    "takeaway": "Rainforests matter, but the ocean is the larger lung, and its work is done by things too small to see.",
+    "source": "US National Oceanic and Atmospheric Administration",
+    "visual": "a sunlit patch of deep blue ocean seen from below the surface, filled with glowing green specks and rising bubbles"
+  },
+  {
+    "id": "sci-mitochondria-origin",
+    "title": "Your cells are powered by former bacteria",
+    "body": "Mitochondria, which turn food into usable energy, carry their own small loop of DNA, separate from the rest of yours. They descend from free-living bacteria that were swallowed by another cell more than 1.5 billion years ago and stayed.",
+    "takeaway": "You inherit mitochondrial DNA only from your mother, which lets scientists trace maternal lines back for thousands of generations.",
+    "source": "Lynn Sagan (Margulis), Journal of Theoretical Biology (1967)",
+    "visual": "a large translucent cell gently engulfing a smaller glowing bean-shaped organism in dark water"
+  },
+  {
+    "id": "sci-coldest-place",
+    "title": "The coldest known place in the universe was a lab in Germany",
+    "body": "In 2021 physicists in Bremen cooled a cloud of rubidium atoms to 38 trillionths of a degree above absolute zero for about two seconds. Deep space is around 2.7 degrees above absolute zero, tens of billions of times warmer.",
+    "takeaway": "Near absolute zero, atoms stop behaving like separate particles and move together as a single wave.",
+    "source": "Deppner et al., Physical Review Letters (2021)",
+    "visual": "a tiny faint cloud of blue atoms suspended in a dark vacuum chamber, surrounded by frost-covered laboratory equipment"
+  },
+  {
+    "id": "sci-helium-on-sun",
+    "title": "Helium was found on the Sun before it was found on Earth",
+    "body": "During a solar eclipse in 1868, astronomers saw a yellow line in the Sun's spectrum that matched no known element. The new element was named after helios, the Greek word for the Sun. It was not isolated on Earth until 1895.",
+    "takeaway": "Light carries a fingerprint of whatever produced it. That is how we know what distant stars are made of.",
+    "source": "Royal Society of Chemistry",
+    "visual": "a Victorian astronomer at a brass telescope during an eclipse, a band of rainbow light with one bright yellow line beside him"
+  },
+  {
+    "id": "sci-open-label-placebo",
+    "title": "A placebo can work even when you know it is a placebo",
+    "body": "In a 2010 trial, patients with irritable bowel syndrome were given pills and told plainly that they contained no medicine. After three weeks they reported markedly more improvement than patients who were given no treatment.",
+    "takeaway": "Part of feeling better comes from the ritual of being cared for. It eases symptoms; it does not cure disease.",
+    "source": "Kaptchuk et al., PLOS ONE (2010)",
+    "visual": "a plain glass bottle of white pills on a doctor's desk, a soft glow around it and a caring hand resting nearby"
+  },
+  {
+    "id": "sci-single-photon-vision",
+    "title": "The human eye can detect a single particle of light",
+    "body": "In a 2016 experiment, volunteers sat in total darkness while a device sent exactly one photon into their eye on some trials. They judged whether one had arrived correctly more often than chance, and did better when another photon had come shortly before.",
+    "takeaway": "After about 40 minutes in the dark, your eyes approach the limit that physics allows.",
+    "source": "Tinsley et al., Nature Communications (2016)",
+    "visual": "a close view of a human eye in darkness with one tiny point of light travelling toward the pupil"
+  },
+  {
+    "id": "sci-triple-point",
+    "title": "Water can boil and freeze at the same moment",
+    "body": "At 0.01 degrees Celsius and about 0.6% of normal air pressure, ice, liquid water and vapour all exist together in balance. This is water's triple point. Pump the air out of a sealed flask and you can watch water boil while ice forms on it.",
+    "takeaway": "Boiling depends on pressure as well as heat. That is why water boils at about 70 degrees on top of Everest.",
+    "source": "International Bureau of Weights and Measures (BIPM)",
+    "visual": "a sealed glass flask in which water bubbles violently while a crust of ice spreads across its surface"
+  },
+  {
+    "id": "sci-gallium",
+    "title": "There is a metal that melts in your hand",
+    "body": "Gallium is solid at room temperature and melts at 29.8 degrees Celsius, below body temperature. It does not boil until well over 2,000 degrees, one of the widest liquid ranges of any element.",
+    "takeaway": "It is in the LED lights and fast phone chargers around you, in the form of gallium nitride.",
+    "source": "Royal Society of Chemistry",
+    "visual": "a shiny silver block of metal melting into a mirror-like puddle in the palm of an open hand"
+  },
+  {
+    "id": "sci-petrichor",
+    "title": "The smell of rain is made by bacteria",
+    "body": "Soil bacteria called Streptomyces produce a compound named geosmin. Raindrops hitting dry ground fling it into the air. Human noses are extraordinarily sensitive to it and can detect a few parts per trillion. Two Australian scientists named the smell petrichor in 1964.",
+    "takeaway": "The same compound gives beetroot its earthy taste.",
+    "source": "Bear & Thomas, Nature (1964); Joung & Buie, Nature Communications (2015)",
+    "visual": "the first heavy raindrops striking dry cracked earth and throwing up tiny misty plumes in low evening light"
+  },
+  {
+    "id": "sci-atoms-from-stars",
+    "title": "Most of the atoms in your body were made inside stars",
+    "body": "The hydrogen in you dates from the first minutes after the Big Bang. Nearly everything else, including your carbon, oxygen, calcium and iron, was forged by nuclear fusion in stars or in their explosive deaths, then scattered into the gas that formed the Sun and Earth.",
+    "takeaway": "By mass you are mostly oxygen and carbon, so you are mostly star-made, and your parts are billions of years old.",
+    "source": "Burbidge, Burbidge, Fowler & Hoyle, Reviews of Modern Physics (1957)",
+    "visual": "a human silhouette filled with stars and glowing nebula clouds, standing against a dark sky where a star is exploding"
+  }
+]
