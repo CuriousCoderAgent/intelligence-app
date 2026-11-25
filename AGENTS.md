@@ -2,11 +2,11 @@
 
 Lumen is a swipeable feed of short, sourced fact cards. Most contributions are **new cards**, and adding cards needs no code changes: cards are JSON files under `content/`.
 
-Read this file before adding content. `npm run check` enforces most of it and must pass.
+Read this file before adding content. `npm run check` enforces most of it and must pass. `docs/CHATGPT_BRIEF.md` is the long version, with worked examples, the on-screen dimensions and the picture specification.
 
 ## Add cards
 
-1. See what already exists so you do not repeat it:
+1. See what already exists so you do not repeat it. `docs/CARD_INDEX.md` lists every card id and title, or run:
    ```bash
    npm run list            # topics and card counts
    npm run list -- sci     # every id and title in one topic
@@ -15,7 +15,7 @@ Read this file before adding content. `npm run check` enforces most of it and mu
    - `<topic>` is a topic id from `content/topics.json` (`sci`, `hist`, ...).
    - `<pack-name>` is lowercase letters, digits and hyphens, e.g. `2026-12-oceans.json`.
    - At most 50 cards per file.
-3. Run `npm run check`, then `npm run prompts` (refreshes `docs/IMAGE_PROMPTS.md`), and commit both.
+3. Run `npm run sync`. It validates the deck and refreshes `docs/CARD_INDEX.md` and `docs/IMAGE_PROMPTS.md`. Commit your pack and both refreshed files.
 
 A pack is a JSON array of cards:
 
@@ -89,17 +89,17 @@ Add an entry to `content/topics.json` and at least one pack in `content/<id>/`:
 
 Optional. A card without a picture shows generated line art.
 
-1. `npm run prompts` writes one prompt per picture-less card to `docs/IMAGE_PROMPTS.md`.
-2. Save each generated image as `image-inbox/<card id>.png`.
+1. `docs/IMAGE_PROMPTS.md` has one prompt per picture-less card.
+2. Generate each image as a 1024 x 1536 portrait and save it as `image-inbox/<card id>.png`. `docs/CHATGPT_BRIEF.md` explains where the subject must sit in the frame.
 3. `npm run images` converts them to WebP in `src/assets/cards/`. Commit those.
 
 ## Commands
 
 | Command | What it does |
 | --- | --- |
-| `npm run check` | Validates `content/`. Must pass before committing. |
+| `npm run sync` | Validates `content/` and refreshes the card index and image prompts. Run after adding cards. |
+| `npm run check` | Validates `content/` only. Runs before every build. |
 | `npm run list [-- topic]` | Shows what is already in the deck. |
-| `npm run prompts` | Regenerates `docs/IMAGE_PROMPTS.md`. |
 | `npm run images` | Optimises pictures from `image-inbox/`. |
 | `npm run dev` | Runs the app locally. Content edits reload the page. |
 | `npm run build` | Check, type-check and production build. This is what the host runs. |
