@@ -1,7 +1,19 @@
 {
   "cards": {
+    "econ-01": {
+      "hash": "3644b626a455",
+      "reviewed": "2026-11-25"
+    },
     "econ-02": {
       "hash": "770a3d255dcb",
+      "reviewed": "2026-11-25"
+    },
+    "econ-04": {
+      "hash": "8e5eaf0bf158",
+      "reviewed": "2026-11-25"
+    },
+    "econ-05": {
+      "hash": "e1df371d9d82",
       "reviewed": "2026-11-25"
     },
     "econ-07": {
@@ -16,6 +28,14 @@
       "hash": "b9590a558fe5",
       "reviewed": "2026-11-25"
     },
+    "econ-first-public-shares": {
+      "hash": "9b37c4005400",
+      "reviewed": "2026-11-25"
+    },
+    "econ-pratham-remedial-learning": {
+      "hash": "feec757d4832",
+      "reviewed": "2026-11-25"
+    },
     "econ-raj-railways-price-gaps": {
       "hash": "f75256b9f457",
       "reviewed": "2026-11-25"
@@ -24,12 +44,24 @@
       "hash": "61a1bbe7cfdd",
       "reviewed": "2026-11-25"
     },
+    "eng-04": {
+      "hash": "7025b5dca3d3",
+      "reviewed": "2026-11-25"
+    },
+    "eng-05": {
+      "hash": "e98d3cc5dac6",
+      "reviewed": "2026-11-25"
+    },
     "eng-08": {
       "hash": "e24acbe332d1",
       "reviewed": "2026-11-25"
     },
     "eng-albula-railway-structures": {
       "hash": "8a3a3ec1beeb",
+      "reviewed": "2026-11-25"
+    },
+    "eng-falkirk-wheel": {
+      "hash": "1ad446894412",
       "reviewed": "2026-11-25"
     },
     "eng-pont-du-gard-water-crossing": {
@@ -44,16 +76,48 @@
       "hash": "5a4ee97d9325",
       "reviewed": "2026-11-25"
     },
+    "geo-chiribiquete-table-mountains": {
+      "hash": "8639cbdf2bf3",
+      "reviewed": "2026-11-25"
+    },
+    "geo-ganges-delta": {
+      "hash": "1d6d67bccbc3",
+      "reviewed": "2026-11-25"
+    },
     "geo-himachal-meltwater-catchments": {
       "hash": "3c138ea542c1",
+      "reviewed": "2026-11-25"
+    },
+    "geo-himalaya-rising": {
+      "hash": "305fe9b67094",
+      "reviewed": "2026-11-25"
+    },
+    "geo-iceland-rift": {
+      "hash": "6681064f8854",
+      "reviewed": "2026-11-25"
+    },
+    "geo-okavango-dry-season-flood": {
+      "hash": "c6aa6909489b",
       "reviewed": "2026-11-25"
     },
     "geo-sangha-parks-border": {
       "hash": "3cf9da9932d1",
       "reviewed": "2026-11-25"
     },
+    "geo-sargasso-sea": {
+      "hash": "4d1891a9c5ac",
+      "reviewed": "2026-11-25"
+    },
     "gk-09": {
       "hash": "06ca280c7bf9",
+      "reviewed": "2026-11-25"
+    },
+    "gk-chinese-tea-six-categories": {
+      "hash": "300bcdc3de69",
+      "reviewed": "2026-11-25"
+    },
+    "gk-denim-and-jeans": {
+      "hash": "3154b65329c7",
       "reviewed": "2026-11-25"
     },
     "gk-hindi-loanwords": {
@@ -72,6 +136,14 @@
       "hash": "99a51f763f06",
       "reviewed": "2026-11-25"
     },
+    "gk-lego-tyres": {
+      "hash": "719c66228787",
+      "reviewed": "2026-11-25"
+    },
+    "gk-olympic-oddities": {
+      "hash": "c051ccc8be4d",
+      "reviewed": "2026-11-25"
+    },
     "gk-penny-black": {
       "hash": "359f7b21452a",
       "reviewed": "2026-11-25"
@@ -84,12 +156,32 @@
       "hash": "d165d5feabca",
       "reviewed": "2026-11-25"
     },
+    "gk-snakes-and-ladders": {
+      "hash": "4e9c8fafe373",
+      "reviewed": "2026-11-25"
+    },
     "gk-statue-of-liberty-colour": {
       "hash": "7fd470083953",
       "reviewed": "2026-11-25"
     },
+    "gk-uzbek-palov-gathering": {
+      "hash": "15ca0f8bbdce",
+      "reviewed": "2026-11-25"
+    },
+    "hist-05": {
+      "hash": "3599c7a69c91",
+      "reviewed": "2026-11-25"
+    },
+    "hist-gobekli-tepe": {
+      "hash": "0620b9e49d35",
+      "reviewed": "2026-11-25"
+    },
     "hist-haeinsa-woodblocks": {
       "hash": "f27db0bd8801",
+      "reviewed": "2026-11-25"
+    },
+    "hist-sutton-hoo-ship-imprint": {
+      "hash": "62369f6e80b4",
       "reviewed": "2026-11-25"
     },
     "hist-tulip-mania": {
@@ -104,8 +196,16 @@
       "hash": "416c653d75f5",
       "reviewed": "2026-11-25"
     },
+    "math-cyclic-one-seventh": {
+      "hash": "cfe3444ecb0e",
+      "reviewed": "2026-11-25"
+    },
     "math-dominoes-chessboard-corners": {
       "hash": "5bc98aac62f8",
+      "reviewed": "2026-11-25"
+    },
+    "math-fibonacci-india": {
+      "hash": "fa45d40f53b5",
       "reviewed": "2026-11-25"
     },
     "math-konigsberg-bridges": {
@@ -114,6 +214,18 @@
     },
     "math-seven-shuffles": {
       "hash": "351030d1a5ab",
+      "reviewed": "2026-11-25"
+    },
+    "pol-01": {
+      "hash": "800fba6e8fe5",
+      "reviewed": "2026-11-25"
+    },
+    "pol-athens-lottery": {
+      "hash": "08d34c8e9e33",
+      "reviewed": "2026-11-25"
+    },
+    "pol-canada-chief-electoral-officer": {
+      "hash": "67d2667cd6b9",
       "reviewed": "2026-11-25"
     },
     "pol-council-europe-founders": {
@@ -140,6 +252,14 @@
       "hash": "41ff4dc609a4",
       "reviewed": "2026-11-25"
     },
+    "pol-rajya-sabha-staggered-terms": {
+      "hash": "1c4ed0c34d28",
+      "reviewed": "2026-11-25"
+    },
+    "pol-swiss-referendums": {
+      "hash": "ec7b9a671c2c",
+      "reviewed": "2026-11-25"
+    },
     "pol-un-council-abstention": {
       "hash": "66f9ef6bacb8",
       "reviewed": "2026-11-25"
@@ -148,12 +268,20 @@
       "hash": "7aa1d0d040b2",
       "reviewed": "2026-11-25"
     },
+    "sci-06": {
+      "hash": "132172b22760",
+      "reviewed": "2026-11-25"
+    },
     "sci-07": {
       "hash": "037f2d88130c",
       "reviewed": "2026-11-25"
     },
     "sci-caesium-defines-second": {
       "hash": "f38c1f41eaa9",
+      "reviewed": "2026-11-25"
+    },
+    "sci-candela-eye-sensitivity": {
+      "hash": "4bae09d6a105",
       "reviewed": "2026-11-25"
     },
     "sci-coldest-place": {
@@ -168,16 +296,48 @@
       "hash": "7cab88f263fe",
       "reviewed": "2026-11-25"
     },
+    "sci-hydrothermal-vent-temperature": {
+      "hash": "1e784715ec8e",
+      "reviewed": "2026-11-25"
+    },
     "sci-open-label-placebo": {
       "hash": "a98ce20ccb17",
+      "reviewed": "2026-11-25"
+    },
+    "self-07": {
+      "hash": "aef24fd2eb34",
+      "reviewed": "2026-11-25"
+    },
+    "self-commitment-contract": {
+      "hash": "7a26375d1739",
+      "reviewed": "2026-11-25"
+    },
+    "self-decorative-animation-recall": {
+      "hash": "c5e2789ee9b1",
+      "reviewed": "2026-11-25"
+    },
+    "self-digit-memory-trained-span": {
+      "hash": "a7a0da089938",
       "reviewed": "2026-11-25"
     },
     "self-ego-depletion": {
       "hash": "5f2a8df0d304",
       "reviewed": "2026-11-25"
     },
+    "self-habit-context": {
+      "hash": "4bcf242a485d",
+      "reviewed": "2026-11-25"
+    },
     "self-mental-rotation-angle": {
       "hash": "95dc639c0a27",
+      "reviewed": "2026-11-25"
+    },
+    "self-recalling-related-items": {
+      "hash": "7ec66c74d1f5",
+      "reviewed": "2026-11-25"
+    },
+    "self-self-reference-recall": {
+      "hash": "be78d4ffeef2",
       "reviewed": "2026-11-25"
     },
     "self-sleep-odour-cue": {
@@ -186,6 +346,10 @@
     },
     "self-study-cue-visibility": {
       "hash": "e7c145bcb45d",
+      "reviewed": "2026-11-25"
+    },
+    "self-worked-algebra-examples": {
+      "hash": "9d1b34a7fd54",
       "reviewed": "2026-11-25"
     },
     "soc-02": {
@@ -200,16 +364,56 @@
       "hash": "9963022e3dab",
       "reviewed": "2026-11-25"
     },
+    "soc-census-mother-tongue-returns": {
+      "hash": "68d72e3b587c",
+      "reviewed": "2026-11-25"
+    },
+    "soc-criminal-record-audit": {
+      "hash": "674ff180a690",
+      "reviewed": "2026-11-25"
+    },
     "soc-pew-multilingual-interviews": {
       "hash": "d0f98b875f93",
+      "reviewed": "2026-11-25"
+    },
+    "soc-south-africa-pension-households": {
+      "hash": "d4a73bf81f47",
+      "reviewed": "2026-11-25"
+    },
+    "soc-towel-social-proof": {
+      "hash": "be9dcc5c5e0e",
+      "reviewed": "2026-11-25"
+    },
+    "soc-world-megacity-growth": {
+      "hash": "6404edc48ac8",
+      "reviewed": "2026-11-25"
+    },
+    "space-02": {
+      "hash": "61750f77d07b",
+      "reviewed": "2026-11-25"
+    },
+    "space-07": {
+      "hash": "4624be9d7686",
       "reviewed": "2026-11-25"
     },
     "space-enceladus-icy-plumes": {
       "hash": "7f43bc334477",
       "reviewed": "2026-11-25"
     },
+    "space-great-red-spot": {
+      "hash": "1537749fd652",
+      "reviewed": "2026-11-25"
+    },
     "space-ingenuity-mars-flights": {
       "hash": "2d270c38d059",
+      "reviewed": "2026-11-25"
+    },
+    "space-io-tidal-volcanoes": {
+      "hash": "b26008a6081d",
+      "reviewed": "2026-11-25"
+    },
+    "space-pluto-nitrogen-ice": {
+      "hash": "7bed8f5068a9",
       "reviewed": "2026-11-25"
     },
     "space-saturn-rings": {
@@ -220,8 +424,20 @@
       "hash": "97bd00ff3d87",
       "reviewed": "2026-11-25"
     },
+    "space-trees-vs-stars": {
+      "hash": "46b8c3f31f5e",
+      "reviewed": "2026-11-25"
+    },
     "space-uranus-sideways-seasons": {
       "hash": "c7d37f5d8fca",
+      "reviewed": "2026-11-25"
+    },
+    "space-webb-segments-fold": {
+      "hash": "095d77196125",
+      "reviewed": "2026-11-25"
+    },
+    "tech-09": {
+      "hash": "f49f21294a2e",
       "reviewed": "2026-11-25"
     },
     "tech-10": {
@@ -236,8 +452,32 @@
       "hash": "b4ad81f7298d",
       "reviewed": "2026-11-25"
     },
+    "tech-email-at-sign": {
+      "hash": "fb778a522cad",
+      "reviewed": "2026-11-25"
+    },
     "tech-kodak-digital-camera": {
       "hash": "3a911d3006a6",
+      "reviewed": "2026-11-25"
+    },
+    "tech-magnetic-stripe-card": {
+      "hash": "4e4d8bee7f54",
+      "reviewed": "2026-11-25"
+    },
+    "tech-osborne-portable-weight": {
+      "hash": "f6389bf4ef73",
+      "reviewed": "2026-11-25"
+    },
+    "tech-pong-tavern-test": {
+      "hash": "1c7dea7d70a0",
+      "reviewed": "2026-11-25"
+    },
+    "tech-qr-code": {
+      "hash": "b2fd8a5fa0f5",
+      "reviewed": "2026-11-25"
+    },
+    "tech-wifi-name": {
+      "hash": "a27ea97f9268",
       "reviewed": "2026-11-25"
     }
   },
