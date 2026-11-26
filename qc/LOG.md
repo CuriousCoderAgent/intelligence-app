@@ -2,6 +2,13 @@
 
 Newest first. Each entry is written by the run described in `qc/NIGHTLY.md`.
 
+## 2026-11-26
+
+- Scanned 697 cards. No pairs to rule on. Read 60 cards closely. No card text was changed and none was retired.
+- Looked at the 31 cards the scan listed as possibly misfiled. None is plainly in the wrong topic.
+- **Needs the owner's eye**
+  - `sci-columbia-basalt-flood`: the title and body say most of the basalt erupted over 2.5 million years, between about 17 and 14.5 million years ago. That window does contain most of the lava, but the cited US Geological Survey page was not found to give the 14.5 figure, and recent dating puts most of the volume in a much shorter burst: about 93% between 16.7 and 15.6 million years ago in earlier work, and up to 83% in under 700,000 years in Kasbohm and Schoene (2018). The card may understate how fast it happened. Left unchanged.
+
 ## 2026-11-25 (second run, scheduled)
 
 - Scanned 697 cards. No pairs to rule on. Read 60 cards closely. No card text was changed and none was retired.
