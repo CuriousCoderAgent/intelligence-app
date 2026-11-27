@@ -1017,7 +1017,7 @@ Save as `sci-petrichor.png`
 Illustration of the first heavy raindrops striking dry cracked earth and throwing up tiny misty plumes in low evening light. Colour palette: deep ocean blue and bright cyan, on a dark background. Style: rich editorial illustration, painterly digital art with bold simplified shapes, dramatic cinematic lighting and a subtle film grain. No text, letters, numbers, logos, borders or watermarks anywhere in the image. Format: vertical 2:3 portrait, 1024 x 1536 pixels. Centre the main subject and place it about one third of the way down. Leave a little plain background above it. Keep the bottom 40% of the image dark, simple and free of detail, because it fades into a text panel.
 ```
 
-### sci-atoms-from-stars · Most of the atoms in your body were made inside stars
+### sci-atoms-from-stars · Most of your body's mass was made inside stars
 
 Save as `sci-atoms-from-stars.png`
 
@@ -2567,7 +2567,7 @@ Save as `tech-sketchpad-light-pen.png`
 Illustration of a light pen touching a simple geometric outline on an early computer display. Colour palette: deep violet and electric lavender, on a dark background. Style: rich editorial illustration, painterly digital art with bold simplified shapes, dramatic cinematic lighting and a subtle film grain. No text, letters, numbers, logos, borders or watermarks anywhere in the image. Format: vertical 2:3 portrait, 1024 x 1536 pixels. Centre the main subject and place it about one third of the way down. Leave a little plain background above it. Keep the bottom 40% of the image dark, simple and free of detail, because it fades into a text panel.
 ```
 
-### tech-game-boy-small-screen · The original Game Boy played cartridges on a 7.4 cm screen
+### tech-game-boy-small-screen · The original Game Boy played cartridges on a 6.6 cm screen
 
 Save as `tech-game-boy-small-screen.png`
 

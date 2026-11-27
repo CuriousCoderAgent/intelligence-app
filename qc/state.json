@@ -20,6 +20,10 @@
       "hash": "bd12f4a2ff8e",
       "reviewed": "2026-11-25"
     },
+    "econ-anchoring": {
+      "hash": "c46c14e55ee1",
+      "reviewed": "2026-11-27"
+    },
     "econ-bangladesh-garment-training": {
       "hash": "4f5fc3d8efbb",
       "reviewed": "2026-11-25"
@@ -28,9 +32,17 @@
       "hash": "257cda534801",
       "reviewed": "2026-11-26"
     },
+    "econ-chained-cpi-substitution": {
+      "hash": "1609d6982ded",
+      "reviewed": "2026-11-27"
+    },
     "econ-endowment-effect": {
       "hash": "b9590a558fe5",
       "reviewed": "2026-11-25"
+    },
+    "econ-findex-account-gap": {
+      "hash": "7caea62f6ec4",
+      "reviewed": "2026-11-27"
     },
     "econ-first-public-shares": {
       "hash": "9b37c4005400",
@@ -39,6 +51,14 @@
     "econ-gini-endpoints": {
       "hash": "0439f0a8c954",
       "reviewed": "2026-11-26"
+    },
+    "econ-india-gdp-share": {
+      "hash": "b7e029440f29",
+      "reviewed": "2026-11-27"
+    },
+    "econ-indonesia-1998-contraction": {
+      "hash": "51219a8e9197",
+      "reviewed": "2026-11-27"
     },
     "econ-kenya-grid-connection-demand": {
       "hash": "1c70c7944587",
@@ -76,9 +96,17 @@
       "hash": "e98d3cc5dac6",
       "reviewed": "2026-11-25"
     },
+    "eng-07": {
+      "hash": "62fc2b7b6169",
+      "reviewed": "2026-11-27"
+    },
     "eng-08": {
       "hash": "e24acbe332d1",
       "reviewed": "2026-11-25"
+    },
+    "eng-abu-simbel-relocation": {
+      "hash": "9a2445f16c87",
+      "reviewed": "2026-11-27"
     },
     "eng-albula-railway-structures": {
       "hash": "8a3a3ec1beeb",
@@ -91,6 +119,10 @@
     "eng-falkirk-wheel": {
       "hash": "1ad446894412",
       "reviewed": "2026-11-25"
+    },
+    "eng-great-pyramid-precision": {
+      "hash": "7001614df4a8",
+      "reviewed": "2026-11-27"
     },
     "eng-india-tsunami-warning-network": {
       "hash": "ee35d8982346",
@@ -112,6 +144,10 @@
       "hash": "144f0449ee52",
       "reviewed": "2026-11-26"
     },
+    "eng-vizcaya-suspended-gondola": {
+      "hash": "37ac13c3625b",
+      "reviewed": "2026-11-27"
+    },
     "geo-02": {
       "hash": "711ba74f3c90",
       "reviewed": "2026-11-25"
@@ -124,9 +160,17 @@
       "hash": "6a10278e090b",
       "reviewed": "2026-11-26"
     },
+    "geo-10": {
+      "hash": "8243861c56c6",
+      "reviewed": "2026-11-27"
+    },
     "geo-chiribiquete-table-mountains": {
       "hash": "8639cbdf2bf3",
       "reviewed": "2026-11-25"
+    },
+    "geo-diomede-islands": {
+      "hash": "3181ca6b832e",
+      "reviewed": "2026-11-27"
     },
     "geo-ganges-delta": {
       "hash": "1d6d67bccbc3",
@@ -148,9 +192,17 @@
       "hash": "4eaef6467374",
       "reviewed": "2026-11-26"
     },
+    "geo-jeju-lava-tubes": {
+      "hash": "36923bff7171",
+      "reviewed": "2026-11-27"
+    },
     "geo-magnetic-north": {
       "hash": "f2364dd6107c",
       "reviewed": "2026-11-26"
+    },
+    "geo-mid-ocean-ridge-length": {
+      "hash": "a04b15f4249c",
+      "reviewed": "2026-11-27"
     },
     "geo-ngoro-caldera-wildlife": {
       "hash": "42cc72885059",
@@ -160,6 +212,10 @@
       "hash": "c6aa6909489b",
       "reviewed": "2026-11-25"
     },
+    "geo-phong-nha-karst-age": {
+      "hash": "3bcb7e87a32a",
+      "reviewed": "2026-11-27"
+    },
     "geo-sangha-parks-border": {
       "hash": "3cf9da9932d1",
       "reviewed": "2026-11-25"
@@ -167,6 +223,18 @@
     "geo-sargasso-sea": {
       "hash": "4d1891a9c5ac",
       "reviewed": "2026-11-25"
+    },
+    "gk-02": {
+      "hash": "177758ea155c",
+      "reviewed": "2026-11-27"
+    },
+    "gk-04": {
+      "hash": "5d55ffb151e5",
+      "reviewed": "2026-11-27"
+    },
+    "gk-05": {
+      "hash": "6dd65c496316",
+      "reviewed": "2026-11-27"
     },
     "gk-09": {
       "hash": "06ca280c7bf9",
@@ -204,6 +272,10 @@
       "hash": "719c66228787",
       "reviewed": "2026-11-25"
     },
+    "gk-marathon-distance": {
+      "hash": "313a97dcf033",
+      "reviewed": "2026-11-27"
+    },
     "gk-mariachi-regional-languages": {
       "hash": "87d2a2da5141",
       "reviewed": "2026-11-26"
@@ -219,6 +291,14 @@
     "gk-penny-black": {
       "hash": "359f7b21452a",
       "reviewed": "2026-11-25"
+    },
+    "gk-png-languages": {
+      "hash": "a4a584a675d2",
+      "reviewed": "2026-11-27"
+    },
+    "gk-saffron": {
+      "hash": "fa501946d371",
+      "reviewed": "2026-11-27"
     },
     "gk-senufo-balafon-gourds": {
       "hash": "a2e65a1807ad",
@@ -248,9 +328,17 @@
       "hash": "314a89f0a6da",
       "reviewed": "2026-11-26"
     },
+    "hist-borobudur-perforated-stupas": {
+      "hash": "224829be8b10",
+      "reviewed": "2026-11-27"
+    },
     "hist-chan-chan-earthen-palaces": {
       "hash": "931f6d14ff7c",
       "reviewed": "2026-11-26"
+    },
+    "hist-dancing-plague": {
+      "hash": "72911614ed17",
+      "reviewed": "2026-11-27"
     },
     "hist-djenne-flood-mounds": {
       "hash": "4ca15d7f3545",
@@ -268,6 +356,10 @@
       "hash": "09ca6ced6b87",
       "reviewed": "2026-11-26"
     },
+    "hist-library-of-alexandria": {
+      "hash": "dad3903382a1",
+      "reviewed": "2026-11-27"
+    },
     "hist-mahabalipuram-outdoor-relief": {
       "hash": "d485e07b19cb",
       "reviewed": "2026-11-26"
@@ -279,6 +371,10 @@
     "hist-sutton-hoo-ship-imprint": {
       "hash": "62369f6e80b4",
       "reviewed": "2026-11-25"
+    },
+    "hist-timbuktu-schools-mosques": {
+      "hash": "3ce4efb2933a",
+      "reviewed": "2026-11-27"
     },
     "hist-tulip-mania": {
       "hash": "753e367457a1",
@@ -296,9 +392,17 @@
       "hash": "e15e09203d03",
       "reviewed": "2026-11-26"
     },
+    "math-08": {
+      "hash": "0752ba902a67",
+      "reviewed": "2026-11-27"
+    },
     "math-billiard-corner-bounces": {
       "hash": "416c653d75f5",
       "reviewed": "2026-11-25"
+    },
+    "math-borromean-rings": {
+      "hash": "37a4cbcf0d29",
+      "reviewed": "2026-11-27"
     },
     "math-buffon-needle-pi": {
       "hash": "94443e6b6fb1",
@@ -324,6 +428,10 @@
       "hash": "0f8e8284cd8c",
       "reviewed": "2026-11-26"
     },
+    "math-mobius-strip": {
+      "hash": "13a3e4881085",
+      "reviewed": "2026-11-27"
+    },
     "math-pascal-sierpinski": {
       "hash": "360052583ad4",
       "reviewed": "2026-11-26"
@@ -336,6 +444,10 @@
       "hash": "351030d1a5ab",
       "reviewed": "2026-11-25"
     },
+    "math-wilson-prime-factorial": {
+      "hash": "e8a0502822bf",
+      "reviewed": "2026-11-27"
+    },
     "pol-01": {
       "hash": "800fba6e8fe5",
       "reviewed": "2026-11-25"
@@ -344,9 +456,17 @@
       "hash": "08d34c8e9e33",
       "reviewed": "2026-11-25"
     },
+    "pol-austria-voting-age": {
+      "hash": "cb45b5199d82",
+      "reviewed": "2026-11-27"
+    },
     "pol-canada-chief-electoral-officer": {
       "hash": "67d2667cd6b9",
       "reviewed": "2026-11-25"
+    },
+    "pol-commons-speaker-secret-ballot": {
+      "hash": "996b1096e237",
+      "reviewed": "2026-11-27"
     },
     "pol-commons-walk-to-vote": {
       "hash": "900b9b6ed665",
@@ -368,6 +488,10 @@
       "hash": "c2ce43a910d2",
       "reviewed": "2026-11-25"
     },
+    "pol-india-voting-age-amendment": {
+      "hash": "affd492bbe57",
+      "reviewed": "2026-11-27"
+    },
     "pol-magna-carta": {
       "hash": "89943e102004",
       "reviewed": "2026-11-25"
@@ -375,6 +499,10 @@
     "pol-new-zealand-two-votes": {
       "hash": "41ff4dc609a4",
       "reviewed": "2026-11-25"
+    },
+    "pol-nota-india": {
+      "hash": "66bb58504da1",
+      "reviewed": "2026-11-27"
     },
     "pol-rajya-sabha-staggered-terms": {
       "hash": "1c4ed0c34d28",
@@ -404,6 +532,10 @@
       "hash": "7aa1d0d040b2",
       "reviewed": "2026-11-25"
     },
+    "sci-03": {
+      "hash": "f79c695ba75a",
+      "reviewed": "2026-11-27"
+    },
     "sci-06": {
       "hash": "132172b22760",
       "reviewed": "2026-11-25"
@@ -419,6 +551,14 @@
     "sci-09": {
       "hash": "c8047c730f26",
       "reviewed": "2026-11-26"
+    },
+    "sci-antarctic-icefish-blood": {
+      "hash": "671fcb29899c",
+      "reviewed": "2026-11-27"
+    },
+    "sci-atoms-from-stars": {
+      "hash": "291b11f11719",
+      "reviewed": "2026-11-27"
     },
     "sci-caesium-defines-second": {
       "hash": "f38c1f41eaa9",
@@ -444,9 +584,17 @@
       "hash": "7cab88f263fe",
       "reviewed": "2026-11-25"
     },
+    "sci-horseshoe-crab-arachnid-relative": {
+      "hash": "b47296384d13",
+      "reviewed": "2026-11-27"
+    },
     "sci-hydrothermal-vent-temperature": {
       "hash": "1e784715ec8e",
       "reviewed": "2026-11-25"
+    },
+    "sci-kilogram-redefinition": {
+      "hash": "9bd9b4575cc9",
+      "reviewed": "2026-11-27"
     },
     "sci-light-defines-metre": {
       "hash": "b7eaf57dfad4",
@@ -456,6 +604,10 @@
       "hash": "7a3726ef2d98",
       "reviewed": "2026-11-26"
     },
+    "sci-ocean-oxygen": {
+      "hash": "d70b12bf656b",
+      "reviewed": "2026-11-27"
+    },
     "sci-old-faithful-timing": {
       "hash": "d4338e7e56bf",
       "reviewed": "2026-11-26"
@@ -463,6 +615,10 @@
     "sci-open-label-placebo": {
       "hash": "a98ce20ccb17",
       "reviewed": "2026-11-25"
+    },
+    "self-02": {
+      "hash": "ec764e057934",
+      "reviewed": "2026-11-27"
     },
     "self-03": {
       "hash": "6e821ec50b83",
@@ -480,6 +636,10 @@
       "hash": "5f15b7493806",
       "reviewed": "2026-11-26"
     },
+    "self-09": {
+      "hash": "29493a275da6",
+      "reviewed": "2026-11-27"
+    },
     "self-commitment-contract": {
       "hash": "7a26375d1739",
       "reviewed": "2026-11-25"
@@ -496,6 +656,10 @@
       "hash": "5f2a8df0d304",
       "reviewed": "2026-11-25"
     },
+    "self-fresh-start-effect": {
+      "hash": "4f6591f024e7",
+      "reviewed": "2026-11-27"
+    },
     "self-growth-mindset-study": {
       "hash": "a0690927ef65",
       "reviewed": "2026-11-26"
@@ -503,6 +667,10 @@
     "self-habit-context": {
       "hash": "4bcf242a485d",
       "reviewed": "2026-11-25"
+    },
+    "self-high-confidence-correction": {
+      "hash": "e4bb76d339ca",
+      "reviewed": "2026-11-27"
     },
     "self-mental-rotation-angle": {
       "hash": "95dc639c0a27",
@@ -516,6 +684,10 @@
       "hash": "be78d4ffeef2",
       "reviewed": "2026-11-25"
     },
+    "self-short-breaks-vigilance-evidence": {
+      "hash": "5dfc8b90cfd4",
+      "reviewed": "2026-11-27"
+    },
     "self-sleep-odour-cue": {
       "hash": "7e7a1f3365a7",
       "reviewed": "2026-11-25"
@@ -527,6 +699,14 @@
     "self-sunk-cost-theatre": {
       "hash": "32e4869c04f7",
       "reviewed": "2026-11-26"
+    },
+    "self-unfinished-goal-plans": {
+      "hash": "80f846bc64fe",
+      "reviewed": "2026-11-27"
+    },
+    "self-walking-creativity": {
+      "hash": "63d92684e9a6",
+      "reviewed": "2026-11-27"
     },
     "self-worked-algebra-examples": {
       "hash": "9d1b34a7fd54",
@@ -543,6 +723,10 @@
     "soc-aapravasi-indentured-migration": {
       "hash": "9963022e3dab",
       "reviewed": "2026-11-25"
+    },
+    "soc-bali-subak-water-temples": {
+      "hash": "efd1154c9eba",
+      "reviewed": "2026-11-27"
     },
     "soc-census-mother-tongue-returns": {
       "hash": "68d72e3b587c",
@@ -564,13 +748,33 @@
       "hash": "30716ed9124e",
       "reviewed": "2026-11-26"
     },
+    "soc-pew-india-same-religion-spouses": {
+      "hash": "2c5e4c2d9efc",
+      "reviewed": "2026-11-27"
+    },
     "soc-pew-multilingual-interviews": {
       "hash": "d0f98b875f93",
       "reviewed": "2026-11-25"
     },
+    "soc-population-peaked-countries": {
+      "hash": "39412a1dfdca",
+      "reviewed": "2026-11-27"
+    },
+    "soc-resume-name-callbacks": {
+      "hash": "4765b1f58168",
+      "reviewed": "2026-11-27"
+    },
     "soc-south-africa-pension-households": {
       "hash": "d4a73bf81f47",
       "reviewed": "2026-11-25"
+    },
+    "soc-stanford-prison": {
+      "hash": "2006dec94439",
+      "reviewed": "2026-11-27"
+    },
+    "soc-sukur-work-and-belief": {
+      "hash": "27b5949d46b8",
+      "reviewed": "2026-11-27"
     },
     "soc-towel-social-proof": {
       "hash": "be9dcc5c5e0e",
@@ -588,6 +792,10 @@
       "hash": "61750f77d07b",
       "reviewed": "2026-11-25"
     },
+    "space-03": {
+      "hash": "3187e8999411",
+      "reviewed": "2026-11-27"
+    },
     "space-04": {
       "hash": "b802751e82e1",
       "reviewed": "2026-11-26"
@@ -595,6 +803,14 @@
     "space-07": {
       "hash": "4624be9d7686",
       "reviewed": "2026-11-25"
+    },
+    "space-08": {
+      "hash": "58d974fe0ff3",
+      "reviewed": "2026-11-27"
+    },
+    "space-51-pegasi-short-year": {
+      "hash": "6bc97b1cae77",
+      "reviewed": "2026-11-27"
     },
     "space-cosmic-microwave-background": {
       "hash": "05f22e9a3573",
@@ -619,6 +835,10 @@
     "space-mangalyaan": {
       "hash": "f7014903754c",
       "reviewed": "2026-11-26"
+    },
+    "space-new-horizons-pluto-distance": {
+      "hash": "e8dcc2b17b5c",
+      "reviewed": "2026-11-27"
     },
     "space-orbital-debris": {
       "hash": "1020ddfd2d87",
@@ -660,6 +880,10 @@
       "hash": "f890fb15b00b",
       "reviewed": "2026-11-26"
     },
+    "tech-01": {
+      "hash": "e4d871456f66",
+      "reviewed": "2026-11-27"
+    },
     "tech-04": {
       "hash": "75e8fae058ec",
       "reviewed": "2026-11-26"
@@ -680,6 +904,14 @@
       "hash": "6fb5848f7544",
       "reviewed": "2026-11-26"
     },
+    "tech-arpanet-first-message": {
+      "hash": "f34081fee94b",
+      "reviewed": "2026-11-27"
+    },
+    "tech-ascii-seven-bits": {
+      "hash": "daca5018c096",
+      "reviewed": "2026-11-27"
+    },
     "tech-eliza": {
       "hash": "b4ad81f7298d",
       "reviewed": "2026-11-25"
@@ -687,6 +919,14 @@
     "tech-email-at-sign": {
       "hash": "fb778a522cad",
       "reviewed": "2026-11-25"
+    },
+    "tech-game-boy-small-screen": {
+      "hash": "ce68722a9e1f",
+      "reviewed": "2026-11-27"
+    },
+    "tech-germanium-point-contact": {
+      "hash": "c92928139205",
+      "reviewed": "2026-11-27"
     },
     "tech-ibm-first-floppy": {
       "hash": "4f3d1fa80898",
