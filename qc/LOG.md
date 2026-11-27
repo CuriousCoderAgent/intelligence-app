@@ -2,6 +2,14 @@
 
 Newest first. Each entry is written by the run described in `qc/NIGHTLY.md`.
 
+## 2026-11-27
+
+- Scanned 697 cards. No pairs to rule on. Read 60 cards closely.
+- Looked at the 28 cards the scan listed as possibly misfiled. None is plainly in the wrong topic.
+- **Corrected**
+  - `sci-atoms-from-stars`: the title said most of the atoms in your body were made inside stars. By count about 62% of the body's atoms are hydrogen, which the body itself says dates from the Big Bang. The claim is true by mass, as the takeaway says, so the title now reads "Most of your body's mass was made inside stars" (hydrogen is about 62% of atoms and about 10% of mass in standard body-composition tables).
+  - `tech-game-boy-small-screen`: title and body said the screen was 7.4 cm across the diagonal, following the Computer History Museum timeline's 2.9 inches. The original Game Boy's display is 47 by 43 mm, 2.6 inches or about 6.6 cm diagonally (Centre for Computing History, and the standard hardware specification). Changed to 6.6 cm and the source to the Centre for Computing History.
+
 ## 2026-11-26
 
 - Scanned 697 cards. No pairs to rule on. Read 60 cards closely. No card text was changed and none was retired.
